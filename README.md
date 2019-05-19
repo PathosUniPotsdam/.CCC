@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+index.md = Willkommen  
+andere *.md = Störungsbilder  
+
+-----------------
+
+## Tutorial
 
 You can use the [editor on GitHub](https://github.com/corayli/PathosUniPotsdam/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

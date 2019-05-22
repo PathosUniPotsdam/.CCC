@@ -4,7 +4,7 @@ layout: default
 
 # Dysarthrophonie
 
-## Definition
+### Definition
 
 Dysarthrophonie ist eine sprechmotorische Störung, bei der eine beeinträchtigte Kontrolle der Sprechmuskulatur, bedingt durch Läsionen des zentralen und / oder peripheren Nervensystems vorliegt. 
 Es treten Probleme in der verbalen Kommunikation durch Lähmungen, Schwäche oder Dyskoordination der Sprechmuskulatur auf
@@ -17,7 +17,7 @@ Es treten Probleme in der verbalen Kommunikation durch Lähmungen, Schwäche ode
 
 **Synonyme** → Dysarthrie, Dysarthrophonie, Dysarthropneumophonie
 
-## Ätiologie
+### Ätiologie
 
 Dysarthrien können Begleitstörungen verschiedenartigster Grunderkrankungen sein z.B.
 
@@ -35,6 +35,10 @@ Dysarthrien können Begleitstörungen verschiedenartigster Grunderkrankungen sei
 (Enzephalitis, Meningitis, ...) 
 
 Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfälle, Schädel-Hirn-Traumata und M. Parkinson (Schubert, 2007) 
+
+### Leitsymptomatik
+
+#### differentialdiagnostische 
 
 
 ### Header 3

@@ -40,6 +40,9 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
 
 ### Differentialdiagnose
 
+Dysarthrophonien lassen sich abgrenzen von Störungen höherer kortikaler Hirnzentren, die z.B. zur sprechmotorischen Planung und Programmierung von Bewegungen (Sprechapraxie) oder zur linguistischen Planung / Sprachverarbeitung (Aphasie) dienen.
+
+
 ## Diagnostik
 
 ## Therapie

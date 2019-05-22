@@ -38,7 +38,11 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
 
 ### Leitsymptomatik
 
-#### differentialdiagnostische 
+#### Differentialdiagnose
+
+### Diagnostik
+
+### Therapie
 
 
 ### Header 3

@@ -4,22 +4,15 @@ layout: default
 
 # Dysarthrophonie
 
-Dysarthrophonie ist eine sprechmotorische Störung, bei der eine beeinträchtigte Kontrolle der Sprechmuskulatur, bedingt durch Läsionen des zentralen und / oder peripheren Nervensystems vorliegt. 
-Es treten Probleme in der verbalen Kommunikation durch Lähmungen, Schwäche oder Dyskoordination der Sprechmuskulatur auf.
-„Dysarthrophonie“ = o	Dys – von der Norm abweichend, krankhaft
-                    o	arthro – die Artikulation betreffend
-                    o	pneumo – die Atmung betreffend
-                    o	phonie – die Stimmgebung betreffend
-Synonyme → Dysarthrie, Dysarthrophonie, Dysarthropneumophonie
-
 ## Definition
 
 Dysarthrophonie ist eine sprechmotorische Störung, bei der eine beeinträchtigte Kontrolle der Sprechmuskulatur, bedingt durch Läsionen des zentralen und / oder peripheren Nervensystems vorliegt. 
 Es treten Probleme in der verbalen Kommunikation durch Lähmungen, Schwäche oder Dyskoordination der Sprechmuskulatur auf.
-„Dysarthrophonie“ = o	Dys – von der Norm abweichend, krankhaft
-                    o	arthro – die Artikulation betreffend
-                    o	pneumo – die Atmung betreffend
-                    o	phonie – die Stimmgebung betreffend
+„Dysarthrophonie“
+* Dys – von der Norm abweichend, krankhaft
+* arthro – die Artikulation betreffend
+* pneumo – die Atmung betreffend
+* phonie – die Stimmgebung betreffend
 Synonyme → Dysarthrie, Dysarthrophonie, Dysarthropneumophonie
 
 ### Header 3

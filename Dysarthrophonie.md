@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Definition
+# Dysarthrophonie
 
 Dysarthrophonie ist eine sprechmotorische Störung, bei der eine beeinträchtigte Kontrolle der Sprechmuskulatur, bedingt durch Läsionen des zentralen und / oder peripheren Nervensystems vorliegt. 
 Es treten Probleme in der verbalen Kommunikation durch Lähmungen, Schwäche oder Dyskoordination der Sprechmuskulatur auf.
@@ -20,11 +20,15 @@ Es treten Probleme in der verbalen Kommunikation durch Lähmungen, Schwäche ode
                     o	phonie – die Stimmgebung betreffend
 Synonyme → Dysarthrie, Dysarthrophonie, Dysarthropneumophonie
 
-## Header 2
+## Definition
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Dysarthrophonie ist eine sprechmotorische Störung, bei der eine beeinträchtigte Kontrolle der Sprechmuskulatur, bedingt durch Läsionen des zentralen und / oder peripheren Nervensystems vorliegt. 
+Es treten Probleme in der verbalen Kommunikation durch Lähmungen, Schwäche oder Dyskoordination der Sprechmuskulatur auf.
+„Dysarthrophonie“ = o	Dys – von der Norm abweichend, krankhaft
+                    o	arthro – die Artikulation betreffend
+                    o	pneumo – die Atmung betreffend
+                    o	phonie – die Stimmgebung betreffend
+Synonyme → Dysarthrie, Dysarthrophonie, Dysarthropneumophonie
 
 ### Header 3
 

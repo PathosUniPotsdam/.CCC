@@ -17,6 +17,19 @@ Es treten Probleme in der verbalen Kommunikation durch Lähmungen, Schwäche ode
 
 **Synonyme** → Dysarthrie, Dysarthrophonie, Dysarthropneumophonie
 
+## Ätiologie
+
+Dysarthrien können Begleitstörungen verschiedenartigster Grunderkrankungen sein z.B.
+
+*	Zerebrovaskuläre Erkrankungen (Schlaganfall, Aneurysmenruptur, ...) 
+*	Degenerative Erkrankungen (M. Parkinson, Multiple Sklerose, Amyotrophe,	Lateralsklerose, ...) 
+*	Traumatische Erkrankungen (Schädelhirntrauma, Schädelbruch, ...) 
+*	Toxische Ursachen (Drogenmissbrauch, ...) 
+*	Infektionskrankheiten (AIDS, M. Creutzfeldt-Jacob, Herpes Zoster, ...) 
+*	Entzündungen (Enzephalitis, Meningitis, ...) 
+*	Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfälle, Schädel-Hirn-Traumata und M. Parkinson (Schubert, 2007) 
+
+
 ### Header 3
 
 ```js

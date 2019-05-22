@@ -13,6 +13,7 @@ Es treten Probleme in der verbalen Kommunikation durch Lähmungen, Schwäche ode
 * arthro – die Artikulation betreffend
 * pneumo – die Atmung betreffend
 * phonie – die Stimmgebung betreffend
+
 Synonyme → Dysarthrie, Dysarthrophonie, Dysarthropneumophonie
 
 ### Header 3

@@ -23,11 +23,11 @@ Zu 9 Prozent handelt es sich bei einer neurologisch bedingten Sprechstörung um 
 
 ## Ätiologie
 
-## Leitsymptomatik
-
 Das Auftreten einer Sprechapraxie kann verschiedene Ursachen haben, zumeist ist sie jedoch Folge eines Schlaganfalls (Insult, cerebrale Durchblutungsstörung) oder Schädel-Hirn-Traumas, bei welchen linkshemisphärisches Hirngewebe vor allem rund um das Versorgungsgebiet der mittleren Hirnarterie (Arteria cerebri media) irreversibel beschädigt bzw. zerstört wird.  Die entstandenen Läsionen werden somit zumeist im Broca Areal, im motorischen Gesichtskortex, in der Inselregion und den darunter liegenden Marklagern oder/sowie in den angrenzenden Bereichen des frontalen Operculums identifiziert. 
 Sprechapraxien treten nur in sehr seltenen Fällen „rein“ (etwa 10% der Fälle) also ohne jegliche, zusätzliche Begleiterkrankungen auf. Häufig verlaufen sie komorbid mit einer Hemiparese/ Facialisparese auf der rechten Seite, mit einer buccofacialen Apraxie (BFA) und/oder einer Aphasie (APH). Bei den Aphasien handelt es sich aufgrund der Läsionslokalisation zumeist um eine Broca- Aphasie, Leitungsaphasie oder globale Aphasie. 
 Sprechapraxien können zum Beispiel aber auch bei Tumorerkrankungen, Entzündungen, choreatischen Krankheitsbildern, Multipler Sklerose, Ataxien und Dystonien (Bewegungsstörungen) auftreten. 
+
+## Leitsymptomatik
 
 Bei einer Sprechapraxien lassen sich drei Symptomkategorien bzw. folgenden Beobachtungsebenen unterscheiden:
 *	segmentale Ebene („articulation“): 
@@ -35,7 +35,19 @@ Auf der Ebene der Lautbildung kommt es bei sprechapraktischen Patientin häufig 
 Auf dieser Ebene kann es möglicherweise auch zu sogenannten „Mischformen“ kommen, genauer gesagt zu phonetisch entstellten phonematischen Paraphasien.
 *	suprasegmentale Ebene („prosody“): Auf der Ebene der Prosodie/ des Redeflusses sind oft Verlangsamungen und Unflüssigkeiten durch z.B. Fehlversuche oder Selbstkorrekturen, Nivellierung von Akzentkontrasten und Intonationsmustern sowie Iterationen (Wiederholungen) von Lauten, Silben und Wörtern zu verzeichnen. Zudem fallen Betroffenen häufig durch eine silbische (skandierende) Sprechweise und inadäquate bzw. inadäquat lange Pausen auf. Das Symptom der „Dysprosodie“, eine unnatürliche, monotone Sprechweise, ist momentan noch sehr umstritten, kann jedoch auch zu den primären Defiziten gezählt werden. 
 *	Sprechverhalten („fluency“): Auf der Ebene des Sprechverhaltens lassen sich bei den Patienten häufig artikulatorische zum Teil stumme Suchbewegungen und sichtbare sowie hörbare Sprechanstrengung ausmachen. Die Betroffenen besitzen meist ein stark ausgeprägtes Störungsbewusstsein. Die Sprechweise ist oft stark verlangsamt, wirkt unnatürlich und ist schwer verständlich, wodurch dementsprechend auch ein hoher Leidensdruck durch die Unzufriedenheit mit den eigenen Leistungen bei den Patienten zustande kommt.
+
+## Differentialdiagnostik
+
 Bei einer Sprechapraxie ist zu beachten, dass die Symptomatik sehr variabel ist. Das Vorkommen der Symptome ist bei jedem Patienten sehr individuell und auch treten die Fehler inkonstant, d.h. ein Laut wird nicht durchgängig falsch realisiert, und inkonsequent, d.h. die Art der falschen Realisierung ist nicht immer gleich, auf.  Auch kann es zu sogenannten „Inseln intakter Sprachproduktion“ kommen. In diesem Fall sind nicht alle verbalen Äußerungen des Patienten von Symptomen betroffen, es kann ganze symptomfreie Passagen geben. Dies ist von dem jeweiligen Automatisierungsgrad und dem Kommunikationskontext abhängig.
+
+Zunächst ist es grundlegend, zwischen Sprechstörungen (Sprechapraxien, Dysarthrien) und Sprachstörungen (Aphasien) zu unterscheiden. Bei Sprachstörungen ist es den Betroffenen nicht möglich, Sprache richtig zu verstehen und zu verarbeiten sowie auf bestimmte Worte zuzugreifen und daraus korrekte Sätze zu bilden. Hier sind alle sprachlichen Modalitäten (Sprachproduktion, Sprachverständnis, Lesen und Schreiben) betroffen. Bei den Sprechstörungen sind diese Fähigkeiten nicht eingeschränkt. 
+Anhand des nebenstehenden Sprachproduktionsmodells von Levelt (Levelt et al. 1989) lassen sich die verschiedenen Störungsschwerpunkte im System der verschiedenen Störungsbilder gut erkennen. --> blau = Aphasie, orange = Sprechapraxie, grün = Dysarthrie
+
+Da die Sprechstörungen Sprechapraxie in den meisten Fällen kombiniert/ assoziiert mit Aphasie und/ oder Dysarthrophonie auftritt, ist das Durchführen einer Differentialdiagnostik grundlegend, wenn auch erschwert, da sich die Störungsbilder zum Teil ähneln.
+Um dies zu ermöglichen sollten verschiedene Diagnostikinstrumente durchgeführt werden. Materialien wie zum Beispiel eine Spontansprachanalyse, die 10-Punkte-Checkliste (Liepold et al. 2003) und der Aachener Aphasie Test (Huber et al. 1983), v.a. mit Blick auch die Untertest der mündlichen Sprachproduktion, durchgeführt werden.
+
+Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehend von den sprechapraktischen Symptomen.
+
 
 ### Header 3
 

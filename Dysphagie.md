@@ -38,7 +38,7 @@ Als klinische Prädikatoren einer Dysphagie gelten die folgenden Symptome:
 *	verändertes Esstempo
 *	Nahrungsvermeidung / -verweigerung
 
-Begleitend können Dysarthrophonien [Link to another page](./dysarthrophonie.html). (= Sprechstörungen) und / oder Dysphonien  (= Stimmstörungen) auftreten, sollten jedoch differentialdiagnostisch abgegrenzt werden.
+Begleitend können [Dysarthrophonien](https://corayli.github.io/PathosUniPotsdam/Dysarthrophonie.html). (= Sprechstörungen) und / oder Dysphonien  (= Stimmstörungen) auftreten, sollten jedoch differentialdiagnostisch abgegrenzt werden.
 
 
 Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Schluckaktes in der oralen, pharyngealen und / oder ösophagealen Phase.

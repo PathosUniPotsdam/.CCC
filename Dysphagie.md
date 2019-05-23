@@ -7,21 +7,21 @@ layout: default
 Eine Dysphagie ist eine Schluckstörung, beeinträchtigt also die Fähigkeit Boli wie Speisen und Getränke oder Speichel vom Mund in den Verdauungstrakt zu befördern, ohne dabei die Atemwege zu gefährden. 
 Die Ursache von Dysphagien ist breit gefächert und tritt bei Menschen jeglicher Altersgruppen, gehäuft jedoch bei zunehmendem Alter auf. Schluckstörungen können als Resultat verschiedenster Grunderkrankungen auftreten. 
 
-> dys - von der Norm abweichend, krankhaft
-> phagein - essen, schlucken
+* dys - von der Norm abweichend, krankhaft
+* phagein - essen, schlucken
 
 ## Ätiologie
-> _neurogen:_ 
+* _neurogen:_ 
 Schlaganfall/Blutungen, Schädel-Hirn-Trauma, degenerative Erkrankungen (z.B. Demenz, M. Parkinson, ALS, MS), Hirnhautentzündung, Muskelerkrankungen
-> _psychogen:_ 
+* _psychogen:_ 
 Verhaltensstörungen, Essstörungen, Phagophobie (= Schluckangst), gestörte Eltern-Kind-Interaktion
->	_nach Operationen:_ 
+*	_nach Operationen:_ 
 Tumore im Mund-, Hals- und Kopfbereich, Tumore der (oberen) Speiseröhre, Lippen-Kiefer-Gaumen-Spalten, Halswirbelsäule, strukturelle / funktionelle Veränderungen
->	_im Kindesalter:_ 
+*	_im Kindesalter:_ 
 Lippen-Kiefer-Gaumen-Spalten, Tonsillenhyperplasie (= vergrößerte Gaumen- / Rachenmandel), Bewegungsstörungen / Motilitätsstörungen, Missbildungssyndrome, neurologische Erkrankung (ZNS, PNS, Muskeln, nach Tumoroperationen, usw.)
->	_im fortschreitenden Alter:_ 
+*	_im fortschreitenden Alter:_ 
 Presbyphagie (= altersbedingte Schluckveränderungen), Bewegungsstörungen / Motilitätsstörungen, Demenzerkrankungen, Antriebsstörungen
->	_andere:_ 
+*	_andere:_ 
 Ösophaguserkrankungen (z.B. neuromuskulär bedingter Reflux), Vergiftungen / Verätzungen des Speisewegs, nach Langzeitintubation, nach Strahlen- oder Chemotherapie
 
 ### Folgen

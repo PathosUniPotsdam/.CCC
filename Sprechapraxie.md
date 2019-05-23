@@ -10,10 +10,12 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Sprechapraxie - Indikationsschlüssel: **SP6**
+# Sprechapraxie 
+
+## Indikationsschlüssel: **SP6**
 
 
-## Definition
+### Definition
 
 Sprechapraxie beschreibt eine Störung in der Planung sowie Programmierung von bereits erlernten Sprechbewegungen und zählt zu den erworbenen sprechmotorischen Störungen. Das Störungsbild wird den ideomotorischen Apraxien (Störung der Bewegungsplanung) zugeordnet.
 Zu 9 Prozent handelt es sich bei einer neurologisch bedingten Sprechstörung um eine Sprechapraxie.

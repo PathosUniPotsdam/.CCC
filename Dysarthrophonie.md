@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Dysarthrophonie - SP6
+# Dysarthrophonie 
+**Indikationsschlüssel: SP6**
 
 ## Definition
 

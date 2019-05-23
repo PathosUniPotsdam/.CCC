@@ -1,7 +1,7 @@
 index.md = Willkommen  
 andere *.md = Störungsbilder  
 
-Link: [https://corayli.github.io/PathosUniPotsdam](https://corayli.github.io/PathosUniPotsdam/Sprechapraxie.html)
+Link: [https://pathosunipotsdam.github.io/PathosUniPotsdam/](https://pathosunipotsdam.github.io/PathosUniPotsdam/.html)
 
 -----------------
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# Dysphagie - SC1
+# Dysphagie
+**Indikationsschlüssel: SC1**
 
 ## Definition
 Eine Dysphagie ist eine Schluckstörung, beeinträchtigt also die Fähigkeit Boli wie Speisen und Getränke oder Speichel vom Mund in den Verdauungstrakt zu befördern, ohne dabei die Atemwege zu gefährden. 
@@ -46,9 +47,9 @@ Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Sc
 ### Schluckphasen
 ![Branching](https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png)
 
-### Physiologie des Schluckens**
+### Physiologie des Schluckens
 
-### Pathologie des Schluckens**
+### Pathologie des Schluckens
 
 
 ## Diagnostik
@@ -58,7 +59,7 @@ Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Sc
 ### Klinische Schluckuntersuchung
 
 
-##Therapie
+## Therapie
 
 
 

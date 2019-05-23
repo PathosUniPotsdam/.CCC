@@ -48,6 +48,12 @@ Um dies zu ermöglichen sollten verschiedene Diagnostikinstrumente durchgeführt
 
 Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehend von den sprechapraktischen Symptomen.
 
+| Fehlertypen  | Sprechapraxie | Dysarthrophonie | Dysarthrophonie |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 ### Header 3
 

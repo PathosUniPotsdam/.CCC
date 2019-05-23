@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Dysarthrophonie
+# Dysarthrophonie - SP6
 
 ## Definition
 

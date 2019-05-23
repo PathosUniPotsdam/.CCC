@@ -1,4 +1,4 @@
-                                                          # Sprechapraxie 
+#                                                            Sprechapraxie 
 
 
 **Indikationsschlüssel: SP6**

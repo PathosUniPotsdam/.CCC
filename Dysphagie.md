@@ -21,7 +21,7 @@ Tumore im Mund-, Hals- und Kopfbereich, Tumore der (oberen) Speiseröhre, Lippen
 *	_im Kindesalter:_ 
 Lippen-Kiefer-Gaumen-Spalten, Tonsillenhyperplasie (=vergrößerte Gaumen- / Rachenmandel), Bewegungsstörungen / Motilitätsstörungen, Missbildungssyndrome, neurologische Erkrankung (ZNS, PNS, Muskeln, nach Tumoroperationen, usw.)
 *	_im fortschreitenden Alter:_ 
-Presbyphagie (= altersbedingte Schluckveränderungen), Bewegungsstörungen / Motilitätsstörungen, Demenzerkrankungen, Antriebsstörungen
+Presbyphagie (=altersbedingte Schluckveränderungen), Bewegungsstörungen / Motilitätsstörungen, Demenzerkrankungen, Antriebsstörungen
 *	_andere:_ 
 Ösophaguserkrankungen (z.B. neuromuskulär bedingter Reflux), Vergiftungen / Verätzungen des Speisewegs, nach Langzeitintubation, nach Strahlen- oder Chemotherapie
 
@@ -34,8 +34,8 @@ Als klinische Prädikatoren einer Dysphagie gelten die folgenden Symptome:
 *	abnormaler willkürlicher Husten
 *	Husten  nach  der Nahrungsaufnahme wie Trinken oder Essen 
 *	erschwerte Atmung / Atemgeräusche
-*	Veränderung  des  Stimmklangs (= wet voice)
-*	Speichelfluss (= Drooling)
+*	Veränderung  des  Stimmklangs (=wet voice)
+*	Speichelfluss (=Drooling)
 *	verändertes Esstempo
 *	Nahrungsvermeidung / -verweigerung
 

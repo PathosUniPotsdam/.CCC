@@ -56,17 +56,17 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 | Phonetische Fehler                  | ✓ inkonstant, inkonsistent | ✓ konstant     | -               |
 | Phonologische Fehler                | ✓ initial                  | -               | ✓ final, inkonsequent |
 | Artikulationsfehler                 | ✓ (eher Silben-/ Wortanfang und Konsonantenverbindungen) | ✓ (eher Wort-/ Äußerungsende und Konsonantenverbindungen)              | ✓               |
-| Skandierende Sprechweise            | ✓             | (✓)            | -               |
-| Sprechpausen                        | ✓             | ✓              | ✓               |
+| Skandierende Sprechweise            | ✓             | (✓) ataktische Dysarthrie            | -               |
+| Sprechpausen                        | ✓             | ✓              | (✓) abhängig von Form und Schweregrad               |
 | Fehlstarts                          | ✓             | -               | -               |
-| Selbstkorrekturen                   | ✓             | -               | (✓)             |
+| Selbstkorrekturen                   | ✓             | -               | (✓) abhängig von Form und Schweregrad             |
 | Redefluss- und Akzentuierungsfehler | ✓             | ✓              | -                |
 | Störungen in der Stimmgebung, Phonation, Sprechatmung und Resonanz       | -             | ✓               | -               |
 | Artikulatorisches Suchverhalten     | ✓             | -               | -               |
 | Sprechanstrengung                   | ✓             | ✓               | ✓              |
-| Störungsbewusstsein                 | ✓             | ✓               | (✓)            |
-| Inseln intakter Sprachproduktion    | ✓             | -               | ✓              |
-| Normales Sprechtempo                | -              | -               | ✓              |
+| Störungsbewusstsein                 | ✓             | ✓               | (✓) abhängig vom Schweregrad            |
+| Inseln intakter Sprachproduktion    | ✓             | -               | ✓ Leitungsaphasie              |
+| Normales Sprechtempo                | - verlangsamt              | - verlangsamt               | ✓              |
 
 ## Diagnostik
 

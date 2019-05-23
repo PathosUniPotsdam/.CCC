@@ -12,32 +12,43 @@ Die Ursache von Dysphagien ist breit gefächert und tritt bei Menschen jeglicher
 
 ## Ätiologie
 * _neurogen:_ 
-
 Schlaganfall/Blutungen, Schädel-Hirn-Trauma, degenerative Erkrankungen (z.B. Demenz, M. Parkinson, ALS, MS), Hirnhautentzündung, Muskelerkrankungen
 * _psychogen:_ 
-
 Verhaltensstörungen, Essstörungen, Phagophobie (= Schluckangst), gestörte Eltern-Kind-Interaktion
 *	_nach Operationen:_ 
-
 Tumore im Mund-, Hals- und Kopfbereich, Tumore der (oberen) Speiseröhre, Lippen-Kiefer-Gaumen-Spalten, Halswirbelsäule, strukturelle / funktionelle Veränderungen
 *	_im Kindesalter:_ 
-
 Lippen-Kiefer-Gaumen-Spalten, Tonsillenhyperplasie (= vergrößerte Gaumen- / Rachenmandel), Bewegungsstörungen / Motilitätsstörungen, Missbildungssyndrome, neurologische Erkrankung (ZNS, PNS, Muskeln, nach Tumoroperationen, usw.)
 *	_im fortschreitenden Alter:_ 
-
 Presbyphagie (= altersbedingte Schluckveränderungen), Bewegungsstörungen / Motilitätsstörungen, Demenzerkrankungen, Antriebsstörungen
 *	_andere:_ 
-
 Ösophaguserkrankungen (z.B. neuromuskulär bedingter Reflux), Vergiftungen / Verätzungen des Speisewegs, nach Langzeitintubation, nach Strahlen- oder Chemotherapie
 
-### Folgen
+**Folgen**
 Folgen können Mangelernährung (= Malnutrition) und Austrocknung (= Dehydratation) sowie Penetrationen (= der Bolus/Speichel gelangt bis zur Glottisebene) oder Aspirationen (= der Bolus gelangt bis hinter die Glottis). Bei einer sogenannten „stillen Aspiration“ bleiben Schutzreflexe wie Husten oder Würgen aus. Eine Aspirationspneumonie (= Lungenentzündung) kann unter Umständen tödlich enden.
 
-##### Header 5
+## Leitsymptomatik
+Als klinische Prädikatoren einer Dysphagie gelten die folgenden Symptome:
+* abnormaler Würgreflex
+*	abnormaler willkürlicher Husten
+*	Husten  nach  der Nahrungsaufnahme wie Trinken oder Essen 
+*	erschwerte Atmung / Atemgeräusche
+*	Veränderung  des  Stimmklangs (= wet voice)
+*	Speichelfluss (= Drooling)
+*	verändertes Esstempo
+*	Nahrungsvermeidung / -verweigerung
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Begleitend können [Dysarthrophonien] (./dysarthrophonie.html). (= Sprechstörungen) und / oder Dysphonien  (= Stimmstörungen) auftreten, sollten jedoch differentialdiagnostisch abgegrenzt werden.
+
+
+Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Schluckaktes in der oralen, pharyngealen und / oder ösophagealen Phase.
+
+### [Schluckphasen]
+(https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png)
+
+
+
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

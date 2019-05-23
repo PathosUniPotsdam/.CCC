@@ -51,20 +51,20 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 | Fehlertypen                         | Sprechapraxie | Dysarthrophonie | Dysarthrophonie |
 |:------------------------------------|:--------------|:----------------|:----------------|
 | Phonetische Fehler                  | ✓             | ✓              | -               |
-| Phonologische Fehler                | good and plenty   | nice  |
-| Artikulationsfehler                 | good `oreos`      | hmm   |
-| Skandierende Sprechweise            | good `zoute` drop | yumm  |
-| Sprechpausen                        |
-| Fehlstarts                          |
-| Selbstkorrekturen                   |
-| Redefluss- und Akzentuierungsfehler |
-| Störungen in der Stimmgebung,       |
+| Phonologische Fehler                | ✓             | -               | ✓              |
+| Artikulationsfehler                 | ✓             | ✓              | ✓               |
+| Skandierende Sprechweise            | ✓             | (✓)            | -               |
+| Sprechpausen                        | ✓             | ✓              | ✓               |
+| Fehlstarts                          | ✓             | -               | -               |
+| Selbstkorrekturen                   | ✓             | -               | (✓)             |
+| Redefluss- und Akzentuierungsfehler | ✓             | ✓              | -                |
+| Störungen in der Stimmgebung,       | -             | ✓               | -               |
   Phonation, Sprechatmung und Resonanz
-| Artikulatorisches Suchverhalten     |
-| Sprechanstrengung                   |
-| Störungsbewusstsein                 |
-| Inseln intakter Sprachproduktion    |
-| Normales Sprechtempo                |
+| Artikulatorisches Suchverhalten     | ✓             | -               | -               |
+| Sprechanstrengung                   | ✓             | ✓               | ✓              |
+| Störungsbewusstsein                 | ✓             | ✓               | (✓)            |
+| Inseln intakter Sprachproduktion    | ✓             | -               | ✓              |
+| Normales Sprechtempo                | -              | -               | ✓              |
 
 
 

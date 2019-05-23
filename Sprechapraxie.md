@@ -48,12 +48,25 @@ Um dies zu ermöglichen sollten verschiedene Diagnostikinstrumente durchgeführt
 
 Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehend von den sprechapraktischen Symptomen.
 
-| Fehlertypen  | Sprechapraxie | Dysarthrophonie | Dysarthrophonie |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Fehlertypen                         | Sprechapraxie | Dysarthrophonie | Dysarthrophonie |
+|:------------------------------------|:--------------|:----------------|:----------------|
+| Phonetische Fehler                  | ✓             | ✓              | -               |
+| Phonologische Fehler                | good and plenty   | nice  |
+| Artikulationsfehler                 | good `oreos`      | hmm   |
+| Skandierende Sprechweise            | good `zoute` drop | yumm  |
+| Sprechpausen                        |
+| Fehlstarts                          |
+| Selbstkorrekturen                   |
+| Redefluss- und Akzentuierungsfehler |
+| Störungen in der Stimmgebung,       |
+  Phonation, Sprechatmung und Resonanz
+| Artikulatorisches Suchverhalten     |
+| Sprechanstrengung                   |
+| Störungsbewusstsein                 |
+| Inseln intakter Sprachproduktion    |
+| Normales Sprechtempo                |
+
+
 
 ### Header 3
 

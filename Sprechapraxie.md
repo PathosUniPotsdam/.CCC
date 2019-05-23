@@ -19,6 +19,13 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 Sprechapraxie beschreibt eine Störung in der Planung sowie Programmierung von bereits erlernten Sprechbewegungen und zählt zu den erworbenen sprechmotorischen Störungen. Das Störungsbild wird den ideomotorischen Apraxien (Störung der Bewegungsplanung) zugeordnet.
 Zu 9 Prozent handelt es sich bei einer neurologisch bedingten Sprechstörung um eine Sprechapraxie.
 
+* Apraxie
+
+## Ätiologie
+
+Das Auftreten einer Sprechapraxie kann verschiedene Ursachen haben, zumeist ist sie jedoch Folge eines Schlaganfalls (Insult, cerebrale Durchblutungsstörung) oder Schädel-Hirn-Traumas, bei welchen linkshemisphärisches Hirngewebe vor allem rund um das Versorgungsgebiet der mittleren Hirnarterie (Arteria cerebri media) irreversibel beschädigt bzw. zerstört wird.  Die entstandenen Läsionen werden somit zumeist im Broca Areal, im motorischen Gesichtskortex, in der Inselregion und den darunter liegenden Marklagern oder/sowie in den angrenzenden Bereichen des frontalen Operculums identifiziert. 
+Sprechapraxien treten nur in sehr seltenen Fällen „rein“ (etwa 10% der Fälle) also ohne jegliche, zusätzliche Begleiterkrankungen auf. Häufig verlaufen sie komorbid mit einer Hemiparese/ Facialisparese auf der rechten Seite, mit einer buccofacialen Apraxie (BFA) und/oder einer Aphasie (APH). Bei den Aphasien handelt es sich aufgrund der Läsionslokalisation zumeist um eine Broca- Aphasie, Leitungsaphasie oder globale Aphasie. 
+Sprechapraxien können zum Beispiel aber auch bei Tumorerkrankungen, Entzündungen, choreatischen Krankheitsbildern, Multipler Sklerose, Ataxien und Dystonien (Bewegungsstörungen) auftreten. 
 
 ### Header 3
 

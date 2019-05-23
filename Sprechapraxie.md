@@ -1,16 +1,5 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Sprechapraxie 
+
 
 **Indikationsschlüssel: SP6**
 
@@ -152,6 +141,19 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+---
+layout: default
+---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 
 ### Definition lists can be used with HTML syntax.

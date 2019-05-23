@@ -53,7 +53,7 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 
 | Fehlertypen                         | Sprechapraxie              | Dysarthrophonie | Dysarthrophonie |
 |:------------------------------------|:---------------------------|:----------------|:----------------|
-| Phonetische Fehler                  | ✓ inkonstant, inkonsistent | ✓ konstant     | -               |
+| Phonetische Fehler                  | ✓                                                                                      inkonstant, inkonsistent | ✓                                                                                                      konstant     | -               |
 | Phonologische Fehler                | ✓ initial                  | -               | ✓ final, inkonsequent |
 | Artikulationsfehler                 | ✓ (eher Silben-/ Wortanfang und Konsonantenverbindungen) | ✓ (eher Wort-/ Äußerungsende und Konsonantenverbindungen)              | ✓               |
 | Skandierende Sprechweise            | ✓             | (✓) ataktische Dysarthrie            | -               |

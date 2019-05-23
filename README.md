@@ -1,7 +1,7 @@
 index.md = Willkommen  
 andere *.md = Störungsbilder  
 
-Link: [https://pathosunipotsdam.github.io/PathosUniPotsdam/](https://pathosunipotsdam.github.io/PathosUniPotsdam/willkommen.html)
+Link: [https://pathosunipotsdam.github.io/PathosUniPotsdam/](https://pathosunipotsdam.github.io/PathosUniPotsdam/Willkommen.html)
 
 -----------------
 

@@ -44,6 +44,7 @@ Begleitend können [Dysarthrophonien](https://corayli.github.io/PathosUniPotsdam
 Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Schluckaktes in der _oralen, pharyngealen und / oder ösophagealen Phase._
 
 ## Schlucken
+
 ### Schluckphasen
 ![Branching](https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png)
 

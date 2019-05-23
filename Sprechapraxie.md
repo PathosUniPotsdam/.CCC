@@ -24,6 +24,7 @@ Zu 9 Prozent handelt es sich bei einer neurologisch bedingten Sprechstörung um 
 ## Ätiologie
 
 Das Auftreten einer Sprechapraxie kann verschiedene Ursachen haben, zumeist ist sie jedoch Folge eines Schlaganfalls (Insult, cerebrale Durchblutungsstörung) oder Schädel-Hirn-Traumas, bei welchen linkshemisphärisches Hirngewebe vor allem rund um das Versorgungsgebiet der mittleren Hirnarterie (Arteria cerebri media) irreversibel beschädigt bzw. zerstört wird.  Die entstandenen Läsionen werden somit zumeist im Broca Areal, im motorischen Gesichtskortex, in der Inselregion und den darunter liegenden Marklagern oder/sowie in den angrenzenden Bereichen des frontalen Operculums identifiziert.
+
 ![Arteria cerebri media](https://www2.ims.uni-stuttgart.de/sgtutorial/graphic/blutvers.gif)
 
 Sprechapraxien treten nur in sehr seltenen Fällen „rein“ (etwa 10% der Fälle) also ohne jegliche, zusätzliche Begleiterkrankungen auf. Häufig verlaufen sie komorbid mit einer Hemiparese/ Facialisparese auf der rechten Seite, mit einer buccofacialen Apraxie (BFA) und/oder einer Aphasie (APH). Bei den Aphasien handelt es sich aufgrund der Läsionslokalisation zumeist um eine Broca- Aphasie, Leitungsaphasie oder globale Aphasie. 
@@ -50,18 +51,17 @@ Um dies zu ermöglichen sollten verschiedene Diagnostikinstrumente durchgeführt
 
 Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehend von den sprechapraktischen Symptomen.
 
-| Fehlertypen                         | Sprechapraxie | Dysarthrophonie | Dysarthrophonie |
-|:------------------------------------|:--------------|:----------------|:----------------|
-| Phonetische Fehler                  | ✓             | ✓              | -               |
-| Phonologische Fehler                | ✓             | -               | ✓              |
-| Artikulationsfehler                 | ✓             | ✓              | ✓               |
+| Fehlertypen                         | Sprechapraxie              | Dysarthrophonie | Dysarthrophonie |
+|:------------------------------------|:---------------------------|:----------------|:----------------|
+| Phonetische Fehler                  | ✓ inkonstant, inkonsistent | ✓ konstant     | -               |
+| Phonologische Fehler                | ✓ initial                  | -               | ✓ final, inkonsequent |
+| Artikulationsfehler                 | ✓ (eher Silben-/ Wortanfang und Konsonantenverbindungen) | ✓ (eher Wort-/ Äußerungsende und Konsonantenverbindungen)              | ✓               |
 | Skandierende Sprechweise            | ✓             | (✓)            | -               |
 | Sprechpausen                        | ✓             | ✓              | ✓               |
 | Fehlstarts                          | ✓             | -               | -               |
 | Selbstkorrekturen                   | ✓             | -               | (✓)             |
 | Redefluss- und Akzentuierungsfehler | ✓             | ✓              | -                |
-| Störungen in der Stimmgebung,       | -             | ✓               | -               |
-  Phonation, Sprechatmung und Resonanz
+| Störungen in der Stimmgebung, Phonation, Sprechatmung und Resonanz       | -             | ✓               | -               |
 | Artikulatorisches Suchverhalten     | ✓             | -               | -               |
 | Sprechanstrengung                   | ✓             | ✓               | ✓              |
 | Störungsbewusstsein                 | ✓             | ✓               | (✓)            |

@@ -47,11 +47,11 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
 | Syndrome                     | Lokalisation der       |
 |                              | Funktionsstörung       |
 |:-----------------------------|:-----------------------|
-| hypotone (schlaffe) DAP      | Motorische Endplatte 
-                                 unteres (2.) 
-                                 motorisches Neuron     |
-| hypertone (spastische) DAP   | Oberes (1.) 
-                                 motorisches Neuron     |
+| hypotone (schlaffe) DAP      | Motorische Endplatte   |
+|                              | unteres (2.)           |
+|                              |  motorisches Neuron    |
+| hypertone (spastische) DAP   | Oberes (1.)            |
+|                              | motorisches Neuron     |
 | Hyperkinetisch - dystone DAP | Basalganglien          |
 | Hypokinetisch - rigide DAP   | Basalganglien          |
 | Ataktische DAP               | Cerebellum (Kleinhirn) |

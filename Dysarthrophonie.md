@@ -45,14 +45,14 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
 ## Leitsymptomatik
 Dysarthrophonien treten in unterschiedlicher Form und mit einer variierenden Symptomatik auf. Je nach Störungsort lassen sich verschiedene Syndrome beobachten. Häufig kommt es jedoch zu Mischformen der einzelnen Syndrome, da Läsionen an mehreren Stellen gleichzeitig auftreten können.
 
-| Syndrome                     | Lokalisation                    |
-|:-----------------------------|:--------------------------------|
-| hypotone (schlaffe) DAP      | Motorische Endplatte            |
-|                              | unteres (2.) motorisches Neuron |
-| hypertone (spastische) DAP   | oberes (1.) motorisches Neuron  |
-| Hyperkinetisch - dystone DAP | Basalganglien                   |
-| Hypokinetisch - rigide DAP   | Basalganglien                   |
-| Ataktische DAP               | Cerebellum (Kleinhirn)          |
+| Syndrome                     | Lokalisation der Funktionsstörung                  |
+|:-----------------------------|:---------------------------------------------------|
+| hypotone (schlaffe) DAP      | Motorische Endplatte                               |
+|                              | unteres (2.) motorisches Neuron (periphere Parese) |
+| hypertone (spastische) DAP   | oberes (1.) motorisches Neuron (zentrale Parese)   |
+| Hyperkinetisch - dystone DAP | Basalganglien                                      |
+| Hypokinetisch - rigide DAP   | Basalganglien                                      |
+| Ataktische DAP               | Cerebellum (Kleinhirn)                             |
 
 #### 1. Hypotone (schlaffe) Dysarthrophonie
   - **Sprechatmung**

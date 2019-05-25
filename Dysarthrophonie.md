@@ -42,9 +42,11 @@ Dysarthrophonien stellen die häufigsten neurologischen Kommunikationsstörungen
   
 Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfälle, Schädel-Hirn-Traumata und M. Parkinson (Schubert, 2007) 
 
-## Leitsymptomatik
 Dysarthrophonien treten in unterschiedlicher Form und mit einer variierenden Symptomatik auf. Je nach Störungsort lassen sich verschiedene Syndrome beobachten. Häufig kommt es jedoch zu Mischformen der einzelnen Syndrome, da Läsionen an mehreren Stellen gleichzeitig auftreten können.
 Betroffene werden aufgrund Ihrer verwaschenen Sprache oft des Alkoholismus beschuldigt. Diese negativen Reaktionen von Kommunikationspartnern rufen oft depressive Begleitsymptome bei den Betroffenen hervor. Denn soweit keine weiteren Erkrankungen vorliegen sind Sie kognitiv unbeeinträchtigt und haben ein Störungsbewusstsein.
+Verständliches Sprechen ist nur möglich, wenn die richtigen Muskeln der verschiedenen Funktionskreise mit dem richtigen Tonus richtig koordiniert werden.
+
+![Octocat](Bildschirmfoto 2019-05-25 um 13.08.10.png)
 
 | Syndrome                     | Lokalisation der Funktionsstörung                  |
 |:-----------------------------|:---------------------------------------------------|
@@ -54,6 +56,8 @@ Betroffene werden aufgrund Ihrer verwaschenen Sprache oft des Alkoholismus besch
 | Hyperkinetisch - dystone DAP | Basalganglien                                      |
 | Hypokinetisch - rigide DAP   | Basalganglien                                      |
 | Ataktische DAP               | Cerebellum (Kleinhirn)                             |
+
+## Leitsymptomatik
 
 #### 1. Hypotone (schlaffe) Dysarthrophonie
   - **Sprechatmung**

@@ -11,7 +11,7 @@ layout: default
 
 Dysarthrophonie ist eine sprechmotorische Störung, bei der eine beeinträchtigte Kontrolle der Sprechmuskulatur, bedingt durch Läsionen des zentralen und / oder peripheren Nervensystems vorliegt. 
 Es treten Probleme in der verbalen Kommunikation durch Lähmungen, Schwäche oder Dyskoordination der Sprechmuskulatur auf. Dysarthrophonien lassen sich abgrenzen von Störungen höherer kortikaler Hirnzentren, die z.B. zur
-sprechmotorischen Planung und Programmierung von Bewegungen ( [Sprechapraxie](./https://pathosunipotsdam.github.io/PathosUniPotsdam/Sprechapraxie.html) ) oder zur linguistischen Planung / Sprachverarbeitung (Aphasie) dienen.
+sprechmotorischen Planung und Programmierung von Bewegungen ( [Sprechapraxie](https://pathosunipotsdam.github.io/PathosUniPotsdam/Sprechapraxie.html) ) oder zur linguistischen Planung / Sprachverarbeitung (Aphasie) dienen.
 
 übersetzt in Anlehnung an Darley, Aronson & Brown (1969)
 

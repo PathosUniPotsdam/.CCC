@@ -154,7 +154,7 @@ Sobald eine Störung vorliegt, kommt es zu diversen Symptomen in den verschieden
     - skandierendes Sprechen
     - vermehrte Pausen
     
-## Differentialdiagnose
+## Differentialdiagnostik
 
 Dysarthrophonien lassen sich abgrenzen von Störungen höherer kortikaler Hirnzentren, die z.B. zur sprechmotorischen Planung und Programmierung von Bewegungen ([Sprechapraxie](https://pathosunipotsdam.github.io/PathosUniPotsdam/Sprechapraxie.html)) oder zur linguistischen Planung / Sprachverarbeitung (Aphasie) dienen. Da am Sprechvorgang mindestens 5 von 12 Hirnnerven und um die 100 Muskeln beteiligt sind, treten Dysarthrophonien häufig in Verbindung mit [Dysphagien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Dysphagie.html) sowie anderen Sprach-/Sprechstörungen auf, die von den selben versorgenden und ausführenden Strukturen abhängen.
 

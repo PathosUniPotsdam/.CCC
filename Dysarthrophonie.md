@@ -27,7 +27,7 @@ sprechmotorischen Planung und Programmierung von Bewegungen ( [Sprechapraxie](ht
 
 Dysarthrophonien stellen die häufigsten neurologischen Kommunikationsstörungen dar und können Begleitstörungen verschiedenartigster Grunderkrankungen sein z.B.
 
-- Zerebrovaskuläre Erkrankungen 
+- Cerebrovaskuläre Erkrankungen 
   - (Schlaganfall, Aneurysmenruptur, ...)
 - Degenerative Erkrankungen
   - (M. Parkinson, Multiple Sklerose, Amyotrophe,	Lateralsklerose, ...) 
@@ -44,6 +44,7 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
 
 ## Leitsymptomatik
 Dysarthrophonien treten in unterschiedlicher Form und mit einer variierenden Symptomatik auf. Je nach Störungsort lassen sich verschiedene Syndrome beobachten. Häufig kommt es jedoch zu Mischformen der einzelnen Syndrome, da Läsionen an mehreren Stellen gleichzeitig auftreten können.
+Betroffene werden aufgrund Ihrer verwaschenen Sprache oft des Alkoholismus beschuldigt. Diese negativen Reaktionen von Kommunikationspartnern rufen oft depressive Begleitsymptome bei den Betroffenen hervor. Denn soweit keine weiteren Erkrankungen vorliegen sind Sie kognitiv unbeeinträchtigt und haben ein Störungsbewusstsein.
 
 | Syndrome                     | Lokalisation der Funktionsstörung                  |
 |:-----------------------------|:---------------------------------------------------|

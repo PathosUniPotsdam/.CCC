@@ -156,9 +156,9 @@ Sobald eine Störung vorliegt, kommt es zu diversen Symptomen in den verschieden
     
 ### Differentialdiagnose
 
-Dysarthrophonien lassen sich abgrenzen von Störungen höherer kortikaler Hirnzentren, die z.B. zur sprechmotorischen Planung und Programmierung von Bewegungen ([Sprechapraxie](https://pathosunipotsdam.github.io/PathosUniPotsdam/Sprechapraxie.html)) oder zur linguistischen Planung / Sprachverarbeitung (Aphasie) dienen. Da am Sprechvorgang mindestens 5 von 12 Hirnnerven und um die 100 Muskeln beteiligt sind, treten Dysarthrophonien häufig in Verbindung mit [Dysphagien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Dysphagie.html) und Aphasien sowie anderen Sprach-/Sprechstörungen auf, die von den selben versorgenden und ausführenden Strukturen abhängen.
+Dysarthrophonien lassen sich abgrenzen von Störungen höherer kortikaler Hirnzentren, die z.B. zur sprechmotorischen Planung und Programmierung von Bewegungen ([Sprechapraxie](https://pathosunipotsdam.github.io/PathosUniPotsdam/Sprechapraxie.html)) oder zur linguistischen Planung / Sprachverarbeitung (Aphasie) dienen. Da am Sprechvorgang mindestens 5 von 12 Hirnnerven und um die 100 Muskeln beteiligt sind, treten Dysarthrophonien häufig in Verbindung mit [Dysphagien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Dysphagie.html) sowie anderen Sprach-/Sprechstörungen auf, die von den selben versorgenden und ausführenden Strukturen abhängen.
 
-Während man den Störungsort der [Sprechapraxien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Sprechapraxie.html) auf der Ebene des Planens einordnet, liegt der Störungsort der Dysarthrophonien auf der Ebene des Programmierens.
+Während man den Störungsort der [Sprechapraxien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Sprechapraxie.html) auf der Ebene des Planens und Programmierens einordnet, liegt der Störungsort der Dysarthrophonien auf der Ebene des Ausführens.
 
 ![Funktionelle Neuroanatomie des Sprechens](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Bildschirmfoto%202019-05-25%20um%2012.43.58.png?raw=true)
 

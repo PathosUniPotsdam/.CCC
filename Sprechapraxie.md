@@ -1,7 +1,7 @@
 # Sprechapraxie 
 
-
 **Indikationsschlüssel: SP6**
+
 
 
 ## Definition

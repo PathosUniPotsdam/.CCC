@@ -70,6 +70,7 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
     - verlangsamtes Sprechen
     - monotone Intonation
     - vermehrte Sprechpausen
+    
 #### 2. Hypertone (spastische) Dysarthrophonie
   - **Sprechatmung**
     - verkürzte Sprechphasen
@@ -87,6 +88,61 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
     - verlangsamtes Sprechen
     - monotone Intonation
     - vermehrte Sprechpausen
+ 
+  #### 3. Hyperkinetisch-dystone Dysarthrophonie
+  - **Sprechatmung**
+    - wechselnd, teilweise paradox
+    - intermittierend forcierte Ein- und Ausatmung
+    - teils inspiratorisches Sprechen
+  - **Stimme**
+    - wechselnde Stimmqualität, häufig gepresst-rauh, Stimmabbrüche
+    - Fluktuation von Tonhöhe und Lautstärke
+  - **Artikulation**
+    - wechselnde Artikulationsschärfe
+    - intermittierend ‚explosive‘ Artikulation
+    - intermittierende Hypo- und Hypernasalität
+    - unwillkürliche Laute ‚Tics‘
+  - **Prosodie**
+    - normales bis beschleunigtes Sprechtempo
+    - Akzentverschiebungen
+    
+ #### 4. Rigid - hypokinetische Dysarthrophonie
+  - **Sprechatmung**
+    - verkürzte Sprechphasen
+    - häufiges, teilweise hörbares Zwischenatmen
+  - **Stimme**
+    -  behauchte, rauhe Stimmqualität
+    - reduzierte Lautstärke
+    - erhöhte Stimmlage
+    - reduzierter Tonhöhenumfang
+  - **Artikulation**
+    - reduzierte Artikulationsschärfe
+    - Hypernasalität
+    - ‚versandend‘ zum Sprechphrasenende
+  - **Prosodie**
+    - normales bis beschleunigtes Sprechtempo
+    - monotone Intonation
+    - Neigung zu Palilalie (Wiederholung von Silben, Wörtern oder Phrasenteilen)
+    
+     #### 5. Ataktische Dysarthrophonie
+  - **Sprechatmung**
+    - paradoxes Atemmuster
+    - inadäquate Einatempausen
+    - inspiratorisches Sprechen
+    - hörbare Einatmung
+  - **Stimme**
+    - wechselnde Stimmqualität, häufig gepresst-rauh-behaucht
+    - Fluktuation von Tonhöhe und Lautstärke
+    - Stimmzittern
+  - **Artikulation**
+    - überwiegend reduzierte Artikulationsschärfe 
+    - intermittierend ‚explosive‘ Artikulation
+    - intermittierende Hypo- und Hypernasalität
+  - **Prosodie**
+    - eher langsames Sprechtempo
+    - monotone Intonation
+    - skandierendes Sprechen
+    - vermehrte Pausen
     
 ### Differentialdiagnose
 

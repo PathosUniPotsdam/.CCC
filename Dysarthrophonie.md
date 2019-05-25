@@ -32,7 +32,7 @@ Dysarthrien können Begleitstörungen verschiedenartigster Grunderkrankungen sei
 - Degenerative Erkrankungen
   - (M. Parkinson, Multiple Sklerose, Amyotrophe,	Lateralsklerose, ...) 
 - Traumatische Erkrankungen
-  -(Schädelhirntrauma, Schädelbruch, ...)
+  - (Schädelhirntrauma, Schädelbruch, ...) 
 -	Toxische Ursachen
   - (Drogenmissbrauch, ...) 
 -	Infektionskrankheiten

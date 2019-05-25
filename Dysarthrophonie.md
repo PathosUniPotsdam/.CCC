@@ -56,6 +56,13 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
 | Hypokinetisch - rigide DAP   | Basalganglien          |
 | Ataktische DAP               | Cerebellum (Kleinhirn) |
 
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 ### Differentialdiagnose
 
 Dysarthrophonien lassen sich abgrenzen von Störungen höherer kortikaler Hirnzentren, die z.B. zur sprechmotorischen Planung und Programmierung von Bewegungen ([Sprechapraxie](https://pathosunipotsdam.github.io/PathosUniPotsdam/Sprechapraxie.html)) oder zur linguistischen Planung / Sprachverarbeitung (Aphasie) dienen. Da am Sprechvorgang mindestens 5 von 12 Hirnnerven und um die 100 Muskeln beteiligt sind, treten Dysarthrophonien häufig in Verbindung mit [Dysphagie](https://pathosunipotsdam.github.io/PathosUniPotsdam/Dysphagie.html) und Aphasien sowie anderen Sprach-/Sprechstörungen auf, die von den selben versorgenden und ausführenden Strukturen abhängen.

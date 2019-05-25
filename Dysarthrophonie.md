@@ -170,6 +170,12 @@ Die Symptome einer Dysarthrie äußern sich konstant. Das Sprechen weist durchge
 
 ## Diagnostik
 
+#### BoDys (Bogenhausener Dysarthrieskalen)
+
+#### Frenchay Dysarthrie Untersuchung
+
+#### Vergleich
+
 ## Therapie
 
 

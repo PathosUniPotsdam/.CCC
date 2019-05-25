@@ -4,6 +4,8 @@ layout: default
 # Dysphagie
 **Indikationsschlüssel: SC1**
 
+----------------
+
 ## Definition
 Eine Dysphagie ist eine Schluckstörung, beeinträchtigt also die Fähigkeit Boli wie Speisen und Getränke oder Speichel vom Mund in den Verdauungstrakt zu befördern, ohne dabei die Atemwege zu gefährden. 
 Die Ursache von Dysphagien ist breit gefächert und tritt bei Menschen jeglicher Altersgruppen, gehäuft jedoch bei zunehmendem Alter auf. Schluckstörungen können als Resultat verschiedenster Grunderkrankungen auftreten. 

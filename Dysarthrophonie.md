@@ -46,8 +46,8 @@ Dysarthrophonien treten in unterschiedlicher Form und mit einer variierenden Sym
 
 | Syndrome                     | Lokalisation der Funktionsstörung                                          |
 |:-----------------------------|:---------------------------------------------------------------------------|
-| hypotone (schlaffe) DAP      | Motorische Endplatte, unteres (2.) motorisches Neuron (→ periphere Parese) |                        
-| hypertone (spastische) DAP   | oberes (1.) motorisches Neuron (→ zentrale Parese)                         |
+| hypotone (schlaffe) DAP      | Motorische Endplatte, unteres (2.) motorisches Neuron (→periphere Parese)  |                        
+| hypertone (spastische) DAP   | oberes (1.) motorisches Neuron (→zentrale Parese)                          |
 | Hyperkinetisch - dystone DAP | Basalganglien                                                              |
 | Hypokinetisch - rigide DAP   | Basalganglien                                                              |
 | Ataktische DAP               | Cerebellum (Kleinhirn)                                                     |

@@ -89,7 +89,7 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
     - monotone Intonation
     - vermehrte Sprechpausen
  
-  #### 3. Hyperkinetisch-dystone Dysarthrophonie
+#### 3. Hyperkinetisch-dystone Dysarthrophonie
   - **Sprechatmung**
     - wechselnd, teilweise paradox
     - intermittierend forcierte Ein- und Ausatmung
@@ -106,7 +106,7 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
     - normales bis beschleunigtes Sprechtempo
     - Akzentverschiebungen
     
- #### 4. Rigid - hypokinetische Dysarthrophonie
+#### 4. Rigid - hypokinetische Dysarthrophonie
   - **Sprechatmung**
     - verkürzte Sprechphasen
     - häufiges, teilweise hörbares Zwischenatmen
@@ -124,7 +124,7 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
     - monotone Intonation
     - Neigung zu Palilalie (Wiederholung von Silben, Wörtern oder Phrasenteilen)
     
-     #### 5. Ataktische Dysarthrophonie
+#### 5. Ataktische Dysarthrophonie
   - **Sprechatmung**
     - paradoxes Atemmuster
     - inadäquate Einatempausen

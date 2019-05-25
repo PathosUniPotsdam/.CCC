@@ -43,6 +43,7 @@ Dysarthrien können Begleitstörungen verschiedenartigster Grunderkrankungen sei
 Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfälle, Schädel-Hirn-Traumata und M. Parkinson (Schubert, 2007) 
 
 ## Leitsymptomatik
+Dysarthrophonien treten in unterschiedlicher Form und mit einer variierenden Symptomatik auf. Je nach Störungsort lassen sich verschiedene Syndrome beobachten. Häufig kommt es jedoch zu Mischformen der einzelnen Syndrome, da Läsionen an mehreren Stellen gleichzeitig auftreten können.
 
 | Syndrome                     | Lokalisation                    |
 |:-----------------------------|:--------------------------------|

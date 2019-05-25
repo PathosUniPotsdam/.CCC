@@ -58,7 +58,7 @@ Dysarthrophonien treten in unterschiedlicher Form und mit einer variierenden Sym
 Betroffene werden aufgrund Ihrer verwaschenen Sprache oft des Alkoholismus beschuldigt. Diese negativen Reaktionen von Kommunikationspartnern rufen oft depressive Begleitsymptome bei den Betroffenen hervor. Denn soweit keine weiteren Erkrankungen vorliegen sind Sie kognitiv unbeeinträchtigt und haben ein Störungsbewusstsein.
 
 #### Funktionskreise
-Verständliches Sprechen ist nur möglich, wenn die richtigen Muskeln der verschiedenen Funktionskreise mit dem richtigen Tonus richtig koordiniert werden.
+Verständliches Sprechen ist nur möglich, wenn die richtigen Muskeln der Funktionskreise mit dem richtigen Tonus richtig koordiniert werden.
 
 ![Octocat](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Bildschirmfoto%202019-05-25%20um%2013.08.10.png?raw=true)
 

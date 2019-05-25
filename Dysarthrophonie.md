@@ -53,7 +53,7 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
 | Hypokinetisch - rigide DAP   | Basalganglien                   |
 | Ataktische DAP               | Cerebellum (Kleinhirn)          |
 
-#### 1. hypotone (schlaffe) Dysarthrie
+#### 1. Hypotone (schlaffe) Dysarthrophonie
   - **Sprechatmung**
     - verkürzte Sprechphasen
     - häufiges Zwischenatmen
@@ -65,6 +65,23 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
   - **Artikulation**
     - reduzierte Artikulationsschärfe
     - vorverlagerte Artikulationsbasis
+    - Hypernasalität
+  - **Prosodie**
+    - verlangsamtes Sprechen
+    - monotone Intonation
+    - vermehrte Sprechpausen
+#### 2. Hypertone (spastische) Dysarthrophonie
+  - **Sprechatmung**
+    - verkürzte Sprechphasen
+    - häufiges, teilweise hörbares Zwischenatmen
+  - **Stimme**
+    - gepresste und rauhe Stimmqualität
+    - reduzierte Lautstärke
+    - erhöhte Stimmlage
+    - reduzierter Tonhöhenumfang
+  - **Artikulation**
+    - reduzierte Artikulationsschärfe
+    - rückverlagerte Artikulationsbasis
     - Hypernasalität
   - **Prosodie**
     - verlangsamtes Sprechen

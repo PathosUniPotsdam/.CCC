@@ -65,19 +65,19 @@ Verständliches Sprechen ist nur möglich, wenn die richtigen Muskeln der versch
 Sobald eine Störung vorliegt, kommt es zu diversen Symptomen in den verschiedenen Funktionskreisen.
 
 #### 1. Hypotone (schlaffe) Dysarthrophonie
-  - **Sprechatmung** - Respiration
+  - **Sprechatmung** (Respiration)
     - verkürzte Sprechphasen
     - häufiges Zwischenatmen
-  - **Stimme** - Phonation
+  - **Stimme** (Phonation)
     - behauchte und rauhe Stimmqualität
     - reduzierte Lautstärke
     - erniedrigte Stimmlage
     - reduzierter Tonhöhenumfang
-  - **Artikulation** - Labio- und linguomandibulärer Funktionskreis
+  - **Artikulation** 
     - reduzierte Artikulationsschärfe
     - vorverlagerte Artikulationsbasis
     - Hypernasalität
-  - **Prosodie** - Resonanz
+  - **Prosodie** (Resonanz)
     - verlangsamtes Sprechen
     - monotone Intonation
     - vermehrte Sprechpausen

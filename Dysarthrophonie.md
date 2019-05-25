@@ -43,10 +43,6 @@ Dysarthrophonien stellen die häufigsten neurologischen Kommunikationsstörungen
 Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfälle, Schädel-Hirn-Traumata und M. Parkinson (Schubert, 2007) 
 
 Dysarthrophonien treten in unterschiedlicher Form und mit einer variierenden Symptomatik auf. Je nach Störungsort lassen sich verschiedene Syndrome beobachten. Häufig kommt es jedoch zu Mischformen der einzelnen Syndrome, da Läsionen an mehreren Stellen gleichzeitig auftreten können.
-Betroffene werden aufgrund Ihrer verwaschenen Sprache oft des Alkoholismus beschuldigt. Diese negativen Reaktionen von Kommunikationspartnern rufen oft depressive Begleitsymptome bei den Betroffenen hervor. Denn soweit keine weiteren Erkrankungen vorliegen sind Sie kognitiv unbeeinträchtigt und haben ein Störungsbewusstsein.
-Verständliches Sprechen ist nur möglich, wenn die richtigen Muskeln der verschiedenen Funktionskreise mit dem richtigen Tonus richtig koordiniert werden.
-
-![Octocat](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Bildschirmfoto%202019-05-25%20um%2013.08.10.png?raw=true)
 
 | Syndrome                     | Lokalisation der Funktionsstörung                  |
 |:-----------------------------|:---------------------------------------------------|
@@ -58,6 +54,15 @@ Verständliches Sprechen ist nur möglich, wenn die richtigen Muskeln der versch
 | Ataktische DAP               | Cerebellum (Kleinhirn)                             |
 
 ## Leitsymptomatik
+
+Betroffene werden aufgrund Ihrer verwaschenen Sprache oft des Alkoholismus beschuldigt. Diese negativen Reaktionen von Kommunikationspartnern rufen oft depressive Begleitsymptome bei den Betroffenen hervor. Denn soweit keine weiteren Erkrankungen vorliegen sind Sie kognitiv unbeeinträchtigt und haben ein Störungsbewusstsein.
+
+#### Funktionskreise
+Verständliches Sprechen ist nur möglich, wenn die richtigen Muskeln der verschiedenen Funktionskreise mit dem richtigen Tonus richtig koordiniert werden.
+
+![Octocat](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Bildschirmfoto%202019-05-25%20um%2013.08.10.png?raw=true)
+
+Sobald eine Störung vorliegt, kommt es zu diversen Symptomen in den verschiedenen Funktionskreisen.
 
 #### 1. Hypotone (schlaffe) Dysarthrophonie
   - **Sprechatmung**

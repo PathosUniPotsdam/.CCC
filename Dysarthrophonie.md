@@ -27,12 +27,12 @@ sprechmotorischen Planung und Programmierung von Bewegungen ( [Sprechapraxie](ht
 
 Dysarthrien können Begleitstörungen verschiedenartigster Grunderkrankungen sein z.B.
 
--Zerebrovaskuläre Erkrankungen 
-  -(Schlaganfall, Aneurysmenruptur, ...) 
--Degenerative Erkrankungen 
+- Zerebrovaskuläre Erkrankungen 
+  - (Schlaganfall, Aneurysmenruptur, ...)
+- Degenerative Erkrankungen
   - (M. Parkinson, Multiple Sklerose, Amyotrophe,	Lateralsklerose, ...) 
 -	Traumatische Erkrankungen 
-  - (Schädelhirntrauma, Schädelbruch, ...) 
+  - (Schädelhirntrauma, Schädelbruch, ...)
 -	Toxische Ursachen 
   - (Drogenmissbrauch, ...) 
 -	Infektionskrankheiten 

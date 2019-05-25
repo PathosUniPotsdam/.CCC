@@ -46,7 +46,7 @@ Dysarthrophonien treten in unterschiedlicher Form und mit einer variierenden Sym
 Betroffene werden aufgrund Ihrer verwaschenen Sprache oft des Alkoholismus beschuldigt. Diese negativen Reaktionen von Kommunikationspartnern rufen oft depressive Begleitsymptome bei den Betroffenen hervor. Denn soweit keine weiteren Erkrankungen vorliegen sind Sie kognitiv unbeeinträchtigt und haben ein Störungsbewusstsein.
 Verständliches Sprechen ist nur möglich, wenn die richtigen Muskeln der verschiedenen Funktionskreise mit dem richtigen Tonus richtig koordiniert werden.
 
-![Octocat](Bildschirmfoto 2019-05-25 um 13.08.10.png)
+![Octocat](https://gm1.ggpht.com/PuydURLcIRMiW23CLAnkIulWQH4B-4nu1a0oB88pDwFt0Ay70zl55M7VQAQ51PHScAfRkrpDazgKHJcBX3lrXyO7fPZlevJHYq2yHFru-ZbJ2r_2tKeIK3tMfQhlyzUsn-OzAg71MBrPJgC2qsNyjgW6wuV42_4QYLw43QKvQGqDAq4AGxrT3tLy1zp7gt5kZZ-6c20ZxRYc1bjbwl2E1ps-aQ8UT23hmCd-FuiNlLlI3Ep0ELxBt2_8upCefwXWs1xBY8WmVpmL3trzuHLCK2hpYM6JGgwv8iBiZxLdRPYWMCIRw-FU5w8HFeTTEh4I1qb1cSWBwuCK_6IdkFmGOrii66Hsu1tI1JFup8SAKwiGpaoAJttoJWsUg4giKxF1HyC-uuyV9tP5ozfQpmBOWN5eAlXF87_SF0T3_dMKen6QM3QisUICw_yy6xqrU2JQz6avTx-sbaB39AYoNXhoLNSqJmyFdk_a2YE7mDODG8EfHdZGTnoAquWxUGULmp6DTbvznfy1CtSEQbToGS5q8am9RmsyBc4J7lz8n5v1feRMyVWVBakmLsmVA58pAtz8JEwRqKlUw1HhYkQLMbHa_xH1map6OBz3tqSJO9LTrXr5DA7ZG7i0cniti0Kj78LeKds2nUswWy891dpsOCOtovkkjRVw0pp31ZyF51RdLbzcO8CQ8jhwjetAG4q0yn3mc3c5yCyMsTzcXyEazVcQvy9LsFbm1Q4g9S8b_nIjTg=s0-l75-ft-l75-ft)
 
 | Syndrome                     | Lokalisation der Funktionsstörung                  |
 |:-----------------------------|:---------------------------------------------------|

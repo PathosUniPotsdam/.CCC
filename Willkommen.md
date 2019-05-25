@@ -4,6 +4,8 @@ layout: default
 
 # Herzlich Willkommen
 
+----------------
+
 Hier findet ihr Informationen zu Sprech - und Schluckstörungen. 
 
 ## Wer wir sind?

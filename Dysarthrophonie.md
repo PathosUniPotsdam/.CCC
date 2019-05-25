@@ -53,12 +53,12 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
 | Hypokinetisch - rigide DAP   | Basalganglien                   |
 | Ataktische DAP               | Cerebellum (Kleinhirn)          |
 
-1. hypotone (schlaffe) Dysarthrie
+#### 1. hypotone (schlaffe) Dysarthrie
   - **Stimme**
-    • behauchte und rauhe Stimmqualität
-    • reduzierte Lautstärke
-    • erniedrigte Stimmlage
-    • reduzierter Tonhöhenumfang
+    - behauchte und rauhe Stimmqualität
+    - reduzierte Lautstärke
+    - erniedrigte Stimmlage
+    - reduzierter Tonhöhenumfang
     
 ### Differentialdiagnose
 

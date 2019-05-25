@@ -40,7 +40,6 @@ Dysarthrien können Begleitstörungen verschiedenartigster Grunderkrankungen sei
 -	Entzündungen 
   - (Enzephalitis, Meningitis, ...) 
   
-
 Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfälle, Schädel-Hirn-Traumata und M. Parkinson (Schubert, 2007) 
 
 ## Leitsymptomatik

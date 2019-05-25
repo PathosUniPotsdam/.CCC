@@ -4,7 +4,9 @@ layout: default
 
 # Dysarthrophonie 
 **Indikationsschlüssel: SP6**
+
 ----------------
+
 ## Definition
 
 Dysarthrophonie ist eine sprechmotorische Störung, bei der eine beeinträchtigte Kontrolle der Sprechmuskulatur, bedingt durch Läsionen des zentralen und / oder peripheren Nervensystems vorliegt. 

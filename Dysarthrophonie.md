@@ -44,8 +44,7 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
 
 ## Leitsymptomatik
 
-| Syndrome                     | Lokalisation der       |
-|                              | Funktionsstörung       |
+| Syndrome                     | Lokalisation           |
 |:-----------------------------|:-----------------------|
 | hypotone (schlaffe) DAP      | Motorische Endplatte   |
 |                              | unteres (2.)           |
@@ -56,12 +55,6 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
 | Hypokinetisch - rigide DAP   | Basalganglien          |
 | Ataktische DAP               | Cerebellum (Kleinhirn) |
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### Differentialdiagnose
 

@@ -25,7 +25,7 @@ sprechmotorischen Planung und Programmierung von Bewegungen ( [Sprechapraxie](ht
 
 ## Ätiologie
 
-Dysarthrien können Begleitstörungen verschiedenartigster Grunderkrankungen sein z.B.
+Dysarthrophonien stellen die häufigsten neurologischen Kommunikationsstörungen dar und können Begleitstörungen verschiedenartigster Grunderkrankungen sein z.B.
 
 - Zerebrovaskuläre Erkrankungen 
   - (Schlaganfall, Aneurysmenruptur, ...)

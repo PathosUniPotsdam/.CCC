@@ -21,7 +21,7 @@ sprechmotorischen Planung und Programmierung von Bewegungen ( [Sprechapraxie](ht
 * pneumo – die Atmung betreffend
 * phonie – die Stimmgebung betreffend
 
-**Synonyme** → Dysarthrie, Dysarthrophonie, Dysarthropneumophonie
+→ Dysarthrie, Dysarthrophonie, Dysarthropneumophonie 
 
 ## Ätiologie
 
@@ -51,7 +51,8 @@ Zu den drei häufigsten Ursachen dysarthrischer Störungen zählen Schlaganfäll
 
 ### Differentialdiagnose
 
-Dysarthrophonien lassen sich abgrenzen von Störungen höherer kortikaler Hirnzentren, die z.B. zur sprechmotorischen Planung und Programmierung von Bewegungen (Sprechapraxie) oder zur linguistischen Planung / Sprachverarbeitung (Aphasie) dienen.
+Dysarthrophonien lassen sich abgrenzen von Störungen höherer kortikaler Hirnzentren, die z.B. zur sprechmotorischen Planung und Programmierung von Bewegungen ([Sprechapraxie](https://pathosunipotsdam.github.io/PathosUniPotsdam/Sprechapraxie.html)) oder zur linguistischen Planung / Sprachverarbeitung (Aphasie) dienen. Da am Sprechvorgang mindestens 5 von 12 Hirnnerven und um die 100 Muskeln beteiligt sind, treten Dysarthrophonien häufig in Verbindung mit [Dysphagie](https://pathosunipotsdam.github.io/PathosUniPotsdam/Dysphagie.html) und Aphasien sowie anderen Sprach-/Sprechstörungen auf, die von den selben versorgenden und ausführenden Strukturen gesteuert werden.
+
 
 
 ## Diagnostik

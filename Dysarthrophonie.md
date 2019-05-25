@@ -158,7 +158,15 @@ Sobald eine Störung vorliegt, kommt es zu diversen Symptomen in den verschieden
 
 Dysarthrophonien lassen sich abgrenzen von Störungen höherer kortikaler Hirnzentren, die z.B. zur sprechmotorischen Planung und Programmierung von Bewegungen ([Sprechapraxie](https://pathosunipotsdam.github.io/PathosUniPotsdam/Sprechapraxie.html)) oder zur linguistischen Planung / Sprachverarbeitung (Aphasie) dienen. Da am Sprechvorgang mindestens 5 von 12 Hirnnerven und um die 100 Muskeln beteiligt sind, treten Dysarthrophonien häufig in Verbindung mit [Dysphagien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Dysphagie.html) und Aphasien sowie anderen Sprach-/Sprechstörungen auf, die von den selben versorgenden und ausführenden Strukturen abhängen.
 
+Während man den Störungsort der [Sprechapraxien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Sprechapraxie.html) auf der Ebene des Planens einordnet, liegt der Störungsort der Dysarthrophonien auf der Ebene des Programmierens.
+
 ![Funktionelle Neuroanatomie des Sprechens](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Bildschirmfoto%202019-05-25%20um%2012.43.58.png?raw=true)
+
+Die wesentlichen Merkmale zur Unterscheidung von einer Sprechapraxie und einer Dysarthrophonie sind artikulatorische Suchbewegungen und ein konstantes Fehlermuster. 
+
+Dysarthrische Patienten zeigen keine artikulatorischen Suchbewegungen, da die Planung intakt ist, aber eine fehlerhafte Koordination zu der Sprechstörung führt. Patienten mit einer Sprechapraxie haben einen fehlerhaften Plan mit dem Sie versuchen die intakten motorischen Funktionen zu steuern. Sobald der Fehler bemerkt wird, wird nach dem richtigen Plan gesucht, was durch artikulatorische Suchbewegungen sichtbar wird.
+
+Die Symptome einer Dysarthrie äußern sich konstant. Das Sprechen weist durchgehend die gleichen Störungen auf. Wohingegen Symptome einer Sprechapraxie inkonstant auftreten und es auch zu Inseln intakter Sprachproduktion kommen kann.
 
 ## Diagnostik
 

@@ -46,7 +46,7 @@ Um dies zu ermöglichen sollten verschiedene Diagnostikinstrumente durchgeführt
 
 Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehend von den sprechapraktischen Symptomen.
 
-| Fehlertypen                         | Sprechapraxie              | Dysarthrophonie | Dysarthrophonie |
+| Fehlertypen                         | Sprechapraxie              | Dysarthrophonie | Aphasie         |
 |:------------------------------------|:---------------------------|:----------------|:----------------|
 | Phonetische Fehler                  | ✓                                                                                      inkonstant, inkonsistent | ✓                                                                                                      konstant     | -               |
 | Phonologische Fehler                | ✓ initial                  | -               | ✓ final, inkonsequent |
@@ -64,6 +64,8 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 | Normales Sprechtempo                | - verlangsamt              | - verlangsamt               | ✓              |
 
 ## Diagnostik
+
+![Leitfaden zur Diagnostik](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Sprechapraxie%20Leitfaden%20zur%20Diagnostik%20-%20dbl.png)
 
 ## Therapie
 

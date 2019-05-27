@@ -51,8 +51,7 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 |:------------------------------------|:---------------------------|:----------------|:----------------|
 | Phonetische Fehler                  | ✓                                                                                      inkonstant, inkonsistent | ✓                                                                                                      konstant     | -               |
 | Phonologische Fehler                | ✓ initial                  | -               | ✓ final, inkonsequent |
-| Artikulationsfehler                 | ✓ 
-(eher Silben-/ Wortanfang, Konsonantenverbindungen) | ✓ (eher Wort-/ Äußerungsende, Konsonantenverbindungen)              | ✓               |
+| Artikulationsfehler                 | ✓                                                                                            (eher Silben-/ Wortanfang, Konsonantenverbindungen)                                                                                     | ✓ (eher Wort-/ Äußerungsende, Konsonantenverbindungen)              | ✓               |
 | Skandierende Sprechweise            | ✓             | (✓) ataktische Dysarthrie            | -               |
 | Sprechpausen                        | ✓             | ✓              | (✓) abh. von Form und Schweregrad               |
 | Fehlstarts                          | ✓             | -               | -               |

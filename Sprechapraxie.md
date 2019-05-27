@@ -9,10 +9,11 @@
 Sprechapraxie beschreibt eine Störung in der Planung sowie Programmierung von bereits erlernten Sprechbewegungen und zählt zu den erworbenen sprechmotorischen Störungen. Das Störungsbild wird den ideomotorischen Apraxien (Störung der Bewegungsplanung) zugeordnet.
 Zu 9 Prozent handelt es sich bei einer neurologisch bedingten Sprechstörung um eine Sprechapraxie.
 
-* Apraxie
+* Apraxie – die Unfähigkeit, eine bereits erlernte Bewegung willkürlich zielgerichtet auszuführen
 
 > Definition nach Mc Neil, Robin & Schmidt (1997):
-> „Die Sprechapraxie ist eine phonetisch-motorische Störung bei intakten phonologischen Fähigkeiten, bei der es zu intra- und 
+> 
+„Die Sprechapraxie ist eine phonetisch-motorische Störung bei intakten phonologischen Fähigkeiten, bei der es zu intra- und 
 > interartikulatorischen zeitlichen und räumlichen segmentalen und prosodischen Abweichungen kommt.“ 
 
 
@@ -28,15 +29,15 @@ Sprechapraxien können zum Beispiel aber auch bei Tumorerkrankungen, Entzündung
 ## Leitsymptomatik
 
 Bei einer Sprechapraxien lassen sich drei Symptomkategorien bzw. folgenden Beobachtungsebenen unterscheiden:
-*	segmentale Ebene („articulation“): 
+*	**segmentale Ebene** („articulation“): 
 Auf der Ebene der Lautbildung kommt es bei sprechapraktischen Patientin häufig zu phonematischen Paraphasien, und zu phonetischen Entstellungen (Distorsionen). Zu den phonematischen Paraphasien zählen unter anderem Additionen, Elisionen, Substitutionen und Metathesen welche vom eigentlichen Ziellaut abweichen, aber dennoch wohlgeformt klingen. Entstimmungen, (De-) Affrizierungen, Lautdehnungen, Vor- bzw. Rückverlagerungen sowie ähnliches gehören zu den phonetischen Entstellungen. Dies sind Fehllaute, welche artikulatorisch entstellt sind und nicht wohlgeformt klingen. 
 Auf dieser Ebene kann es möglicherweise auch zu sogenannten „Mischformen“ kommen, genauer gesagt zu phonetisch entstellten phonematischen Paraphasien.
-*	suprasegmentale Ebene („prosody“): Auf der Ebene der Prosodie/ des Redeflusses sind oft Verlangsamungen und Unflüssigkeiten durch z.B. Fehlversuche oder Selbstkorrekturen, Nivellierung von Akzentkontrasten und Intonationsmustern sowie Iterationen (Wiederholungen) von Lauten, Silben und Wörtern zu verzeichnen. Zudem fallen Betroffenen häufig durch eine silbische (skandierende) Sprechweise und inadäquate bzw. inadäquat lange Pausen auf. Das Symptom der „Dysprosodie“, eine unnatürliche, monotone Sprechweise, ist momentan noch sehr umstritten, kann jedoch auch zu den primären Defiziten gezählt werden. 
-*	Sprechverhalten („fluency“): Auf der Ebene des Sprechverhaltens lassen sich bei den Patienten häufig artikulatorische zum Teil stumme Suchbewegungen und sichtbare sowie hörbare Sprechanstrengung ausmachen. Die Betroffenen besitzen meist ein stark ausgeprägtes Störungsbewusstsein. Die Sprechweise ist oft stark verlangsamt, wirkt unnatürlich und ist schwer verständlich, wodurch dementsprechend auch ein hoher Leidensdruck durch die Unzufriedenheit mit den eigenen Leistungen bei den Patienten zustande kommt.
+*	**suprasegmentale Ebene** („prosody“): Auf der Ebene der Prosodie/ des Redeflusses sind oft Verlangsamungen und Unflüssigkeiten durch z.B. Fehlversuche oder Selbstkorrekturen, Nivellierung von Akzentkontrasten und Intonationsmustern sowie Iterationen (Wiederholungen) von Lauten, Silben und Wörtern zu verzeichnen. Zudem fallen Betroffenen häufig durch eine silbische (skandierende) Sprechweise und inadäquate bzw. inadäquat lange Pausen auf. Das Symptom der „Dysprosodie“, eine unnatürliche, monotone Sprechweise, ist momentan noch sehr umstritten, kann jedoch auch zu den primären Defiziten gezählt werden. 
+*	**Sprechverhalten** („fluency“): Auf der Ebene des Sprechverhaltens lassen sich bei den Patienten häufig artikulatorische zum Teil stumme Suchbewegungen und sichtbare sowie hörbare Sprechanstrengung ausmachen. Die Betroffenen besitzen meist ein stark ausgeprägtes Störungsbewusstsein. Die Sprechweise ist oft stark verlangsamt, wirkt unnatürlich und ist schwer verständlich, wodurch dementsprechend auch ein hoher Leidensdruck durch die Unzufriedenheit mit den eigenen Leistungen bei den Patienten zustande kommt.
+
+Bei einer Sprechapraxie ist zu beachten, dass die Symptomatik sehr variabel ist. Das Vorkommen der Symptome ist bei jedem Patienten sehr individuell und auch treten die Fehler inkonstant, d.h. ein Laut wird nicht durchgängig falsch realisiert, und inkonsequent, d.h. die Art der falschen Realisierung ist nicht immer gleich, auf.  Auch kann es zu sogenannten „_Inseln intakter Sprachproduktion_“ kommen. In diesem Fall sind nicht alle verbalen Äußerungen des Patienten von Symptomen betroffen, es kann ganze symptomfreie Passagen geben. Dies ist von dem jeweiligen Automatisierungsgrad und dem Kommunikationskontext abhängig.
 
 ## Differentialdiagnostik
-
-Bei einer Sprechapraxie ist zu beachten, dass die Symptomatik sehr variabel ist. Das Vorkommen der Symptome ist bei jedem Patienten sehr individuell und auch treten die Fehler inkonstant, d.h. ein Laut wird nicht durchgängig falsch realisiert, und inkonsequent, d.h. die Art der falschen Realisierung ist nicht immer gleich, auf.  Auch kann es zu sogenannten „Inseln intakter Sprachproduktion“ kommen. In diesem Fall sind nicht alle verbalen Äußerungen des Patienten von Symptomen betroffen, es kann ganze symptomfreie Passagen geben. Dies ist von dem jeweiligen Automatisierungsgrad und dem Kommunikationskontext abhängig.
 
 Zunächst ist es grundlegend, zwischen Sprechstörungen (Sprechapraxien, [Dysarthrophonien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Dysarthrophonie.html)) und Sprachstörungen (Aphasien) zu unterscheiden. Bei Sprachstörungen ist es den Betroffenen nicht möglich, Sprache richtig zu verstehen und zu verarbeiten sowie auf bestimmte Worte zuzugreifen und daraus korrekte Sätze zu bilden. Hier sind alle sprachlichen Modalitäten (Sprachproduktion, Sprachverständnis, Lesen und Schreiben) betroffen. Bei den Sprechstörungen sind diese Fähigkeiten nicht eingeschränkt. 
 Anhand des nebenstehenden Sprachproduktionsmodells von Levelt (Levelt et al. 1989) lassen sich die verschiedenen Störungsschwerpunkte im System der verschiedenen Störungsbilder gut erkennen. --> blau = Aphasie, orange = Sprechapraxie, grün = Dysarthrie

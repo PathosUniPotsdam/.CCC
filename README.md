@@ -1,4 +1,3 @@
-...
 andere *.md = Störungsbilder  
 
 Link: [https://pathosunipotsdam.github.io/PathosUniPotsdam/](https://pathosunipotsdam.github.io/PathosUniPotsdam/Willkommen.html)

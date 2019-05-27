@@ -177,9 +177,9 @@ Hierbei kann es hilfreich sein die Reaktionen des Patienten mit einer Audio- ode
 Anhand einer 5- stufige Skalierung von 9 Merkmalen kann der Schweregrad ermittelt werden. Das Störungsprofil lässt sich durch die Merkmalshäufigkeit bestimmen.
 
 Es gibt drei verschiedene Ausführungen der BoDys: 
-- eine Vollversion, bei der alle Modalitäten 3x geprüft werden, sodass man 12 Sprechproben erhält.
-- eine Kurzversion, bei der alle Modalitäten 2x geprüft werden, sodass man 8 Sprechproben erhält.
-- und eine Version ohne Lesen, bei der alle übrigen Modalitäten 3x geprüft werden, sodass man 9 Sprechproben erhält.
+- eine _Vollversion_, bei der alle Modalitäten 3x geprüft werden, sodass man 12 Sprechproben erhält.
+- eine _Kurzversion_, bei der alle Modalitäten 2x geprüft werden, sodass man 8 Sprechproben erhält.
+- und eine _Version ohne Lesen_, bei der alle übrigen Modalitäten 3x geprüft werden, sodass man 9 Sprechproben erhält.
 
 #### Frenchay Dysarthrie Untersuchung
 

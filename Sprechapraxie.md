@@ -51,16 +51,16 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 |:------------------------------------|:---------------------------|:----------------|:----------------|
 | Phonetische Fehler                  | ✓                                                                                      inkonstant, inkonsistent | ✓                                                                                                      konstant     | -               |
 | Phonologische Fehler                | ✓ initial                  | -               | ✓ final, inkonsequent |
-| Artikulationsfehler                 | ✓ (eher Silben-/ Wortanfang und Konsonantenverbindungen) | ✓ (eher Wort-/ Äußerungsende und Konsonantenverbindungen)              | ✓               |
+| Artikulationsfehler                 | ✓ (eher Silben-/ Wortanfang, Konsonantenverbindungen) | ✓ (eher Wort-/ Äußerungsende, Konsonantenverbindungen)              | ✓               |
 | Skandierende Sprechweise            | ✓             | (✓) ataktische Dysarthrie            | -               |
-| Sprechpausen                        | ✓             | ✓              | (✓) abhängig von Form und Schweregrad               |
+| Sprechpausen                        | ✓             | ✓              | (✓) abh. von Form und Schweregrad               |
 | Fehlstarts                          | ✓             | -               | -               |
-| Selbstkorrekturen                   | ✓             | -               | (✓) abhängig von Form und Schweregrad             |
+| Selbstkorrekturen                   | ✓             | -               | (✓) abh. von Form und Schweregrad             |
 | Redefluss- und Akzentuierungsfehler | ✓             | ✓              | -                |
 | Störungen in der Stimmgebung, Phonation, Sprechatmung und Resonanz       | -             | ✓               | -               |
 | Artikulatorisches Suchverhalten     | ✓             | -               | -               |
 | Sprechanstrengung                   | ✓             | ✓               | ✓              |
-| Störungsbewusstsein                 | ✓             | ✓               | (✓) abhängig vom Schweregrad            |
+| Störungsbewusstsein                 | ✓             | ✓               | (✓) abh. vom Schweregrad            |
 | Inseln intakter Sprachproduktion    | ✓             | -               | ✓ Leitungsaphasie              |
 | Normales Sprechtempo                | - verlangsamt              | - verlangsamt               | ✓              |
 

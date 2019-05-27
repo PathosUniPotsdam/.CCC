@@ -12,8 +12,7 @@ Zu 9 Prozent handelt es sich bei einer neurologisch bedingten Sprechstörung um 
 * Apraxie – Unfähigkeit, eine bereits erlernte Bewegung willkürlich zielgerichtet auszuführen
 
 > Definition nach Mc Neil, Robin & Schmidt (1997):
-> 
-„Die Sprechapraxie ist eine phonetisch-motorische Störung bei intakten phonologischen Fähigkeiten, bei der es zu intra- und 
+> „Die Sprechapraxie ist eine phonetisch-motorische Störung bei intakten phonologischen Fähigkeiten, bei der es zu intra- und 
 > interartikulatorischen zeitlichen und räumlichen segmentalen und prosodischen Abweichungen kommt.“ 
 
 

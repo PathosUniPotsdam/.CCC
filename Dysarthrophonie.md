@@ -171,7 +171,7 @@ Die Symptome einer Dysarthrie äußern sich konstant. Das Sprechen weist durchge
 ## Diagnostik
 
 #### BoDys (Bogenhausener Dysarthrieskalen)
-Die Bogenhausener Dysarthrieskalen sind ein normiertes und validiertes Untersuchungsmaterial für die Diagnostik einer Dysarthrophonie. Es werden ausschließlich sprachliche Untersuchungsaufgaben in den Modalitäten Spontansprache, Nachsprechen, Lesen und Bildbeschreibung durchgeführt. 
+Die Bogenhausener Dysarthrieskalen sind ein normiertes und validiertes Untersuchungsmaterial für die Diagnostik einer Dysarthrophonie. Es werden ausschließlich sprachliche Untersuchungsaufgaben in den Modalitäten _Spontansprache, Nachsprechen, Lesen_ und _Bildbeschreibung_ durchgeführt. 
 
 Hierbei kann es hilfreich sein die Reaktionen des Patienten mit einer Audio- oder Videoaufnahme für die Auswertung festzuhalten. Die Beurteilung erfolgt nämlich ausschließlich durch die auditive Wahrnehmung des Sprachtherapeuten. 
 Anhand einer 5- stufige Skalierung von 9 Merkmalen kann der Schweregrad ermittelt werden. Das Störungsprofil lässt sich durch die Merkmalshäufigkeit bestimmen.

@@ -9,7 +9,7 @@
 Sprechapraxie beschreibt eine Störung in der Planung sowie Programmierung von bereits erlernten Sprechbewegungen und zählt zu den erworbenen sprechmotorischen Störungen. Das Störungsbild wird den ideomotorischen Apraxien (Störung der Bewegungsplanung) zugeordnet.
 Zu 9 Prozent handelt es sich bei einer neurologisch bedingten Sprechstörung um eine Sprechapraxie.
 
-* Apraxie – die Unfähigkeit, eine bereits erlernte Bewegung willkürlich zielgerichtet auszuführen
+* Apraxie – Unfähigkeit, eine bereits erlernte Bewegung willkürlich zielgerichtet auszuführen
 
 > Definition nach Mc Neil, Robin & Schmidt (1997):
 > 
@@ -49,18 +49,18 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 
 | Fehlertypen                         | Sprechapraxie              | Dysarthrophonie | Aphasie         |
 |:------------------------------------|:---------------------------|:----------------|:----------------|
-| Phonetische Fehler                  | ✓                                                                                      inkonstant, inkonsistent | ✓                                                                                                      konstant     | -               |
+| Phonetische Fehler                  | ✓ inkonstant, inkonsistent | ✓ konstant     | -               |                                                                                   
 | Phonologische Fehler                | ✓ initial                  | -               | ✓ final, inkonsequent |
 | Artikulationsfehler                 | ✓                                                                                            (eher Silben-/ Wortanfang, Konsonantenverbindungen)                                                                                     | ✓ (eher Wort-/ Äußerungsende, Konsonantenverbindungen)              | ✓               |
-| Skandierende Sprechweise            | ✓             | (✓) ataktische Dysarthrie            | -               |
-| Sprechpausen                        | ✓             | ✓              | (✓) abh. von Form und Schweregrad               |
+| Skandierende Sprechweise            | ✓             | (✓) ataktische Dysarthrie            | -           |
+| Sprechpausen                        | ✓             | ✓              | (✓) abh. von Form und Schweregrad|
 | Fehlstarts                          | ✓             | -               | -               |
-| Selbstkorrekturen                   | ✓             | -               | (✓) abh. von Form und Schweregrad             |
+| Selbstkorrekturen                   | ✓             | -               | (✓) abh. von Form und Schweregrad|
 | Redefluss- und Akzentuierungsfehler | ✓             | ✓              | -                |
-| Störungen in der Stimmgebung, Phonation, Sprechatmung und Resonanz       | -             | ✓               | -               |
+| Störungen in der Stimmgebung, Phonation, Sprechatmung und Resonanz     | -             | ✓               | -               |
 | Artikulatorisches Suchverhalten     | ✓             | -               | -               |
 | Sprechanstrengung                   | ✓             | ✓               | ✓              |
-| Störungsbewusstsein                 | ✓             | ✓               | (✓) abh. vom Schweregrad            |
+| Störungsbewusstsein                 | ✓             | ✓               | (✓) abh. vom Schweregrad|
 | Inseln intakter Sprachproduktion    | ✓             | -               | ✓ Leitungsaphasie              |
 | Normales Sprechtempo                | - verlangsamt              | - verlangsamt               | ✓              |
 

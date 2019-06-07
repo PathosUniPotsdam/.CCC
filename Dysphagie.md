@@ -82,13 +82,17 @@ Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshal
 - **Ösophageale Phase:** Öffnung des oberen Ösophagussphinkters, Boluseintritt, Bolustransport in den Speiseweg
 
 ### Pathophysiologie des Schluckens
+
 **Schutzmechanismen:**
 * Nasopharyngealer Verschluss
 * Laryngealer Verschluss
+
 **Schutzreflexe:**
 * Würgreflex
 * Hustenreflex
+
 **Leaking:** vorzeitiges Abgleiten des Bolus
+
 **Drooling:** Speichelfluss aus dem Mund
 
 #### Penetration:

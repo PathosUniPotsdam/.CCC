@@ -98,10 +98,10 @@ Bei der Penetration gelangt Speichel oder Nahrung unterhalb der Epiglottis bis z
 #### Aspiration:
 Bei der Aspiration gelangt Speichel oder Nahrung in den Bereich der Glottis bis hinein in den subglottischen Raum.
 
-* prädeglutitive Aspiration: vor der Schluckreflextriggerung
-* intradeglutitive Aspiration: während der Boluspassage durch den Pharynx
-* postdeglutitive Aspiration: nach der Boluspassage durch den Pharynx
-* stille Aspiration: Ausbleiben der Schutzreflexe
+* **prädeglutitive Aspiration:** vor der Schluckreflextriggerung
+* **intradeglutitive Aspiration:** während der Boluspassage durch den Pharynx
+* **postdeglutitive Aspiration:** nach der Boluspassage durch den Pharynx
+* **stille Aspiration:** Ausbleiben der Schutzreflexe
 
 
 

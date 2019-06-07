@@ -30,6 +30,8 @@ Presbyphagie (=altersbedingte Schluckveränderungen), Bewegungsstörungen / Moti
 ### Folgen
 Folgen können Mangelernährung (=Malnutrition) und Austrocknung (=Dehydratation) sowie Penetrationen (=der Bolus/Speichel gelangt bis zur Glottisebene) oder Aspirationen (=der Bolus gelangt bis hinter die Glottis). Bei einer sogenannten „stillen Aspiration“ bleiben Schutzreflexe wie Husten oder Würgen aus. Eine Aspirationspneumonie (=Lungenentzündung) kann unter Umständen tödlich enden.
 
+Teufelskreis: Dysphagie <> Mangelernährung <> Muskelabbau
+
 ## Leitsymptomatik
 Als klinische Prädikatoren einer Dysphagie gelten die folgenden Symptome:
 * abnormaler Würgreflex
@@ -48,6 +50,7 @@ Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Sc
 ## Schlucken
 
 ### Physiologie des Schluckens
+
 ![Branching](https://blog.lecturio.de/wp-content/uploads/2015/10/Anatomy-of-Nose-Pharynx-Mouth-Larynx.jpg)
 
 #### Physiologisches Schlucken:
@@ -59,6 +62,7 @@ Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Sc
 Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshalb zweiterer vor dem Eindringen von Nahrung oder Speichel geschützt werden muss.
 
 ### Schluckphasen
+
 ![Branching](https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png)
 
 - **präorale Phase:** Vorbereiten und Heranführen der Speisen an den Mund unter Einbezug aller Sinnesmodalitäten
@@ -74,9 +78,28 @@ Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshal
   Zungenretraktion, Pharynxkontraktion
 - **Ösophageale Phase:** Öffnung des oberen Ösophagussphinkters, Boluseintritt, Bolustransport in den Speiseweg
 
+### Pathophysiologie des Schluckens
 
-### Pathologie des Schluckens
+**Schutzmechanismen:**
+* Nasopharyngealer Verschluss
+* Laryngealer Verschluss
 
+**Schutzreflexe:**
+* Würgreflex
+* Hustenreflex
+
+#### Penetration
+Bei der Penetration gelangt Speichel oder Nahrung unterhalb der Epiglottis bis zur supraglottischen Ebene der Stimmlippen.
+
+#### Aspiration
+Bei der Aspiration gelangt Speichel oder Nahrung in den Bereich der Glottis bis hinein in den subglottischen Raum.
+* prädeglutitive Aspiration: vor der Schluckreflextriggerung
+* intradeglutitive Aspiration: während der Boluspassage durch den Pharynx
+* postdeglutitive Aspiration: nach der Boluspassage durch den Pharynx
+* stille Aspiration: Ausbleiben der Schutzreflexe
+
+**Leaking:** vorzeitiges Abgleiten des Bolus
+**Drooling:** Speichelfluss aus dem Mund
 
 ## Diagnostik
 

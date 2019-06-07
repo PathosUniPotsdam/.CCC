@@ -61,20 +61,18 @@ Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshal
 ### Schluckphasen
 ![Branching](https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png)
 
-- präorale Phase: 
- Vorbereiten und Heranführen der Speisen an den Mund unter Einbezug aller Sinnesmodalitäten - _wahrnehmen, zubereiten_
-- orale Phase: 
+- **präorale Phase:** Vorbereiten und Heranführen der Speisen an den Mund unter Einbezug aller Sinnesmodalitäten
+- **orale Phase:** 
   - Vorbereitungsphase: 
-  Bolusplatzierung, Boluszerkleinerung, Bolussammlung in der Zugenschüssel - _abbeißen, kauen, einspeicheln, formen_
+  Bolusplatzierung, Boluszerkleinerung, Bolussammlung in der Zugenschüssel
   - Transportphase: 
   Bolustransport in den Pharynx durch Zungenretraktion Richtung Gaumen _aufwärts, rückwärts_ - Hyoid-Bewegung _aufwärts, vorwärts_
-- pharyngeale Phase: 
+- **pharyngeale Phase:** 
   - Atemwegsverschluss: 
   Triggerung Schluckreflex, Nasopharyngealer Verschluss, Larynxverschluss
   - Bolustransport: 
   Zungenretraktion, Pharynxkontraktion
-- Ösophageale Phase: 
-Öffnung des oberen Ösophagussphinkters, Boluseintritt, Bolustransport in den Speiseweg
+- **Ösophageale Phase:** Öffnung des oberen Ösophagussphinkters, Boluseintritt, Bolustransport in den Speiseweg
 
 
 ### Pathologie des Schluckens

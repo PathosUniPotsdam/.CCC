@@ -46,10 +46,11 @@ Begleitend können [Dysarthrophonien](https://pathosunipotsdam.github.io/PathosU
 Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Schluckaktes in der _oralen, pharyngealen und / oder ösophagealen Phase._
 
 ## Schlucken
+
 ### Physiologie des Schluckens
 ![Branching](https://blog.lecturio.de/wp-content/uploads/2015/10/Anatomy-of-Nose-Pharynx-Mouth-Larynx.jpg)
 
-**Physiologisches Schlucken:**
+#### Physiologisches Schlucken:
 * ~ 1000 Mal am Tag
 * ~ 1 Mal pro Minute
 * tagsüber > nachts
@@ -60,15 +61,18 @@ Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshal
 ### Schluckphasen
 ![Branching](https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png)
 
-**Schluckphasen**:
-* präorale Phase: 
-Vorbereiten und Heranführen der Speisen an den Mund unter Einbezug aller Sinnesmodalitäten - _wahrnehmen, zubereiten_
+* präorale Phase: Vorbereiten und Heranführen der Speisen an den Mund unter Einbezug aller Sinnesmodalitäten - _wahrnehmen, zubereiten_
 * orale Phase: 
-** Vorbereitungsphase: Bolusplatzierung, Boluszerkleinerung, Bolussammlung in der Zugenschüssel - _abbeißen, kauen, einspeicheln, formen_
-** Transportphase: Bolustransport in den Pharynx durch Zungenretraktion Richtung Gaumen _aufwärts, rückwärts_ - Hyoid-Bewegung _aufwärts, vorwärts_
+
+Vorbereitungsphase: Bolusplatzierung, Boluszerkleinerung, Bolussammlung in der Zugenschüssel - _abbeißen, kauen, einspeicheln, formen_
+
+Transportphase: Bolustransport in den Pharynx durch Zungenretraktion Richtung Gaumen _aufwärts, rückwärts_ - Hyoid-Bewegung _aufwärts, vorwärts_
+
 * pharyngeale Phase: 
-** Atemwegsverschluss: Triggerung Schluckreflex, Nasopharyngealer Verschluss, Larynxverschluss
-** Bolustransport: Zungenretraktion, Pharynxkontraktion
+
+Atemwegsverschluss: Triggerung Schluckreflex, Nasopharyngealer Verschluss, Larynxverschluss
+
+Bolustransport: Zungenretraktion, Pharynxkontraktion
 * Ösophageale Phase: Öffnung des oberen Ösophagussphinkters, Boluseintritt, Bolustransport in den Speiseweg
 
 

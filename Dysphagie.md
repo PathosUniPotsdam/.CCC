@@ -125,7 +125,9 @@ Folgende Warnsignale ("Red Flags") deuten auf eine vorliegende Dysphagie hin
 * Gewichtsverlust, Austrocknung (=Dehydratation)
 
 ### GUSS
-Der Gugging Swallowing Screen von Trapl et al. (2007) ist selbst mit schwer betroffenen Patienten, z.B. in der (Post)Akutphase eines Schlaganfalls leicht durchzuführen. Bei diesem und anderen Screeningverfahren stellt das primäre Ziel dar, die Notwendigkeit einer weiteren, ggf. instrumentellen Untersuchung abzuklären. Im Gegensatz zu anderen Verfahren wird beim GUSS das Aspirationsrisiko nicht nur durch Gabe von flüssigen, sondern ebenfalls breiigen und festen Konsistenzen ermittelt. Aus den GUSS-Ergebnissen kann eine Kostempfehlung abgeleitet werden.
+Der Gugging Swallowing Screen von Trapl et al. (2007) ist selbst mit schwer betroffenen Patienten, z.B. in der (Post)Akutphase eines Schlaganfalls leicht durchzuführen. Bei diesem und anderen Screeningverfahren stellt das primäre Ziel dar, die Notwendigkeit einer weiteren, ggf. instrumentellen Untersuchung abzuklären ("pass / fail"). Im Gegensatz zu anderen Verfahren wird beim GUSS das Aspirationsrisiko nicht nur durch Gabe von flüssigen, sondern ebenfalls breiigen und festen Konsistenzen ermittelt. 
+Der GUSS weist mit ca. 50% eine mittelmäßige Spezifität, jedoch mit ca. 100% eine hohe Sensitivität auf.
+Das Screening besteht aus drei Teilen:
 
 1. Voruntersuchung / indirekter Schluckversuch -> ja (1) vs. nein (0)
   - Vigilanz (=Wachheit) über 15 Minuten
@@ -136,13 +138,31 @@ Der Gugging Swallowing Screen von Trapl et al. (2007) ist selbst mit schwer betr
   - Schluckakt -> nicht möglich (0) / verzögert (1) / erfolgreich (2)
   - unwillkürliches Husten -> ja (1) / nein (0)
   - Drooling -> ja (1) / nein (0)
-  - Stimmänderung -> ja (1) / nein (0)
+  - Stimmänderung (Phonationsprobe) -> ja (1) / nein (0)
  
- Summe 
- 
+3. Evaluation
+  - Ergebnisse 
+  - Schweregrad
+  - Empfehlungen
+
+Die Summe der vier Untertests, in welchen jeweils  bis zu 5 Punkte erreicht werden können, gibt Auskunft über den Schweregrad der Dysphagie. Bei Erreichen von 20  Punkten liegt keine, bei 15-19 Punkten eine leichtgradige, mit 10-14 Punkten eine mittelgradige und bei 0-9 Punkten eine hochgradige Schluckstörung vor. Desweiteren kann aus den GUSS-Ergebnissen eine Kostempfehlung abgeleitet werden. 
 
 ### Klinische Schluckuntersuchung
+Die klinische Schluckuntersuchung (KSU) ermöglicht die Evaluation des Schluckstatus eines Patienten unter Verwendung schluckbezogener und nicht schluckbezogener Anteile. Sie liefert Hypothesen bezüglich des Pathophysiologie des Schluckens, ersetzt jedoch keine der Visualisierung dienenden instrumentellen Diagnostikinstrumente.
 
+**Ziele:**
+* Diagnose einer Dysphagie
+* Statuserhebung / Schweregradsbestimmung / Verlaufsdokumentation
+* Therapieplanung
+* Kostempfehlung
+
+**Bausteine:**
+* Anamnese
+* Inspektion schluckrelevanter Strukturen (deskriptiv)
+* Hirnnervenstatus
+* Status der Schutzreflexe / Rachenreinigung (Husten, Räuspern)
+* Stimmprobe
+* Schluckversuch
 
 ## Therapie
 

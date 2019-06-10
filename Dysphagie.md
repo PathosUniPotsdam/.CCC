@@ -125,7 +125,21 @@ Folgende Warnsignale ("Red Flags") deuten auf eine vorliegende Dysphagie hin
 * Gewichtsverlust, Austrocknung (=Dehydratation)
 
 ### GUSS
-Gugging Swallowing Screen
+Der Gugging Swallowing Screen von Trapl et al. (2007) ist selbst mit schwer betroffenen Patienten, z.B. in der (Post)Akutphase eines Schlaganfalls leicht durchzuführen. Bei diesem und anderen Screeningverfahren stellt das primäre Ziel dar, die Notwendigkeit einer weiteren, ggf. instrumentellen Untersuchung abzuklären. Im Gegensatz zu anderen Verfahren wird beim GUSS das Aspirationsrisiko nicht nur durch Gabe von flüssigen, sondern ebenfalls breiigen und festen Konsistenzen ermittelt. Aus den GUSS-Ergebnissen kann eine Kostempfehlung abgeleitet werden.
+
+1. Voruntersuchung / indirekter Schluckversuch -> ja (1) vs. nein (0)
+  - Vigilanz (=Wachheit) über 15 Minuten
+  - willkürliches Husten und oder Räuspern
+  - Speichelschluck
+  
+2. Direkter Schluckversuch -> breiig vs. flüssig vs. fest
+  - Schluckakt -> nicht möglich (0) / verzögert (1) / erfolgreich (2)
+  - unwillkürliches Husten -> ja (1) / nein (0)
+  - Drooling -> ja (1) / nein (0)
+  - Stimmänderung -> ja (1) / nein (0)
+ 
+ Summe 
+ 
 
 ### Klinische Schluckuntersuchung
 

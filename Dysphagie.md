@@ -7,7 +7,7 @@ layout: default
 ----------------
 
 ## Definition
-Eine Dysphagie ist eine Schluckstörung, beeinträchtigt also die Fähigkeit Boli wie Speisen und Getränke oder Speichel vom Mund in den Verdauungstrakt zu befördern, ohne dabei die Atemwege zu gefährden. 
+Eine Dysphagie ist eine Schluckstörung, beeinträchtigt also die Fähigkeit Boli wie Speisen und Getränke oder Speichel vom Mund in den Verdauungstrakt zu befördern, ohne dabei die Atemwege zu gefährden. Es können eine oder mehrere Komponenten des gesamten Schluckaktes Defizite aufweisen, die einer ausreichenden sowie sicheren Nahrungsaufnahme im Weg stehen.
 Die Ursache von Dysphagien ist breit gefächert und tritt bei Menschen jeglicher Altersgruppen, gehäuft jedoch bei zunehmendem Alter auf. Schluckstörungen können als Resultat verschiedenster Grunderkrankungen auftreten. 
 
 * dys - von der Norm abweichend, krankhaft
@@ -106,11 +106,26 @@ Bei der Aspiration gelangt Speichel oder Nahrung in den Bereich der Glottis bis 
 * **postdeglutitive Aspiration:** nach der Boluspassage durch den Pharynx
 * **stille Aspiration:** Ausbleiben der Schutzreflexe
 
-
-
 ## Diagnostik
+Die Dysphagiediagnostik dient der
+* Identifikation einer Dysphagie (Symptome, Pathophysiologie, Schweregrad)
+* Identifikation von Ressourcen und Beeinträchtigung der oralen Ernährungsfähigkeit
+* Ableitung störungsspezifischer Therapieziele und -maßnahmen (Kostempfehlung, Kompensation, Rehabilitation)
+
+Folgende Warnsignale ("Red Flags") deuten auf eine vorliegende Dysphagie hin
+* veränderter Stimmklang / auffällige Phonation (=wet voice)
+* Atemgeräusche
+* Temperaturanstieg, Entzündungswerte, Bronchitis, Pneumonie
+* Räuspern, Husten
+* Speichelfluss (=Drooling)
+* Flüssigkeiten / Nahrungsaustritt aus der Nase
+* Nahrungsresiduen (=Überreste) in den Wangentaschen / unterhalb der Zunge
+* langsames / schnelles Esstempo
+* Vermeidung / Verweigerung von Nahrung
+* Gewichtsverlust, Austrocknung (=Dehydratation)
 
 ### GUSS
+Gugging Swallowing Screen
 
 ### Klinische Schluckuntersuchung
 

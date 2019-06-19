@@ -14,18 +14,23 @@ Die Ursache von Dysphagien ist breit gefächert und tritt bei Menschen jeglicher
 * phagein - essen, schlucken
 
 ## Ätiologie
-* **neurogen:** 
-Schlaganfall/Blutungen, Schädel-Hirn-Trauma, degenerative Erkrankungen (z.B. Demenz, M. Parkinson, ALS, MS), Hirnhautentzündung, Muskelerkrankungen
-* **psychogen:**
-Verhaltensstörungen, Essstörungen, Phagophobie (=Schluckangst), gestörte Eltern-Kind-Interaktion
-*	**nach Operationen:**
-Tumore im Mund-, Hals- und Kopfbereich, Tumore der (oberen) Speiseröhre, Lippen-Kiefer-Gaumen-Spalten, Halswirbelsäule, strukturelle / funktionelle Veränderungen
-*	**im Kindesalter:** 
-Lippen-Kiefer-Gaumen-Spalten, Tonsillenhyperplasie (=vergrößerte Gaumen- / Rachenmandel), Bewegungsstörungen / Motilitätsstörungen, Missbildungssyndrome, neurologische Erkrankung (ZNS, PNS, Muskeln, nach Tumoroperationen, usw.)
-*	**im fortschreitenden Alter:** 
-Presbyphagie (=altersbedingte Schluckveränderungen), Bewegungsstörungen / Motilitätsstörungen, Demenzerkrankungen, Antriebsstörungen
-*	**andere:**
-Ösophaguserkrankungen (z.B. neuromuskulär bedingter Reflux), Vergiftungen / Verätzungen des Speisewegs, nach Langzeitintubation, nach Strahlen- oder Chemotherapie
+- **neurogen:** 
+  - Schlaganfall/Blutungen, Schädel-Hirn-Trauma, degenerative Erkrankungen (z.B. Demenz, M. Parkinson, ALS, MS),
+  Hirnhautentzündung, Muskelerkrankungen
+- **psychogen:**
+  - Verhaltensstörungen, Essstörungen, Phagophobie (=Schluckangst), gestörte Eltern-Kind-Interaktion
+-	**nach Operationen:**
+  - Tumore im Mund-, Hals- und Kopfbereich, Tumore der (oberen) Speiseröhre, Lippen-Kiefer-Gaumen-Spalten, Halswirbelsäule,
+  strukturelle / funktionelle Veränderungen
+-	**im Kindesalter:** 
+  - Lippen-Kiefer-Gaumen-Spalten, Tonsillenhyperplasie (=vergrößerte Gaumen- / Rachenmandel), Bewegungsstörungen / 
+  Motilitätsstörungen, Missbildungssyndrome, neurologische Erkrankung (ZNS, PNS, Muskeln, nach Tumoroperationen, usw.)
+-	**im fortschreitenden Alter:** 
+  - Presbyphagie (=altersbedingte Schluckveränderungen), Bewegungsstörungen / Motilitätsstörungen, Demenzerkrankungen,
+  Antriebsstörungen
+-	**andere:**
+  - Ösophaguserkrankungen (z.B. neuromuskulär bedingter Reflux), Vergiftungen / Verätzungen des Speisewegs, nach
+  Langzeitintubation, nach Strahlen- oder Chemotherapie
 
 **Folgen**
 Folgen können Mangelernährung (=Malnutrition) und Austrocknung (=Dehydratation) sowie Penetrationen (=der Bolus/Speichel gelangt bis zur Glottisebene) oder Aspirationen (=der Bolus gelangt bis hinter die Glottis). Bei einer sogenannten „stillen Aspiration“ bleiben Schutzreflexe wie Husten oder Würgen aus. Eine Aspirationspneumonie (=Lungenentzündung) kann unter Umständen tödlich enden.
@@ -125,7 +130,7 @@ Folgende Warnsignale ("Red Flags") deuten auf eine vorliegende Dysphagie hin
 * Gewichtsverlust, Austrocknung (=Dehydratation)
 
 #### GUSS
-Der Gugging Swallowing Screen von Trapl et al. (2007) ist selbst mit schwer betroffenen Patienten, z.B. in der (Post)Akutphase eines Schlaganfalls leicht durchzuführen. Bei diesem und anderen Screeningverfahren stellt das primäre Ziel dar, die Notwendigkeit einer weiteren, ggf. instrumentellen Untersuchung abzuklären ("pass / fail"). Im Gegensatz zu anderen Verfahren wird beim GUSS das Aspirationsrisiko nicht nur durch Gabe von flüssigen, sondern ebenfalls breiigen und festen Konsistenzen ermittelt. 
+Der Gugging Swallowing Screen (GUSS) von Trapl et al. (2007) ist selbst mit schwer betroffenen Patienten, z.B. in der (Post)Akutphase eines Schlaganfalls leicht durchzuführen. Bei diesem und anderen Screeningverfahren stellt das primäre Ziel dar, die Notwendigkeit einer weiteren, ggf. instrumentellen Untersuchung abzuklären ("pass / fail"). Im Gegensatz zu anderen Verfahren wird beim GUSS das Aspirationsrisiko nicht nur durch Gabe von flüssigen, sondern ebenfalls breiigen und festen Konsistenzen ermittelt. 
 Der GUSS weist mit ca. 50% eine mittelmäßige Spezifität, jedoch mit ca. 100% eine hohe Sensitivität auf.
 Das Screening besteht aus drei Teilen:
 
@@ -165,15 +170,27 @@ Die klinische Schluckuntersuchung (KSU) ermöglicht die Evaluation des Schluckst
 * Schluckversuch
 
 ## Therapie
-**Therapieansätze bei Dysphagie**
-* _adaptierende_ Verfahren: Veränderung externer Bedingungen für die Nahrungsaufnahme
-  z.B. Kostadaption (pürierte Kost, angedickte Kost...), spezielle Hilfsmittel (Trinkbecher, Besteck...)
-* _kompensatorische_ Verfahren: Erlernen von Haltungsänderungen und Schluckmanövern
-  z.B. Chin Tuck, Shaker Übung, ...
-* _restituierende_ Verfahren: Wiederherstellung beeinträchtigter schluckrelevanter (Teil)Funktion durch spezifische Übungstherapie
-  z.B. Glissandoübungen, kräftiges Schlucken,...
+Die Therapiemaßnahmen einer Dysphagie leiten sich aus dem zugrundeliegenden der Störungsbild ab.
 
-Innerhalb **restituierender** Verfahren der Schlucktherapie kommen die folgende Prinzipen des **motorischen Lernens** zum Greifen:
+Mögliche Therapieziele wären folgende:
+- **allgemeine Ziele:**
+  - Vermeidung von Mangelernährung (=Malnutrition) / Austrocknung (=Dehydratation)
+  - Vermeidung von Penetration / Aspiration / Pneumonie
+  - oraler Kostaufbau
+  - Trachealkanülenentwöhnung
+  - Verbesserung der Lebensqualität
+- **Funktionsziele:**
+  - Verbesserung der Kieferöffnung
+  - Verbesserung der Zungenretraktionskraft
+  - Verbesserung der Kehlkopfhebung
+  - Verbesserung der Hand-Mund-Koordination
+  - Kräftigung der willkürlichen und reflektorischen Schutzreflexe / -reaktionen
+- **Partizipationsziele:**
+  - Verbesserung der Speichelkontrolle
+  - Beginn teiloraler Ernährung (z.B. passierte Kost)
+  - Erweiterung oraler Ernährung (z.B. Übergang zu weich-festen Konsistenzen)
+
+**Prinzipen des motorischen Lernens innerhalb der Dysphagietherapie:**
 - Intensität: 
   - hohe Therapiefrequenz bei angemessener Dauer
   - häufige Wiederholungen der Bewegungsabläufe
@@ -181,19 +198,38 @@ Innerhalb **restituierender** Verfahren der Schlucktherapie kommen die folgende 
 - Spezifität:
   - dem funktionellen Ziel entsprechende Bewegungsaufgaben
   - spezifisch die Zielmuskulatur aktivierende Bewegungsaufgaben
-
-**Bausteine sensomotorischer Dysphagietherapie:**
+  
+**Therapieansätze bei Dysphagie**
+- _adaptierende_ Verfahren: 
+  - Veränderung externer Bedingungen für die Nahrungsaufnahme
+  z.B. Kostadaption (pürierte Kost, angedickte Kost...), spezielle Hilfsmittel (Trinkbecher, Besteck...), ...
+- _kompensatorische_ Verfahren: 
+  - Erlernen von Haltungsänderungen und Schluckmanövern
+  z.B. Chin Tuck, Shaker Übung, ...
+- _restituierende_ Verfahren: 
+  - Wiederherstellung beeinträchtigter schluckrelevanter (Teil)Funktion durch spezifische Übungstherapie
+  z.B. Glissandoübungen, kräftiges Schlucken, ...
+  
+**Bausteine restituierender Dysphagietherapie:**
 * Vorbereitung: Lagerung / Positionierung, Tonus- / Sensibilitätsregulation
-* Mobilisation: passiv (= Anbahnen von Bewegungen) vs. assistiv (= Unterstützen von Bewegungen) vs. aktiv (= Verbesserung von Bewegungen) vs. aktiv gegen Widerstand (= Intensitätserhöhung)
-* Kompensation / Adaption: Schlucktechniken, Haltungsänderungen, Kostanpassung
+* Mobilisation: passiv (=Anbahnung von Bewegungen) vs. assistiv (=Unterstützung von Bewegungen) vs. aktiv (=Verbesserung von Bewegungen) vs. aktiv gegen Widerstand (=Intensitätserhöhung)
 * Transfer: Einbettung und Übung erarbeiteter Bewegungen / Strategien in die Schluckfunktion
 
+#### F.O.T.T.
+Die Fazio-orale-Trakt-Therapie liegt dem Bobath-Konzept (krankengymnastisches Pflegekonzept von 1943 mit der Grundannahme eine Spastik bilde sich in Abhängigkeit von der Lagerung und Stellung des Körpers aus) zugrunde.
+Sie wirkt _restituierend_ und eignet sich für die Behandlung von Klienten mit neurogenen Störungen der Mimik, oralen Bewegungen, Atmung, Stimme, des Sprechens und der Nahrungsaufnahme aufgrund erworbener Hirnschädigungen. Die F.O.T.T. erweist sich als wirksame "24-Stunden-Behandlung" bei bewusstseinsgestörten oder kognitiv schwer beeinträchtigten Patienten.
+
+#### Therapie nach Castillo Morales
+Das neurophysiologische Therapiekonzept nach Castillo Morales ist geeignet für Kinder, insbesondere mit Down-Syndrom und Erwachsene  mit kommunikativen, sensomotorischen und orofazialen Störungen. Es umfasst ausschließlich _restituierende_ Übungen.
 
 
+**Bausteine sensomotorischer (funktioneller) Dysphagietherapie:**
+* Vorbereitung: Lagerung / Positionierung, Tonus- / Sensibilitätsregulation
+* Mobilisation: passiv (=Anbahnung von Bewegungen) vs. assistiv (=Unterstützung von Bewegungen) vs. aktiv (=Verbesserung von Bewegungen) vs. aktiv gegen Widerstand (=Intensitätserhöhung)
+_* Kompensation / Adaption: Schlucktechniken, Haltungsänderungen, Kostanpassung_
+* Transfer: Einbettung und Übung erarbeiteter Bewegungen / Strategien in die Schluckfunktion
+
+#### FDT
+Die funktionelle Dysphagietherapie (FDT) vereint sowohl restituierende, als auch kompensatorische und adaptive Therapieansätze zu einem funktions- und problemorientieren Interventionsprogramm. Die Methodenwahl orientiert sich an der "evidence-based medicine", also nachgewiesener Wirksamkeit. 
 
 
-welche allgemeinen Therapieziele werden bei diesem Störungsbild verfolgt (z.B. Sprechmotorische Störungen: Verständlichkeit, .... etc.) 
-
-–  ICF -basierte Therapiezielformulierung mit Beispielen für Funktions- / Aktivitäts und Partizipationsorientierte Therapieziele 
-–  Therapeutisches Methodenspektrum in dem gewählten Störungsbild (z.B. Vermittlungstechniken und Therapieansätze bei SPX; restituierende, kompensatorische und adaptative Therapieansätze bei Dysphagie) jeweils mit Beispielen 
-–  Einbindung von Prinzipien des motorischen Lernens (mindestens 2) in die Therapieplanung (mit kurzer Erläuterung, was unter dem jeweiligen Prinzip zu verstehen ist und wie es konkret in der Therapieplanung umgesetzt werden kann (mit Beispiel). 

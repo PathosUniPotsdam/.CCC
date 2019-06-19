@@ -15,21 +15,21 @@ Die Ursache von Dysphagien ist breit gefächert und tritt bei Menschen jeglicher
 
 ## Ätiologie
 - **neurogen:** 
-  - Schlaganfall/Blutungen, Schädel-Hirn-Trauma, degenerative Erkrankungen (z.B. Demenz, M. Parkinson, ALS, MS),
+  Schlaganfall/Blutungen, Schädel-Hirn-Trauma, degenerative Erkrankungen (z.B. Demenz, M. Parkinson, ALS, MS),
   Hirnhautentzündung, Muskelerkrankungen
 - **psychogen:**
-  - Verhaltensstörungen, Essstörungen, Phagophobie (=Schluckangst), gestörte Eltern-Kind-Interaktion
+  Verhaltensstörungen, Essstörungen, Phagophobie (=Schluckangst), gestörte Eltern-Kind-Interaktion
 -	**nach Operationen:**
-  - Tumore im Mund-, Hals- und Kopfbereich, Tumore der (oberen) Speiseröhre, Lippen-Kiefer-Gaumen-Spalten, Halswirbelsäule,
+  Tumore im Mund-, Hals- und Kopfbereich, Tumore der (oberen) Speiseröhre, Lippen-Kiefer-Gaumen-Spalten, Halswirbelsäule,
   strukturelle / funktionelle Veränderungen
 -	**im Kindesalter:** 
-  - Lippen-Kiefer-Gaumen-Spalten, Tonsillenhyperplasie (=vergrößerte Gaumen- / Rachenmandel), Bewegungsstörungen / 
+  Lippen-Kiefer-Gaumen-Spalten, Tonsillenhyperplasie (=vergrößerte Gaumen- / Rachenmandel), Bewegungsstörungen / 
   Motilitätsstörungen, Missbildungssyndrome, neurologische Erkrankung (ZNS, PNS, Muskeln, nach Tumoroperationen, usw.)
 -	**im fortschreitenden Alter:** 
-  - Presbyphagie (=altersbedingte Schluckveränderungen), Bewegungsstörungen / Motilitätsstörungen, Demenzerkrankungen,
+  Presbyphagie (=altersbedingte Schluckveränderungen), Bewegungsstörungen / Motilitätsstörungen, Demenzerkrankungen,
   Antriebsstörungen
 -	**andere:**
-  - Ösophaguserkrankungen (z.B. neuromuskulär bedingter Reflux), Vergiftungen / Verätzungen des Speisewegs, nach
+  Ösophaguserkrankungen (z.B. neuromuskulär bedingter Reflux), Vergiftungen / Verätzungen des Speisewegs, nach
   Langzeitintubation, nach Strahlen- oder Chemotherapie
 
 **Folgen**

@@ -230,6 +230,6 @@ Das neurophysiologische Therapiekonzept nach Castillo Morales ist geeignet für 
 * Transfer: Einbettung und Übung erarbeiteter Bewegungen / Strategien in die Schluckfunktion
 
 #### FDT
-Die funktionelle Dysphagietherapie (FDT) vereint sowohl restituierende, als auch kompensatorische und adaptive Therapieansätze zu einem funktions- und problemorientieren Interventionsprogramm. Die Methodenwahl orientiert sich an der "evidence-based medicine", also nachgewiesener Wirksamkeit. 
+Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als auch _kompensatorische_ und _adaptive_ Therapieansätze zu einem funktions- und problemorientieren Interventionsprogramm. Die Methodenwahl orientiert sich an der "evidence-based medicine", also nachgewiesener Wirksamkeit. 
 
 

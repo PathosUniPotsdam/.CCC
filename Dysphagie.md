@@ -175,12 +175,12 @@ Die klinische Schluckuntersuchung (KSU) ermöglicht die Evaluation des Schluckst
 
 Innerhalb **restituierender** Verfahren der Schlucktherapie kommen die folgende Prinzipen des **motorischen Lernens** zum Greifen:
 - Intensität: 
-      - hohe Therapiefrequenz bei angemessener Dauer
-      - häufige Wiederholungen der Bewegungsabläufe
-      - Zielbewegungen gegen Widerstand
+  - hohe Therapiefrequenz bei angemessener Dauer
+  - häufige Wiederholungen der Bewegungsabläufe
+  - Zielbewegungen gegen Widerstand
 - Spezifität:
-      - dem funktionellen Ziel entsprechende Bewegungsaufgaben
-      - spezifisch die Zielmuskulatur aktivierende Bewegungsaufgaben
+  - dem funktionellen Ziel entsprechende Bewegungsaufgaben
+  - spezifisch die Zielmuskulatur aktivierende Bewegungsaufgaben
 
 **Bausteine sensomotorischer Dysphagietherapie:**
 * Vorbereitung: Lagerung / Positionierung, Tonus- / Sensibilitätsregulation

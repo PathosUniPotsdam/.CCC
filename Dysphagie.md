@@ -188,6 +188,9 @@ Mögliche Therapieziele wären folgende:
   - Beginn teiloraler Ernährung (z.B. passierte Kost)
   - Erweiterung oraler Ernährung (z.B. Übergang zu weich-festen Konsistenzen)
 
+![Branching](https://d7bzgmmw5wmdu.cloudfront.net/wp-content/uploads/2016/08/eating.jpg)
+gemeinsam essen
+
 **Prinzipen des motorischen Lernens innerhalb der Dysphagietherapie:**
 - Intensität: 
   - hohe Therapiefrequenz bei angemessener Dauer

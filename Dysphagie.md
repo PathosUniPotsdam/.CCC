@@ -174,11 +174,11 @@ Die klinische Schluckuntersuchung (KSU) ermöglicht die Evaluation des Schluckst
   z.B. Glissandoübungen, kräftiges Schlucken,...
 
 Innerhalb **restituierender** Verfahren der Schlucktherapie kommen die folgende Prinzipen des **motorischen Lernens** zum Greifen:
-* Intensität: 
+- Intensität: 
       - hohe Therapiefrequenz bei angemessener Dauer
       - häufige Wiederholungen der Bewegungsabläufe
       - Zielbewegungen gegen Widerstand
-* Spezifität:
+- Spezifität:
       - dem funktionellen Ziel entsprechende Bewegungsaufgaben
       - spezifisch die Zielmuskulatur aktivierende Bewegungsaufgaben
 

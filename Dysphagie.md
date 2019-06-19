@@ -206,7 +206,7 @@ gemeinsam essen
   - spezifisch die Zielmuskulatur aktivierende Bewegungsaufgaben
   
 **Therapieansätze bei Dysphagie**
-- _adaptierende_ Verfahren: 
+- _adaptive_ Verfahren: 
   - Veränderung externer Bedingungen für die Nahrungsaufnahme
   z.B. Kostadaption (pürierte Kost, angedickte Kost...), spezielle Hilfsmittel (Trinkbecher, Besteck...), ...
 - _kompensatorische_ Verfahren: 
@@ -242,8 +242,14 @@ Das neurophysiologische Therapiekonzept nach Castillo Morales ist geeignet für 
 Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als auch _kompensatorische_ und _adaptive_ Therapieansätze zu einem funktions- und problemorientieren Interventionsprogramm. Die Methodenwahl orientiert sich an der "evidence-based medicine", also nachgewiesener Wirksamkeit. 
 
 
+#### ÜBERSICHT THERAPEUTISCHER INTERVENTIONEN: 
+[Dysphagie-Merkblatt für Therapeuten nach Alexander Fillbrandt](https://madoo.net/15853/dysphagie-merkblatt-fuer-therapeuten-stoerung-und-passende-verfahren/)
 
-
+#### WEITERFÜHRENDE LINKS:
+* [dysphagie.ch](https://www.dysphagie.ch/)
+* [dysphagie-therapie.info](https://dysphagie-therapie.info/dysphagie-therapie/)
+* [das-dysphagiezentrum.de](https://www.das-dysphagiezentrum.de/wasistdysphagie.html)
+* [stepcommunity.com](https://www.stepcommunity.com/)
 
 
 #### QUELLEN:

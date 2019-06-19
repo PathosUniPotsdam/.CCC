@@ -55,6 +55,7 @@ Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Sc
 ##### PHYSIOLOGIE DES SCHLUCKENS
 
 ![Branching](https://blog.lecturio.de/wp-content/uploads/2015/10/Anatomy-of-Nose-Pharynx-Mouth-Larynx.jpg)
+Schluckanatomie
 
 **Physiologisches Schlucken:**
 * ~ 1000 Mal am Tag
@@ -67,6 +68,7 @@ Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshal
 **Schluckphasen:**
 
 ![Branching](https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png)
+Schluckphasen
 
 - **präorale Phase:** Vorbereiten und Heranführen der Speisen an den Mund unter Einbezug aller Sinnesmodalitäten
 
@@ -238,6 +240,8 @@ Das neurophysiologische Therapiekonzept nach Castillo Morales ist geeignet für 
 
 #### FDT
 Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als auch _kompensatorische_ und _adaptive_ Therapieansätze zu einem funktions- und problemorientieren Interventionsprogramm. Die Methodenwahl orientiert sich an der "evidence-based medicine", also nachgewiesener Wirksamkeit. 
+
+
 
 
 

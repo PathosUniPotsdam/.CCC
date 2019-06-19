@@ -129,8 +129,8 @@ Folgende Warnsignale ("Red Flags") deuten auf eine vorliegende Dysphagie hin
 * Vermeidung / Verweigerung von Nahrung
 * Gewichtsverlust, Austrocknung (=Dehydratation)
 
-![Branching](http://nextews.com/images/c3/02/c3029001621a0e6c.jpg)
-Speichelfluss
+![Branching](https://www.apotheken-umschau.de/multimedia/68/256/58/123915493393.jpg)
+husten und prusten
 
 #### GUSS
 Der Gugging Swallowing Screen (GUSS) von Trapl et al. (2007) ist selbst mit schwer betroffenen Patienten, z.B. in der (Post)Akutphase eines Schlaganfalls leicht durchzuführen. Bei diesem und anderen Screeningverfahren stellt das primäre Ziel dar, die Notwendigkeit einer weiteren, ggf. instrumentellen Untersuchung abzuklären ("pass / fail"). Im Gegensatz zu anderen Verfahren wird beim GUSS das Aspirationsrisiko nicht nur durch Gabe von flüssigen, sondern ebenfalls breiigen und festen Konsistenzen ermittelt. 
@@ -172,7 +172,7 @@ Die klinische Schluckuntersuchung (KSU) ermöglicht die Evaluation des Schluckst
 * Stimmprobe
 * Schluckversuch
 
-![Branching](https://cdn.jewishboston.com/uploads/2016/12/Aging-and-Swallowing-729x486.png)
+![Branching](http://www.independentnurse.co.uk/article-images/180816/C0266242Speech_therapy_clinic-SPL_popup.jpg)
 Schluckversuch
 
 ## Therapie
@@ -266,8 +266,8 @@ Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als au
 
 * Abb. Schluckanatomie. Abgerufen von https://blog.lecturio.de/wp-content/uploads/2015/10/Anatomy-of-Nose-Pharynx-Mouth-Larynx.jpg.
 *	Abb. Schluckphasen. Abgerufen von https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png.
-* Abb. Speichelfluss. Abgerufen von http://nextews.com/images/c3/02/c3029001621a0e6c.jpg.
-* Abb. Schluckversuch. Abgerufen von https://cdn.jewishboston.com/uploads/2016/12/Aging-and-Swallowing-729x486.png.
+* Abb. husten und prusten. Abgerufen von https://www.apotheken-umschau.de/multimedia/68/256/58/123915493393.jpg.
+* Abb. Schluckversuch. Abgerufen von http://www.independentnurse.co.uk/article-images/180816/C0266242Speech_therapy_clinic-SPL_popup.jpg.
 * Abb. gemeinsam essen. Abgerufen von https://d7bzgmmw5wmdu.cloudfront.net/wp-content/uploads/2016/08/eating.jpg.
 * Abb. Kieferkontrollgriff. Abgerufen von https://image.jimcdn.com/app/cms/image/transf/dimension=695x10000:format=jpg/path/scbe13cec5f52dfd6/image/i96b4edd54f4f010e/version/1448539888/aline-moghaddam-logop%C3%A4die-logop%C3%A4din-freiburg-wiehre-st-georgen-vauban-haslach.jpg.
 

@@ -27,7 +27,7 @@ Presbyphagie (=altersbedingte Schluckveränderungen), Bewegungsstörungen / Moti
 *	_andere:_ 
 Ösophaguserkrankungen (z.B. neuromuskulär bedingter Reflux), Vergiftungen / Verätzungen des Speisewegs, nach Langzeitintubation, nach Strahlen- oder Chemotherapie
 
-### Folgen
+#### Folgen
 Folgen können Mangelernährung (=Malnutrition) und Austrocknung (=Dehydratation) sowie Penetrationen (=der Bolus/Speichel gelangt bis zur Glottisebene) oder Aspirationen (=der Bolus gelangt bis hinter die Glottis). Bei einer sogenannten „stillen Aspiration“ bleiben Schutzreflexe wie Husten oder Würgen aus. Eine Aspirationspneumonie (=Lungenentzündung) kann unter Umständen tödlich enden.
 
 Teufelskreis: Dysphagie <> Mangelernährung <> Muskelabbau
@@ -47,13 +47,13 @@ Begleitend können [Dysarthrophonien](https://pathosunipotsdam.github.io/PathosU
 
 Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Schluckaktes in der _oralen, pharyngealen und / oder ösophagealen Phase._
 
-## Schlucken
+#### Schlucken
 
-### Physiologie des Schluckens
+##### Physiologie des Schluckens
 
 ![Branching](https://blog.lecturio.de/wp-content/uploads/2015/10/Anatomy-of-Nose-Pharynx-Mouth-Larynx.jpg)
 
-#### Physiologisches Schlucken:
+###### Physiologisches Schlucken:
 * ~ 1000 Mal am Tag
 * ~ 1 Mal pro Minute
 * tagsüber > nachts
@@ -61,7 +61,7 @@ Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Sc
 
 Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshalb zweiterer vor dem Eindringen von Nahrung oder Speichel geschützt werden muss.
 
-### Schluckphasen
+##### Schluckphasen
 
 ![Branching](https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png)
 
@@ -81,7 +81,7 @@ Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshal
   
 - **Ösophageale Phase:** Öffnung des oberen Ösophagussphinkters, Boluseintritt, Bolustransport in den Speiseweg
 
-### Pathophysiologie des Schluckens
+##### Pathophysiologie des Schluckens
 
 **Schutzmechanismen:**
 * Nasopharyngealer Verschluss
@@ -95,10 +95,10 @@ Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshal
 
 **Drooling:** Speichelfluss aus dem Mund
 
-#### Penetration:
+###### Penetration:
 Bei der Penetration gelangt Speichel oder Nahrung unterhalb der Epiglottis bis zur supraglottischen Ebene der Stimmlippen.
 
-#### Aspiration:
+###### Aspiration:
 Bei der Aspiration gelangt Speichel oder Nahrung in den Bereich der Glottis bis hinein in den subglottischen Raum.
 
 * **prädeglutitive Aspiration:** vor der Schluckreflextriggerung
@@ -124,7 +124,7 @@ Folgende Warnsignale ("Red Flags") deuten auf eine vorliegende Dysphagie hin
 * Vermeidung / Verweigerung von Nahrung
 * Gewichtsverlust, Austrocknung (=Dehydratation)
 
-### GUSS
+#### GUSS
 Der Gugging Swallowing Screen von Trapl et al. (2007) ist selbst mit schwer betroffenen Patienten, z.B. in der (Post)Akutphase eines Schlaganfalls leicht durchzuführen. Bei diesem und anderen Screeningverfahren stellt das primäre Ziel dar, die Notwendigkeit einer weiteren, ggf. instrumentellen Untersuchung abzuklären ("pass / fail"). Im Gegensatz zu anderen Verfahren wird beim GUSS das Aspirationsrisiko nicht nur durch Gabe von flüssigen, sondern ebenfalls breiigen und festen Konsistenzen ermittelt. 
 Der GUSS weist mit ca. 50% eine mittelmäßige Spezifität, jedoch mit ca. 100% eine hohe Sensitivität auf.
 Das Screening besteht aus drei Teilen:
@@ -147,7 +147,7 @@ Das Screening besteht aus drei Teilen:
 
 Die Summe der vier Untertests, in welchen jeweils  bis zu 5 Punkte erreicht werden können, gibt Auskunft über den Schweregrad der Dysphagie. Bei Erreichen von 20  Punkten liegt keine, bei 15-19 Punkten eine leichtgradige, mit 10-14 Punkten eine mittelgradige und bei 0-9 Punkten eine hochgradige Schluckstörung vor. Desweiteren kann aus den GUSS-Ergebnissen eine Kostempfehlung abgeleitet werden. 
 
-### Klinische Schluckuntersuchung
+#### Klinische Schluckuntersuchung
 Die klinische Schluckuntersuchung (KSU) ermöglicht die Evaluation des Schluckstatus eines Patienten unter Verwendung schluckbezogener und nicht schluckbezogener Anteile. Sie liefert Hypothesen bezüglich des Pathophysiologie des Schluckens, ersetzt jedoch keine der Visualisierung dienenden instrumentellen Diagnostikinstrumente.
 
 **Ziele:**
@@ -165,88 +165,8 @@ Die klinische Schluckuntersuchung (KSU) ermöglicht die Evaluation des Schluckst
 * Schluckversuch
 
 ## Therapie
+welche allgemeinen Therapieziele werden bei diesem Störungsbild verfolgt (z.B. Sprechmotorische Störungen: Verständlichkeit, .... etc.) 
 
-
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-
-###### Header 6
-
-| hea        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+–  ICF -basierte Therapiezielformulierung mit Beispielen für Funktions- / Aktivitäts und Partizipationsorientierte Therapieziele 
+–  Therapeutisches Methodenspektrum in dem gewählten Störungsbild (z.B. Vermittlungstechniken und Therapieansätze bei SPX; restituierende, kompensatorische und adaptative Therapieansätze bei Dysphagie) jeweils mit Beispielen 
+–  Einbindung von Prinzipien des motorischen Lernens (mindestens 2) in die Therapieplanung (mit kurzer Erläuterung, was unter dem jeweiligen Prinzip zu verstehen ist und wie es konkret in der Therapieplanung umgesetzt werden kann (mit Beispiel). 

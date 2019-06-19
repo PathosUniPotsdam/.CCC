@@ -226,7 +226,7 @@ Das neurophysiologische Therapiekonzept nach Castillo Morales ist geeignet für 
 **Bausteine sensomotorischer (funktioneller) Dysphagietherapie:**
 * Vorbereitung: Lagerung / Positionierung, Tonus- / Sensibilitätsregulation
 * Mobilisation: passiv (=Anbahnung von Bewegungen) vs. assistiv (=Unterstützung von Bewegungen) vs. aktiv (=Verbesserung von Bewegungen) vs. aktiv gegen Widerstand (=Intensitätserhöhung)
-_* Kompensation / Adaption: Schlucktechniken, Haltungsänderungen, Kostanpassung_
+* Kompensation / Adaption: Schlucktechniken, Haltungsänderungen, Kostanpassung
 * Transfer: Einbettung und Übung erarbeiteter Bewegungen / Strategien in die Schluckfunktion
 
 #### FDT

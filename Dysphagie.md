@@ -52,8 +52,6 @@ Begleitend können [Dysarthrophonien](https://pathosunipotsdam.github.io/PathosU
 
 Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Schluckaktes in der _oralen, pharyngealen und / oder ösophagealen Phase._
 
-#### SCHLUCKEN
-
 ##### PHYSIOLOGIE DES SCHLUCKENS
 
 ![Branching](https://blog.lecturio.de/wp-content/uploads/2015/10/Anatomy-of-Nose-Pharynx-Mouth-Larynx.jpg)
@@ -66,7 +64,7 @@ Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Sc
 
 Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshalb zweiterer vor dem Eindringen von Nahrung oder Speichel geschützt werden muss.
 
-**Schluckphasen**
+**Schluckphasen:**
 
 ![Branching](https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png)
 
@@ -233,3 +231,11 @@ Das neurophysiologische Therapiekonzept nach Castillo Morales ist geeignet für 
 Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als auch _kompensatorische_ und _adaptive_ Therapieansätze zu einem funktions- und problemorientieren Interventionsprogramm. Die Methodenwahl orientiert sich an der "evidence-based medicine", also nachgewiesener Wirksamkeit. 
 
 
+#### QUELLEN:
+* IntelliMed GmbH (2017). SC1 Krankhafte Störungen des Schluckaktes – Dysphagie [online]. Abgerufen von  https://heilmittelkatalog.de/files/luxe/hmkonline/logo/sc1.htm.
+* HOTZENKÖCHERLE, S. (2013). Dysphagie: Diagnostik und Therapie. Schweiz Z Ernährungsmed, 2, 6-11.
+* Motzko, M., & Weinert, M. (2005). Dysphagie-Ursachen, Diagnostik und Behandlung. Ernährung & Medizin, 20(03), 133-136.
+*	Hotzenköcherle, S. & Schwegler, H. Dysphagie oder Schluckstörungen Schweiz [online]. Abgerufen von https://www.dysphagie.ch.
+* Bartolome, G., & Schröter-Morasch, H. (Herausgeber). (2018). Schluckstörungen Interdisziplinäre Diagnostik und Rehabilitation (6. Aufl.). München: Elsevier. 
+*	Abb. Schluckphasen. Abgerufen von https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png.
+* Abb. Schluckanatomie. Abgerufen von https://blog.lecturio.de/wp-content/uploads/2015/10/Anatomy-of-Nose-Pharynx-Mouth-Larynx.jpg.

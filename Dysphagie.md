@@ -52,9 +52,9 @@ Begleitend können [Dysarthrophonien](https://pathosunipotsdam.github.io/PathosU
 
 Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Schluckaktes in der _oralen, pharyngealen und / oder ösophagealen Phase._
 
-#### Schlucken
+#### SCHLUCKEN
 
-##### Physiologie des Schluckens
+##### PHYSIOLOGIE DES SCHLUCKENS
 
 ![Branching](https://blog.lecturio.de/wp-content/uploads/2015/10/Anatomy-of-Nose-Pharynx-Mouth-Larynx.jpg)
 
@@ -86,7 +86,7 @@ Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshal
   
 - **ösophageale Phase:** Öffnung des oberen Ösophagussphinkters, Boluseintritt, Bolustransport in den Speiseweg
 
-##### Pathophysiologie des Schluckens
+##### PATHOPHYSIOLOGIE DES SCHLUCKENS
 
 **Schutzmechanismen:**
 * Nasopharyngealer Verschluss
@@ -152,7 +152,7 @@ Das Screening besteht aus drei Teilen:
 
 Die Summe der vier Untertests, in welchen jeweils  bis zu 5 Punkte erreicht werden können, gibt Auskunft über den Schweregrad der Dysphagie. Bei Erreichen von 20  Punkten liegt keine, bei 15-19 Punkten eine leichtgradige, mit 10-14 Punkten eine mittelgradige und bei 0-9 Punkten eine hochgradige Schluckstörung vor. Desweiteren kann aus den GUSS-Ergebnissen eine Kostempfehlung abgeleitet werden. 
 
-#### Klinische Schluckuntersuchung
+#### KLINISCHE SCHLUCKUNTERSUCHUNG
 Die klinische Schluckuntersuchung (KSU) ermöglicht die Evaluation des Schluckstatus eines Patienten unter Verwendung schluckbezogener und nicht schluckbezogener Anteile. Sie liefert Hypothesen bezüglich des Pathophysiologie des Schluckens, ersetzt jedoch keine der Visualisierung dienenden instrumentellen Diagnostikinstrumente.
 
 **Ziele:**
@@ -219,7 +219,7 @@ Mögliche Therapieziele wären folgende:
 Die Fazio-orale-Trakt-Therapie liegt dem Bobath-Konzept (krankengymnastisches Pflegekonzept von 1943 mit der Grundannahme eine Spastik bilde sich in Abhängigkeit von der Lagerung und Stellung des Körpers aus) zugrunde.
 Sie wirkt _restituierend_ und eignet sich für die Behandlung von Klienten mit neurogenen Störungen der Mimik, oralen Bewegungen, Atmung, Stimme, des Sprechens und der Nahrungsaufnahme aufgrund erworbener Hirnschädigungen. Die F.O.T.T. erweist sich als wirksame "24-Stunden-Behandlung" bei bewusstseinsgestörten oder kognitiv schwer beeinträchtigten Patienten.
 
-#### Therapie nach Castillo Morales
+#### THERAPIE NACH CASTILLO MORALES
 Das neurophysiologische Therapiekonzept nach Castillo Morales ist geeignet für Kinder, insbesondere mit Down-Syndrom und Erwachsene  mit kommunikativen, sensomotorischen und orofazialen Störungen. Es umfasst ausschließlich _restituierende_ Übungen.
 
 

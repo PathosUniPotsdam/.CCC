@@ -168,7 +168,7 @@ Die klinische Schluckuntersuchung (KSU) ermöglicht die Evaluation des Schluckst
 * Schluckversuch
 
 ## Therapie
-Die Therapiemaßnahmen einer Dysphagie leiten sich aus dem zugrundeliegenden der Störungsbild ab.
+Die Therapiemaßnahmen einer Dysphagie leiten sich aus dem zugrundeliegenden Störungsbild und Schweregrad ab.
 
 Mögliche Therapieziele wären folgende:
 - **allgemeine Ziele:**
@@ -211,6 +211,9 @@ gemeinsam essen
   - Wiederherstellung beeinträchtigter schluckrelevanter (Teil)Funktion durch spezifische Übungstherapie
   z.B. Glissandoübungen, kräftiges Schlucken, ...
   
+![Branching](https://image.jimcdn.com/app/cms/image/transf/dimension=695x10000:format=jpg/path/scbe13cec5f52dfd6/image/i96b4edd54f4f010e/version/1448539888/aline-moghaddam-logop%C3%A4die-logop%C3%A4din-freiburg-wiehre-st-georgen-vauban-haslach.jpg)
+Kieferkontrollgriff
+  
 **Bausteine restituierender Dysphagietherapie:**
 * Vorbereitung: Lagerung / Positionierung, Tonus- / Sensibilitätsregulation
 * Mobilisation: passiv (=Anbahnung von Bewegungen) vs. assistiv (=Unterstützung von Bewegungen) vs. aktiv (=Verbesserung von Bewegungen) vs. aktiv gegen Widerstand (=Intensitätserhöhung)
@@ -234,6 +237,8 @@ Das neurophysiologische Therapiekonzept nach Castillo Morales ist geeignet für 
 Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als auch _kompensatorische_ und _adaptive_ Therapieansätze zu einem funktions- und problemorientieren Interventionsprogramm. Die Methodenwahl orientiert sich an der "evidence-based medicine", also nachgewiesener Wirksamkeit. 
 
 
+
+
 #### QUELLEN:
 * IntelliMed GmbH (2017). SC1 Krankhafte Störungen des Schluckaktes – Dysphagie [online]. Abgerufen von  https://heilmittelkatalog.de/files/luxe/hmkonline/logo/sc1.htm.
 * HOTZENKÖCHERLE, S. (2013). Dysphagie: Diagnostik und Therapie. Schweiz Z Ernährungsmed, 2, 6-11.
@@ -242,3 +247,5 @@ Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als au
 * Bartolome, G., & Schröter-Morasch, H. (Herausgeber). (2018). Schluckstörungen Interdisziplinäre Diagnostik und Rehabilitation (6. Aufl.). München: Elsevier. 
 *	Abb. Schluckphasen. Abgerufen von https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png.
 * Abb. Schluckanatomie. Abgerufen von https://blog.lecturio.de/wp-content/uploads/2015/10/Anatomy-of-Nose-Pharynx-Mouth-Larynx.jpg.
+* Abb. Essenstisch. Abgerufen von https://d7bzgmmw5wmdu.cloudfront.net/wp-content/uploads/2016/08/eating.jpg.
+* Abb. Pat.Th. Abgerufen von https://image.jimcdn.com/app/cms/image/transf/dimension=695x10000:format=jpg/path/scbe13cec5f52dfd6/image/i96b4edd54f4f010e/version/1448539888/aline-moghaddam-logop%C3%A4die-logop%C3%A4din-freiburg-wiehre-st-georgen-vauban-haslach.jpg.

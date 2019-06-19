@@ -14,23 +14,23 @@ Die Ursache von Dysphagien ist breit gefächert und tritt bei Menschen jeglicher
 * phagein - essen, schlucken
 
 ## Ätiologie
-* _neurogen:_ 
+* **neurogen:** 
 Schlaganfall/Blutungen, Schädel-Hirn-Trauma, degenerative Erkrankungen (z.B. Demenz, M. Parkinson, ALS, MS), Hirnhautentzündung, Muskelerkrankungen
-* _psychogen:_ 
+* **psychogen:**
 Verhaltensstörungen, Essstörungen, Phagophobie (=Schluckangst), gestörte Eltern-Kind-Interaktion
-*	_nach Operationen:_ 
+*	**nach Operationen:**
 Tumore im Mund-, Hals- und Kopfbereich, Tumore der (oberen) Speiseröhre, Lippen-Kiefer-Gaumen-Spalten, Halswirbelsäule, strukturelle / funktionelle Veränderungen
-*	_im Kindesalter:_ 
+*	**im Kindesalter:** 
 Lippen-Kiefer-Gaumen-Spalten, Tonsillenhyperplasie (=vergrößerte Gaumen- / Rachenmandel), Bewegungsstörungen / Motilitätsstörungen, Missbildungssyndrome, neurologische Erkrankung (ZNS, PNS, Muskeln, nach Tumoroperationen, usw.)
-*	_im fortschreitenden Alter:_ 
+*	**im fortschreitenden Alter:** 
 Presbyphagie (=altersbedingte Schluckveränderungen), Bewegungsstörungen / Motilitätsstörungen, Demenzerkrankungen, Antriebsstörungen
-*	_andere:_ 
+*	**andere:**
 Ösophaguserkrankungen (z.B. neuromuskulär bedingter Reflux), Vergiftungen / Verätzungen des Speisewegs, nach Langzeitintubation, nach Strahlen- oder Chemotherapie
 
-#### Folgen
+**Folgen**
 Folgen können Mangelernährung (=Malnutrition) und Austrocknung (=Dehydratation) sowie Penetrationen (=der Bolus/Speichel gelangt bis zur Glottisebene) oder Aspirationen (=der Bolus gelangt bis hinter die Glottis). Bei einer sogenannten „stillen Aspiration“ bleiben Schutzreflexe wie Husten oder Würgen aus. Eine Aspirationspneumonie (=Lungenentzündung) kann unter Umständen tödlich enden.
 
-Teufelskreis: Dysphagie <> Mangelernährung <> Muskelabbau
+_Teufelskreis:_ Dysphagie <> Mangelernährung <> Muskelabbau
 
 ## Leitsymptomatik
 Als klinische Prädikatoren einer Dysphagie gelten die folgenden Symptome:
@@ -53,7 +53,7 @@ Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Sc
 
 ![Branching](https://blog.lecturio.de/wp-content/uploads/2015/10/Anatomy-of-Nose-Pharynx-Mouth-Larynx.jpg)
 
-###### Physiologisches Schlucken:
+**Physiologisches Schlucken:**
 * ~ 1000 Mal am Tag
 * ~ 1 Mal pro Minute
 * tagsüber > nachts
@@ -61,7 +61,7 @@ Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Sc
 
 Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshalb zweiterer vor dem Eindringen von Nahrung oder Speichel geschützt werden muss.
 
-##### Schluckphasen
+**Schluckphasen**
 
 ![Branching](https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png)
 
@@ -79,7 +79,7 @@ Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshal
   - Bolustransport: 
   Zungenretraktion, Pharynxkontraktion
   
-- **Ösophageale Phase:** Öffnung des oberen Ösophagussphinkters, Boluseintritt, Bolustransport in den Speiseweg
+- **ösophageale Phase:** Öffnung des oberen Ösophagussphinkters, Boluseintritt, Bolustransport in den Speiseweg
 
 ##### Pathophysiologie des Schluckens
 
@@ -95,16 +95,16 @@ Die Krux des Schluckens ist die Überkreuzung des Nahrungs- und Atemwegs, weshal
 
 **Drooling:** Speichelfluss aus dem Mund
 
-###### Penetration:
+**Penetration:**
 Bei der Penetration gelangt Speichel oder Nahrung unterhalb der Epiglottis bis zur supraglottischen Ebene der Stimmlippen.
 
-###### Aspiration:
+**Aspiration:**
 Bei der Aspiration gelangt Speichel oder Nahrung in den Bereich der Glottis bis hinein in den subglottischen Raum.
 
-* **prädeglutitive Aspiration:** vor der Schluckreflextriggerung
-* **intradeglutitive Aspiration:** während der Boluspassage durch den Pharynx
-* **postdeglutitive Aspiration:** nach der Boluspassage durch den Pharynx
-* **stille Aspiration:** Ausbleiben der Schutzreflexe
+* _prädeglutitive_ Aspiration: vor der Schluckreflextriggerung
+* _intradeglutitive_ Aspiration: während der Boluspassage durch den Pharynx
+* _postdeglutitive_ Aspiration: nach der Boluspassage durch den Pharynx
+* _stille_ Aspiration: Ausbleiben der Schutzreflexe
 
 ## Diagnostik
 Die Dysphagiediagnostik dient der
@@ -129,18 +129,18 @@ Der Gugging Swallowing Screen von Trapl et al. (2007) ist selbst mit schwer betr
 Der GUSS weist mit ca. 50% eine mittelmäßige Spezifität, jedoch mit ca. 100% eine hohe Sensitivität auf.
 Das Screening besteht aus drei Teilen:
 
-1. Voruntersuchung / indirekter Schluckversuch -> ja (1) vs. nein (0)
+**1. Voruntersuchung / indirekter Schluckversuch -> ja (1) vs. nein (0)**
   - Vigilanz (=Wachheit) über 15 Minuten
   - willkürliches Husten und oder Räuspern
   - Speichelschluck
   
-2. Direkter Schluckversuch -> breiig vs. flüssig vs. fest
+**2. Direkter Schluckversuch -> breiig vs. flüssig vs. fest**
   - Schluckakt -> nicht möglich (0) / verzögert (1) / erfolgreich (2)
   - unwillkürliches Husten -> ja (1) / nein (0)
   - Drooling -> ja (1) / nein (0)
   - Stimmänderung (Phonationsprobe) -> ja (1) / nein (0)
  
-3. Evaluation
+**3. Evaluation**
   - Ergebnisse 
   - Schweregrad
   - Empfehlungen
@@ -165,6 +165,33 @@ Die klinische Schluckuntersuchung (KSU) ermöglicht die Evaluation des Schluckst
 * Schluckversuch
 
 ## Therapie
+**Therapieansätze bei Dysphagie**
+* _adaptierende_ Verfahren: Veränderung externer Bedingungen für die Nahrungsaufnahme
+  z.B. Kostadaption (pürierte Kost, angedickte Kost...), spezielle Hilfsmittel (Trinkbecher, Besteck...)
+* _kompensatorische_ Verfahren: Erlernen von Haltungsänderungen und Schluckmanövern
+  z.B. Chin Tuck, Shaker Übung, ...
+* _restituierende_ Verfahren: Wiederherstellung beeinträchtigter schluckrelevanter (Teil)Funktion durch spezifische Übungstherapie
+  z.B. Glissandoübungen, kräftiges Schlucken,...
+
+Innerhalb **restituierender** Verfahren der Schlucktherapie kommen die folgende Prinzipen des **motorischen Lernens** zum Greifen:
+* Intensität: 
+      - hohe Therapiefrequenz bei angemessener Dauer
+      - häufige Wiederholungen der Bewegungsabläufe
+      - Zielbewegungen gegen Widerstand
+* Spezifität:
+      - dem funktionellen Ziel entsprechende Bewegungsaufgaben
+      - spezifisch die Zielmuskulatur aktivierende Bewegungsaufgaben
+
+**Bausteine sensomotorischer Dysphagietherapie:**
+* Vorbereitung: Lagerung / Positionierung, Tonus- / Sensibilitätsregulation
+* Mobilisation: passiv (= Anbahnen von Bewegungen) vs. assistiv (= Unterstützen von Bewegungen) vs. aktiv (= Verbesserung von Bewegungen) vs. aktiv gegen Widerstand (= Intensitätserhöhung)
+* Kompensation / Adaption: Schlucktechniken, Haltungsänderungen, Kostanpassung
+* Transfer: Einbettung und Übung erarbeiteter Bewegungen / Strategien in die Schluckfunktion
+
+
+
+
+
 welche allgemeinen Therapieziele werden bei diesem Störungsbild verfolgt (z.B. Sprechmotorische Störungen: Verständlichkeit, .... etc.) 
 
 –  ICF -basierte Therapiezielformulierung mit Beispielen für Funktions- / Aktivitäts und Partizipationsorientierte Therapieziele 

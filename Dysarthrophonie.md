@@ -241,11 +241,7 @@ Untertests:
 
 **Testdurchführung**
 
-1. Untertests sollten in der angegebenen Reihenfolge durchgeführt werden
-2. Innerhalb eines Untertests müssen die Einzelaufgaben in der angegebenen Reihenfolge durchgeführt werden
-3. Bei der Bewertung sind für die Bewertungsgrade a, b, c , d, e jeweils verschiedene Symptome angegeben – diese müssen nicht alle auftreten, um die beschriebene Bewertung zu erreichen
-4. Wenn die Leistung des Patienten nicht zu einem bestimmten Bewertungsgrad passt, ist es möglich eine „Zwischenbewertung“ zu vergeben (z.B. zwischen b und c) und diese im Auswertungsdiagramm einzutragen
-5. Jede Testübung wird 2x durchgeführt – bewertet wird jeweils der 2. Versuch
+Die Untertests sowie die Einzelaufgaben innerhalb eines Untertests sollten in angegebener Reihenfolge durchgeführt werden. Es müssen nicht alle verschiedenen Symptome, die jeweils für die Bewertungsgrade a, b, c, d, e  angegeben sind, auftreten, um die beschriebene Bewertung zu erreichen. Zudem sind "Zwischenbewertungen" (z.B. zwischen c und d) möglich, wenn die Leistungen des Patienten nicht zu einem bestimmten Bewertungsgrad passt. Diese kann dann im Auswertungsdiagramm eingetragen werden. Jede Testübung wird 2x durchgeführt, wovon jeweils der 2. Versuch bewertet wird.
 
 **Auswertung**
 

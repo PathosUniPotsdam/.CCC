@@ -308,3 +308,5 @@ Dadurch Bedeutung einzelner Merkmale im Rahmen des ges. Störungsbildes erkennba
 | detaillierte Erfassung von Symptomen in den sprechmotorischen Ebenen |   (+)   |    +    |
 
 ## Therapie
+
+## Quellen

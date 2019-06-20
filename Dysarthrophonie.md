@@ -169,6 +169,7 @@ Dysarthrische Patienten zeigen keine artikulatorischen Suchbewegungen, da die Pl
 Die Symptome einer Dysarthrie äußern sich konstant. Das Sprechen weist durchgehend die gleichen Störungen auf. Wohingegen Symptome einer Sprechapraxie inkonstant auftreten und es auch zu Inseln intakter Sprachproduktion kommen kann.
 
 ## Diagnostik
+_Im Folgenden werden zwei mögliche Diagnostikverfahren kurz vorgestellt und verglichen. Dies soll lediglich einen Überblick verschaffen und reicht nicht ausschließlich für die Durchführung aus. Bitte machen Sie sich vor der Anwendung mit den Handanweisungen der jeweiligen Verfahren vertraut!_
 
 #### BoDys (Bogenhausener Dysarthrieskalen)
 Die Bogenhausener Dysarthrieskalen sind ein normiertes und validiertes Untersuchungsmaterial für die Diagnostik einer Dysarthrophonie. Die Ergebnisse ermöglichen eine Einschätzung des Gesamtschweregrades sowie ausfürliche Hinweise auf Störunngschwerpunkte anhand der Erstellung eines Störungsprofils. Es werden ausschließlich sprachliche Untersuchungsaufgaben in den Modalitäten
@@ -219,6 +220,32 @@ In dem Störungsprofil (siehe Protokollbogen) können die Leistungen des Patient
 Anschließend sollte eine zweite Auswertung mit geänderter Auswertungsreihenfolge erstellt werden, um mögliche Verfälschungen durch Reihenfolgeeffekte ausschließen zu können.
 
 #### Frenchay Dysarthrie Untersuchung
+
+Die Frenchay Dysarthrie Untersuchung beinhasltet sprachliche und non-verbale Untersuchungsteile und ist relativ leicht und mit wenigen Hilfsmitteln durchführbar.
+erfordert nur wenig Training, um ihn zuverlässig durchführen zu können
+ist normiert für den deutschen Sprachraum, (Ausnahme: Testteile „Verständlichkeit“
+„Beeinflussende Faktoren“ und „Andere Faktoren“)
+} Untertests
+1. Reflexe
+2. Respiration
+3. Lippenbewegungen
+4. (Kiefer - in neuer Auflage nicht mehr enthalten)
+5. Gaumensegel
+6. Stimme
+7. Zunge
+8. Verständlichkeit
+9. Beeinflussende Faktoren
+10. Andere Faktoren
+
+**Testdurchführung**
+
+1. Untertests sollten in der angegebenen Reihenfolge durchgeführt werden
+2. Innerhalb eines Untertests müssen die Einzelaufgaben in der angegebenen Reihenfolge durchgeführt werden
+3. Bei der Bewertung sind für die Bewertungsgrade a, b, c , d, e jeweils verschiedene Symptome angegeben – diese müssen nicht alle auftreten, um die beschriebene Bewertung zu erreichen
+4. Wenn die Leistung des Patienten nicht zu einem bestimmten Bewertungsgrad passt, ist es möglich eine „Zwischenbewertung“ zu vergeben (z.B. zwischen b und c) und diese im Auswertungsdiagramm einzutragen
+5. Jede Testübung wird 2x durchgeführt – bewertet wird jeweils der 2. Versuch
+
+**Auswertung**
 
 #### Vergleich
 

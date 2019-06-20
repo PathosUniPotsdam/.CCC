@@ -197,7 +197,7 @@ Mögliche Therapieziele wären folgende:
   - Erweiterung oraler Ernährung (z.B. Übergang zu weich-festen Konsistenzen)
 
 ![Branching](https://d7bzgmmw5wmdu.cloudfront.net/wp-content/uploads/2016/08/eating.jpg)
-gemeinsam essen
+gemeinsam essen - ein kulinarisches und soziales Erlebnis
 
 **Prinzipen des motorischen Lernens innerhalb der Dysphagietherapie:**
 - Intensität: 

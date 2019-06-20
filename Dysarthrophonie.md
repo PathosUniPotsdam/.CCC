@@ -221,7 +221,7 @@ Anschließend sollte eine zweite Auswertung mit geänderter Auswertungsreihenfol
 
 #### Frenchay Dysarthria Assessment (FDA-2)
 
-Die Frenchay Dysarthrie UntersuchungDas ist eine thoretisch solide wissenschaftsbasierte methode zur schnellen, exakten Diagnose von Dysarthrien. Sie beinhaltet sprachliche und non-verbale Untersuchungsteile und ist relativ leicht, mit wenig Training und ohne große Hilfsmittel zuverlässig durchführbar. Die Reliabilität und Validität wurden durch mehrere Studien aus verschiedenen Ländern bestätigt. 
+Die Frenchay Dysarthrie Untersuchung ist eine thoretisch solide wissenschaftsbasierte methode zur schnellen, exakten Diagnose von Dysarthrien. Sie beinhaltet sprachliche und non-verbale Untersuchungsteile und ist relativ leicht, mit wenig Training und ohne große Hilfsmittel zuverlässig durchführbar. Die Reliabilität und Validität wurden durch mehrere Studien aus verschiedenen Ländern bestätigt. 
 
 Für den deutschen Sprachraum liegt in den meisten Untertests eine Normierung vor _(Ausnahme: Testteile „Verständlichkeit“, „Beeinflussende Faktoren“ und „Andere Faktoren“)_.
 

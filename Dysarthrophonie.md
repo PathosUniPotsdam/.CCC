@@ -181,13 +181,13 @@ Es gibt drei verschiedene Ausführungen der BoDys:
 - eine _Kurzversion_, bei der alle Modalitäten 2x geprüft werden, sodass man 8 Sprechproben erhält.
 - und eine _Version ohne Lesen_, bei der alle übrigen Modalitäten 3x geprüft werden, sodass man 9 Sprechproben erhält.
 
-![Untersuchungsbogen]
+![Untersuchungsbogen](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/BoDys1.jpeg)
 
 **Testdurchführung**
 Voraussetzung für die Durchführung ist, dass der Patient 30 Minuten an einem Tisch sitzen kann und eine uneingeschränkte Seh- und Hörfähigkeit besitzt. Die 3 Untersuchungblöcke können dann in der Reihenfolge der Nummerierung durchgeführt werden. Die Durchführungsdauer beträgt etwa 20 - 30 Minuten bei kompletter Durchführung. Testteile können abgebrochen werden, wenn sich der Untersucher einen ausreichenden Höreindruck verschafft hat. Eine Audio- oder Video Aufzeichnung für eine genaue Auswertung.
 
 **Auswertung**
-(Bild Auswertungsbogen)
+![Auswertungsbogen](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/BoDys2.jpeg)
 
 Die Bewertung erfolgt nach vollständigem Anhören der Aufzeichnungen. Im Auswertungbogen werden zunächst die Auftretenshäufigkeiten der Merkmale notiert. Anhand der Häufigkeit der Merkmale kann dann ein Punktwert für die einzelnen Modalitäten vergeben werden, wobei gilt:
 

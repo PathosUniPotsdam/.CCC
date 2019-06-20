@@ -174,14 +174,14 @@ Die Symptome einer Dysarthrie äußern sich konstant. Das Sprechen weist durchge
 Die Bogenhausener Dysarthrieskalen sind ein normiertes und validiertes Untersuchungsmaterial für die Diagnostik einer Dysarthrophonie. Es werden ausschließlich sprachliche Untersuchungsaufgaben in den Modalitäten _Spontansprache, Nachsprechen, Lesen_ und _Bildbeschreibung_ durchgeführt. 
 
 Hierbei kann es hilfreich sein die Reaktionen des Patienten mit einer Audio- oder Videoaufnahme für die Auswertung festzuhalten. Die Beurteilung erfolgt nämlich ausschließlich durch die auditive Wahrnehmung des Sprachtherapeuten. 
-Anhand einer 5- stufige Skalierung von 9 Merkmalen kann der Schweregrad ermittelt werden. Das Störungsprofil lässt sich durch die Merkmalshäufigkeit bestimmen.
+Anhand einer 5- stufigen Skalierung von 9 Merkmalen kann der Schweregrad ermittelt werden. Des Weiteren lässt sich das Störungsprofil durch die Häufigkeit des Auftretens der einzelnen Merkmale bestimmen.
 
 Es gibt drei verschiedene Ausführungen der BoDys: 
 - eine _Vollversion_, bei der alle Modalitäten 3x geprüft werden, sodass man 12 Sprechproben erhält.
 - eine _Kurzversion_, bei der alle Modalitäten 2x geprüft werden, sodass man 8 Sprechproben erhält.
 - und eine _Version ohne Lesen_, bei der alle übrigen Modalitäten 3x geprüft werden, sodass man 9 Sprechproben erhält.
 
-(Bild Untersuchungsbogen)
+![Untersuchungsbogen]
 
 **Testdurchführung**
 Voraussetzung für die Durchführung ist, dass der Patient 30 Minuten an einem Tisch sitzen kann und eine uneingeschränkte Seh- und Hörfähigkeit besitzt. Die 3 Untersuchungblöcke können dann in der Reihenfolge der Nummerierung durchgeführt werden. Die Durchführungsdauer beträgt etwa 20 - 30 Minuten bei kompletter Durchführung. Testteile können abgebrochen werden, wenn sich der Untersucher einen ausreichenden Höreindruck verschafft hat. Eine Audio- oder Video Aufzeichnung für eine genaue Auswertung.

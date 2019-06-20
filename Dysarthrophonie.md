@@ -200,17 +200,19 @@ Voraussetzung für die Durchführung ist, dass der Patient 30 Minuten an einem T
 
 Die Bewertung erfolgt nach vollständigem Anhören der Aufzeichnungen. Im Auswertungbogen werden zunächst die Auftretenshäufigkeiten der Merkmale notiert. Anhand der Häufigkeit der Merkmale kann dann ein Punktwert für die einzelnen Modalitäten vergeben werden, wobei gilt:
 
-4) Unbeeinträchtigt – Es bestehen keinerlei Hinweise auf das Vorliegen von Störungsmerkmalen, die der jeweiligen Skala zugeordnet werden können.
+4   Unbeeinträchtigt – Es bestehen keinerlei Hinweise auf das Vorliegen von Störungsmerkmalen, die der jeweiligen Skala zugeordnet werden können.
 
-3) Leichte Störung – Störungsmerkmale, die der Skala zuordenbar sind, treten nur in sehr leichter Ausprägung auf. Sie tragen nicht zu einer bsonders auffälligen Sprechweise bei.
+3   Leichte Störung – Störungsmerkmale, die der Skala zuordenbar sind, treten nur in sehr leichter Ausprägung auf. Sie tragen nicht zu einer bsonders auffälligen Sprechweise bei.
 
-2) Mittelschwere Störung – Die Sprechweise ist klar erkennbar durch Störungsmerkmale gekennzeichnet, die der Skala zuordenbar sind, wenn auch nicht in schwerer Ausprägung.
+2   Mittelschwere Störung – Die Sprechweise ist klar erkennbar durch Störungsmerkmale gekennzeichnet, die der Skala zuordenbar sind, wenn auch nicht in schwerer Ausprägung.
 
-1) Schwere Störung – Die Sprechweise ist stark durch die Störungsmerkmale, die der Skala zuordenbar sind, geprägt. Die Symptomatik führt zum Eindruck einer erheblichen Beeinträchtigung.
+1   Schwere Störung – Die Sprechweise ist stark durch die Störungsmerkmale, die der Skala zuordenbar sind, geprägt. Die Symptomatik führt zum Eindruck einer erheblichen Beeinträchtigung.
 
-0) Sehr schwere Störung – Die Sprechweise ist durch Störungsmerkmale, die der Skala zuordenbar sind, in schwerster Ausprägung dominiert.
+0   Sehr schwere Störung – Die Sprechweise ist durch Störungsmerkmale, die der Skala zuordenbar sind, in schwerster Ausprägung dominiert.
 
-Danach sollte eine zweite Auswertung mit geänderter Auswertungsreihenfolge gemacht werden, um mögliche Verfälschungen durch Reihenfolgeeffekte ausschließen zu können.
+Wichtig ist zu beachten, dass der Punktwert nicht die Anzahl der Auftretenshäufigkeit eines Merkmals angibt!
+
+Anschließend sollte eine zweite Auswertung mit geänderter Auswertungsreihenfolge erstellt werden, um mögliche Verfälschungen durch Reihenfolgeeffekte ausschließen zu können.
 
 #### Frenchay Dysarthrie Untersuchung
 

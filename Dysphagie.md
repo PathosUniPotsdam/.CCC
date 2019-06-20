@@ -156,6 +156,12 @@ Das Screening besteht aus drei Teilen:
 
 Die Summe der vier Untertests, in welchen jeweils  bis zu 5 Punkte erreicht werden können, gibt Auskunft über den Schweregrad der Dysphagie. Bei Erreichen von 20  Punkten liegt keine, bei 15-19 Punkten eine leichtgradige, mit 10-14 Punkten eine mittelgradige und bei 0-9 Punkten eine hochgradige Schluckstörung vor. Desweiteren kann aus den GUSS-Ergebnissen eine Kostempfehlung abgeleitet werden. 
 
+![Branching](https://img.yumpu.com/3430413/1/500x640/guss-deutsch-version-1-09.jpg)
+GUSS Protokollbogen Deutsch
+
+![Branching](https://www.ahajournals.org/cms/attachment/9aaf3113-6fdb-436e-9be6-eea150f30c9c/40ff4.jpeg)
+GUSS Evaluationsbogen Englisch
+
 #### KLINISCHE SCHLUCKUNTERSUCHUNG
 Die klinische Schluckuntersuchung (KSU) ermöglicht die Evaluation des Schluckstatus eines Patienten unter Verwendung schluckbezogener und nicht schluckbezogener Anteile. Sie liefert Hypothesen bezüglich des Pathophysiologie des Schluckens, ersetzt jedoch keine der Visualisierung dienenden instrumentellen Diagnostikinstrumente.
 

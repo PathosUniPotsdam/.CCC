@@ -226,18 +226,18 @@ Die Frenchay Dysarthrie Untersuchung beinhasltet sprachliche und non-verbale Unt
 Für den deutschen Sprachraum liegt in den meisten Untertests eine Normierung vor _(Ausnahme: Testteile „Verständlichkeit“, „Beeinflussende Faktoren“ und „Andere Faktoren“)_.
 
 Untertests:
-1. Reflexe
-2. Respiration
-3. Lippenbewegungen
-4. (Kiefer - in neuer Auflage nicht mehr enthalten)
-5. Gaumensegel
-6. Stimme
-7. Zunge
-8. Verständlichkeit
-9. Beeinflussende Faktoren
-10. Andere Faktoren
+- Reflexe
+- Respiration
+- Lippenbewegungen
+- (Kiefer - in neuer Auflage nicht mehr enthalten)
+- Gaumensegel
+- Stimme
+- Zunge
+- Verständlichkeit
+- Beeinflussende Faktoren
+- Andere Faktoren
 
-![Protokollbogen]
+![Protokollbogen](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Frenchay%20Protokollbogen.png)
 
 **Testdurchführung**
 

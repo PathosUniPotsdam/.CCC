@@ -177,6 +177,7 @@ Schluckversuch
 
 ## Therapie
 Die Therapiemaßnahmen einer Dysphagie leiten sich aus dem zugrundeliegenden Störungsbild und Schweregrad ab.
+Therapieziele jeglicher Art sollten möglichst "SMART" (Specific - Measurable - Achievable - Reasonable - Time Bound) formuliert werden.
 
 Mögliche Therapieziele wären folgende:
 - **allgemeine Ziele:**
@@ -195,6 +196,7 @@ Mögliche Therapieziele wären folgende:
   - Verbesserung der Speichelkontrolle
   - Beginn teiloraler Ernährung (z.B. passierte Kost)
   - Erweiterung oraler Ernährung (z.B. Übergang zu weich-festen Konsistenzen)
+  - Essen und Trinken in Gesellschaft
 
 ![Branching](https://d7bzgmmw5wmdu.cloudfront.net/wp-content/uploads/2016/08/eating.jpg)
 gemeinsam essen - ein kulinarisches und soziales Erlebnis

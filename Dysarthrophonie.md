@@ -269,25 +269,26 @@ Anwendbarkeit zur Therapieableitung und –evaluation
 
 **FDA-2**
 
-Vorteil:
+Vorteile:
 - Leistungen der Probanden werden in einer 9-Punkte-Skala erfasst und grafisch in einem Säulendiagramm veranschaulicht
 → Abbildung eines Testprofils möglich (zeigt sehr gut Störungsschwerpunkte→ Therapieableitung gut möglich)
 - quantitative Bewertungen möglich
 - → therapeutischer Intervention kann abgeleitet, angepasst und in Verlaufsdiagnostik überprüft werden
 - Bewertungskriterien können Zwischenwerte erreichen
 - Unter jede Aufgabe kommen Bemerkungen, die in die Therapieableitung einfließen können
-Nachteil:
+
+Nachteile:
 - Mischung aus ätiologischer und symptomatischer Klassifikation
 - unterschiedliche Gewichtung der Funktionskreise (d.h. Respiration und Phonation wird weniger Beachtung geschenkt als Prosodie, Mundmotorik oder Reflexfunktionen)
 - Mehrzahl der Aufgaben überprüft nichtsprachliche Störungsbereiche
 
 **BoDys**
 
-Vorteil:
+Vorteile:
 - psychometrischer Vorteil → 12 Einzelurteile zu einem Merkmal – alle anderen Verfahren beruhen auf einem einzigen Urteil je Merkmal (Wichtigster Unterschied zu anderen Verfahren)
 - für Therapieableitung: auditive Störungsmerkmale lassen Rückschlüsse auf Pathophysiologie zu
 
-Nachteil:
+Nachteile:
 - aus alleiniger Bewertung der Skalen ist Art der Beeinträchtigung nicht abzulesen → da: gleiche Symptome / Merkmale aber unterschiedliche Störungsmechanismen oder ein Symptom / Merkmal kann nur zu einem bestimmten Störungsschwerpunkt gehören → deshalb wichtig: wahrgenommene Merkmale auf Merkmalsliste nacheinander ankreuzen – daraus entsteht ein Störungsprofil!
 Dadurch Bedeutung einzelner Merkmale im Rahmen des ges. Störungsbildes erkennbar – umfasst damit alle für Syndromklassifikation wichtigen Merkmale
 - Wichtig für Therapieableitung: liefert keine physiologischen Parameter der Sprechstörung

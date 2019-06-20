@@ -242,10 +242,16 @@ Untertests:
 
 **Testdurchführung**
 
-Die Untertests sowie die Einzelaufgaben innerhalb eines Untertests sollten in angegebener Reihenfolge durchgeführt werden. Es müssen nicht alle verschiedenen Symptome, die jeweils für die Bewertungsgrade a, b, c, d, e  angegeben sind, auftreten, um die beschriebene Bewertung zu erreichen. Zudem sind "Zwischenbewertungen" (z.B. zwischen c und d) möglich, wenn die Leistungen des Patienten nicht zu einem bestimmten Bewertungsgrad passt. Diese kann dann im Auswertungsdiagramm eingetragen werden. Jede Testübung wird 2x durchgeführt, wovon jeweils der 2. Versuch bewertet wird.
+Geeignet ist die FDA-2 für Patienten jeden Alters, wobei zu beachten ist, dass sich die Normdaten auf eine Alterspanne von 15-97 Jahren beziehen. Die Untersuchung kann in ca. 30 min durchgeführt werden und die Form eines entspannten Gesprächs annehmen, vorausgesetzt der Untersucher ist mit der Bewertung und Durchführung vertraut.
+Die Untertests sowie die Einzelaufgaben innerhalb eines Untertests sollten in angegebener Reihenfolge durchgeführt werden.  Jede Testübung wird 2x durchgeführt, wovon jeweils der 2. Versuch bewertet wird. Dritte Versuche dürfen nicht mit in die Bewertung einfließen, um die Objektivität aufrecht zu erhalten. Die Testergebnisse werden im FDA-2 Diagramm (siehe oben) in der entsprechenden Säule bis zur passenden Bewertungslinie markiert.
+
+Material:
+- Handanweisung
+- Protokollheft mit Ergebnisprofil (Diagramm)
+
 
 **Auswertung**
-
+In der Bewertungsskala werden 5 Stufen von a (normale Funktion) bis e (keine Funktion) vorgegeben. Es müssen nicht alle verschiedenen Symptome, die jeweils für die Bewertungsgrade a, b, c, d, e  angegeben sind, auftreten, um die beschriebene Bewertung zu erreichen. Zudem sind "Zwischenbewertungen" (z.B. zwischen c und d) möglich, wenn die Leistungen des Patienten nicht zu einem bestimmten Bewertungsgrad passt. Diese kann dann im Auswertungsdiagramm eingetragen werden.
 #### Vergleich
 
 ## Therapie

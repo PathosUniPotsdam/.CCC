@@ -223,7 +223,7 @@ Anschließend sollte eine zweite Auswertung mit geänderter Auswertungsreihenfol
 
 Die Frenchay Dysarthrie Untersuchung ist eine thoretisch solide wissenschaftsbasierte methode zur schnellen, exakten Diagnose von Dysarthrien. Sie beinhaltet sprachliche und non-verbale Untersuchungsteile und ist relativ leicht, mit wenig Training und ohne große Hilfsmittel zuverlässig durchführbar. Die Reliabilität und Validität wurden durch mehrere Studien aus verschiedenen Ländern bestätigt. 
 
-Für den deutschen Sprachraum liegt in den meisten Untertests eine Normierung vor _(Ausnahme: Testteile „Verständlichkeit“, „Beeinflussende Faktoren“ und „Andere Faktoren“)_.
+Dieses Diagnostikverfahren besteht aus 7 Untertests sowie jeweils einem Abschnitt zu beeinflussenden und anderen Faktoren, die in weitere Einzelaufgaben unterteilt sind. Für den deutschen Sprachraum liegt in den meisten Untertests eine Normierung vor _(Ausnahme: Testteile „Verständlichkeit“, „Beeinflussende Faktoren“ und „Andere Faktoren“)_.
 
 Untertests:
 - Reflexe
@@ -234,6 +234,7 @@ Untertests:
 - Stimme
 - Zunge
 - Verständlichkeit
+
 - Beeinflussende Faktoren
 - Andere Faktoren
 

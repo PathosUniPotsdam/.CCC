@@ -271,9 +271,8 @@ Anwendbarkeit zur Therapieableitung und –evaluation
 
 Vorteile:
 - Leistungen der Probanden werden in einer 9-Punkte-Skala erfasst und grafisch in einem Säulendiagramm veranschaulicht
-→ Abbildung eines Testprofils möglich (zeigt sehr gut Störungsschwerpunkte→ Therapieableitung gut möglich)
-- quantitative Bewertungen möglich
-- → therapeutischer Intervention kann abgeleitet, angepasst und in Verlaufsdiagnostik überprüft werden
+→ Abbildung eines Testprofils möglich (zeigt sehr gut Störungsschwerpunkte → Therapieableitung gut möglich)
+- quantitative Bewertungen möglich → therapeutische Intervention kann abgeleitet, angepasst und in Verlaufsdiagnostik überprüft werden
 - Bewertungskriterien können Zwischenwerte erreichen
 - Unter jede Aufgabe kommen Bemerkungen, die in die Therapieableitung einfließen können
 

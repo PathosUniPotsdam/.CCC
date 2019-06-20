@@ -197,7 +197,6 @@ Voraussetzung für die Durchführung ist, dass der Patient 30 Minuten an einem T
 **Auswertung**
 
 ![Auswertungsbogen1](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/BoDys1.jpeg)
-![Auswertungsbogen2](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/BoDys2.jpeg)
 
 Die Bewertung erfolgt nach vollständigem Anhören der Aufzeichnungen. Im Auswertungbogen werden zunächst die Auftretenshäufigkeiten der Merkmale notiert. Anhand der Häufigkeit der Merkmale kann dann ein Punktwert für die einzelnen Modalitäten vergeben werden, wobei gilt:
 
@@ -212,6 +211,9 @@ Die Bewertung erfolgt nach vollständigem Anhören der Aufzeichnungen. Im Auswer
 0 = Sehr schwere Störung – Die Sprechweise ist durch Störungsmerkmale, die der Skala zuordenbar sind, in schwerster Ausprägung dominiert.
 
 Wichtig ist zu beachten, dass der Punktwert nicht die Anzahl der Auftretenshäufigkeit eines Merkmals angibt!
+
+![Auswertungsbogen2](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/BoDys2.jpeg)
+In dem Störungsprofil (siehe Protokollbogen) können die Leistungen des Patienten eingetragen und direkt mit der Eichstichprobe verglichen werden. Der T-Wert 50 entspricht dem Mittleren Ausprägungswert der Stichprobe und jeweils 10 T-Wertpunkte entsprechen einer Standardabweichung.
 
 Anschließend sollte eine zweite Auswertung mit geänderter Auswertungsreihenfolge erstellt werden, um mögliche Verfälschungen durch Reihenfolgeeffekte ausschließen zu können.
 

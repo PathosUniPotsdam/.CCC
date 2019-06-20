@@ -242,7 +242,7 @@ Untertests:
 
 **Testdurchführung**
 
-Geeignet ist die FDA-2 für Patienten jeden Alters, wobei zu beachten ist, dass sich die Normdaten auf eine Alterspanne von 15-97 Jahren beziehen. Die Untersuchung kann in ca. 30 min durchgeführt werden und die Form eines entspannten Gesprächs annehmen, vorausgesetzt der Untersucher ist mit der Bewertung und Durchführung vertraut.
+Geeignet ist die FDA-2 für Patienten jeden Alters, wobei zu beachten ist, dass sich die Normdaten auf eine Alterspanne von 15-97 Jahren beziehen. Die Untersuchung kann in mindestens 30 min (meist länger) durchgeführt werden und die Form eines entspannten Gesprächs annehmen, vorausgesetzt der Untersucher ist mit der Bewertung und Durchführung vertraut.
 Die Untertests sowie die Einzelaufgaben innerhalb eines Untertests sollten in angegebener Reihenfolge durchgeführt werden.  Jede Testübung wird 2x durchgeführt, wovon jeweils der 2. Versuch bewertet wird. Dritte Versuche dürfen nicht mit in die Bewertung einfließen, um die Objektivität aufrecht zu erhalten. Die Testergebnisse werden im FDA-2 Diagramm (siehe oben) in der entsprechenden Säule bis zur passenden Bewertungslinie markiert.
 
 erforderliches Material:
@@ -264,5 +264,20 @@ Durch das direkte Eintragen der Testergebnisse im Diagramm, zeigt sich schnell w
 Bestimmte Formen der Dysarthrie können anhand der Mittelwerte und Standardabweichungen eindeutig voneinander unterschieden werden. In der Handanweisung ist ein Überblick über 5 Ergebnismuster enthalten.
 
 #### Vergleich
+
+| Merkmal                                                              | FDA-2   | BoDys   |
+|:---------------------------------------------------------------------|:--------|:--------|
+| sprachliche und non-verbale Aufgaben                                 |    +    |         |
+| rein sprachliches Material                                           |         |    +    |
+| rein auditive Untersuchung                                           |         |    +    |
+| auditive und visuelle Beurteilung                                    |    +    |         |
+| Aufnahme (Audio, Video) erforderlich                                 |         |    +    |
+| Untersuchungsdauer ca. 30 Minuten                                    |         |    +    |
+| Untersuchungsdauer mehr als 30 Minuten                               |    +    | (+)ggf. |
+| Ergebnisübersicht als Profil                                         |    +    |    +    |
+| normiert, validiert                                                  |   (+)   |    +    |
+| Beurteilung der Verständlichkeit                                     |    +    |         |
+| mit schwer beeinträchtigten Patienten durchführbar                   |    +    |         |
+| detaillierte Erfassung von Symptomen in den sprechmotorischen Ebenen |   (+)   |    +    |
 
 ## Therapie

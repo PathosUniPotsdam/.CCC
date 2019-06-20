@@ -136,6 +136,8 @@ husten und prusten
 #### GUSS
 Der Gugging Swallowing Screen (GUSS) von Trapl et al. (2007) ist selbst mit schwer betroffenen Patienten, z.B. in der (Post)Akutphase eines Schlaganfalls leicht durchzuführen. Bei diesem und anderen Screeningverfahren stellt das primäre Ziel dar, die Notwendigkeit einer weiteren, ggf. instrumentellen Untersuchung abzuklären ("pass / fail"). Im Gegensatz zu anderen Verfahren wird beim GUSS das Aspirationsrisiko nicht nur durch Gabe von flüssigen, sondern ebenfalls breiigen und festen Konsistenzen ermittelt. 
 Der GUSS weist mit ca. 50% eine mittelmäßige Spezifität, jedoch mit ca. 100% eine hohe Sensitivität auf.
+Online ist der [GUSS als PDF](https://gussgroupinternational.files.wordpress.com/2017/01/guss_german_dez-2016.pdf) zu finden.
+
 Das Screening besteht aus drei Teilen:
 
 **1. Voruntersuchung / indirekter Schluckversuch -> ja (1) vs. nein (0)**
@@ -155,12 +157,6 @@ Das Screening besteht aus drei Teilen:
   - Empfehlungen
 
 Die Summe der vier Untertests, in welchen jeweils  bis zu 5 Punkte erreicht werden können, gibt Auskunft über den Schweregrad der Dysphagie. Bei Erreichen von 20  Punkten liegt keine, bei 15-19 Punkten eine leichtgradige, mit 10-14 Punkten eine mittelgradige und bei 0-9 Punkten eine hochgradige Schluckstörung vor. Desweiteren kann aus den GUSS-Ergebnissen eine Kostempfehlung abgeleitet werden. 
-
-![Branching](https://img.yumpu.com/3430413/1/500x640/guss-deutsch-version-1-09.jpg)
-GUSS Protokollbogen Deutsch
-
-![Branching](https://www.ahajournals.org/cms/attachment/9aaf3113-6fdb-436e-9be6-eea150f30c9c/40ff4.jpeg)
-GUSS Evaluationsbogen Englisch
 
 #### KLINISCHE SCHLUCKUNTERSUCHUNG
 Die klinische Schluckuntersuchung (KSU) ermöglicht die Evaluation des Schluckstatus eines Patienten unter Verwendung schluckbezogener und nicht schluckbezogener Anteile. Sie liefert Hypothesen bezüglich des Pathophysiologie des Schluckens, ersetzt jedoch keine der Visualisierung dienenden instrumentellen Diagnostikinstrumente.

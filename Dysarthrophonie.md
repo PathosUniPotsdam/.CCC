@@ -176,7 +176,9 @@ Die Bogenhausener Dysarthrieskalen sind ein normiertes und validiertes Untersuch
 - _Nachsprechen_,
 - _Lesen_ 
 - und _Bildbeschreibung_ 
-durchgeführt. 
+
+durchgeführt.
+
 Beispiel aus dem Material:
 ![Bildergeschichte](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Bildergeschichte%20BoDys.png)
 

@@ -221,11 +221,11 @@ Anschließend sollte eine zweite Auswertung mit geänderter Auswertungsreihenfol
 
 #### Frenchay Dysarthrie Untersuchung
 
-Die Frenchay Dysarthrie Untersuchung beinhasltet sprachliche und non-verbale Untersuchungsteile und ist relativ leicht und mit wenigen Hilfsmitteln durchführbar.
-erfordert nur wenig Training, um ihn zuverlässig durchführen zu können
-ist normiert für den deutschen Sprachraum, (Ausnahme: Testteile „Verständlichkeit“
-„Beeinflussende Faktoren“ und „Andere Faktoren“)
-} Untertests
+Die Frenchay Dysarthrie Untersuchung beinhasltet sprachliche und non-verbale Untersuchungsteile und ist relativ leicht und mit wenigen Hilfsmitteln durchführbar. Auch mit wenig Training kann dieses Diagnostikverfahren zuverlässig durchgeführt werden.
+
+Für den deutschen Sprachraum liegt in den meisten Untertests eine Normierung vor _(Ausnahme: Testteile „Verständlichkeit“, „Beeinflussende Faktoren“ und „Andere Faktoren“)_.
+
+Untertests:
 1. Reflexe
 2. Respiration
 3. Lippenbewegungen
@@ -236,6 +236,8 @@ ist normiert für den deutschen Sprachraum, (Ausnahme: Testteile „Verständlic
 8. Verständlichkeit
 9. Beeinflussende Faktoren
 10. Andere Faktoren
+
+![Protokollbogen]
 
 **Testdurchführung**
 

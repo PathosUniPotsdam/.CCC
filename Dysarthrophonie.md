@@ -171,7 +171,7 @@ Die Symptome einer Dysarthrie äußern sich konstant. Das Sprechen weist durchge
 ## Diagnostik
 _Im Folgenden werden zwei mögliche Diagnostikverfahren kurz vorgestellt und verglichen. Dies soll lediglich einen Überblick verschaffen und reicht nicht ausschließlich für die Durchführung aus. Bitte machen Sie sich vor der Anwendung mit den Handanweisungen der jeweiligen Verfahren vertraut!_
 
-#### BoDys (Bogenhausener Dysarthrieskalen)
+#### Bogenhausener Dysarthrieskalen (BoDys)
 Die Bogenhausener Dysarthrieskalen sind ein normiertes und validiertes Untersuchungsmaterial für die Diagnostik einer Dysarthrophonie. Die Ergebnisse ermöglichen eine Einschätzung des Gesamtschweregrades sowie ausfürliche Hinweise auf Störunngschwerpunkte anhand der Erstellung eines Störungsprofils. Es werden ausschließlich sprachliche Untersuchungsaufgaben in den Modalitäten
 - _Spontansprache_,
 - _Nachsprechen_,
@@ -219,9 +219,9 @@ In dem Störungsprofil (siehe Protokollbogen) können die Leistungen des Patient
 
 Anschließend sollte eine zweite Auswertung mit geänderter Auswertungsreihenfolge erstellt werden, um mögliche Verfälschungen durch Reihenfolgeeffekte ausschließen zu können.
 
-#### Frenchay Dysarthrie Untersuchung
+#### Frenchay Dysarthria Assessment (FDA-2)
 
-Die Frenchay Dysarthrie Untersuchung beinhasltet sprachliche und non-verbale Untersuchungsteile und ist relativ leicht und mit wenigen Hilfsmitteln durchführbar. Auch mit wenig Training kann dieses Diagnostikverfahren zuverlässig durchgeführt werden.
+Die Frenchay Dysarthrie UntersuchungDas ist eine thoretisch solide wissenschaftsbasierte methode zur schnellen, exakten Diagnose von Dysarthrien. Sie beinhaltet sprachliche und non-verbale Untersuchungsteile und ist relativ leicht, mit wenig Training und ohne große Hilfsmittel zuverlässig durchführbar. Die Reliabilität und Validität wurden durch mehrere Studien aus verschiedenen Ländern bestätigt. 
 
 Für den deutschen Sprachraum liegt in den meisten Untertests eine Normierung vor _(Ausnahme: Testteile „Verständlichkeit“, „Beeinflussende Faktoren“ und „Andere Faktoren“)_.
 

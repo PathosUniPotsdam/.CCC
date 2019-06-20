@@ -134,9 +134,8 @@ Folgende Warnsignale ("Red Flags") deuten auf eine vorliegende Dysphagie hin
 husten und prusten
 
 #### GUSS
-Der Gugging Swallowing Screen (GUSS) von Trapl et al. (2007) ist selbst mit schwer betroffenen Patienten, z.B. in der (Post)Akutphase eines Schlaganfalls leicht durchzuführen. Bei diesem und anderen Screeningverfahren stellt das primäre Ziel dar, die Notwendigkeit einer weiteren, ggf. instrumentellen Untersuchung abzuklären ("pass / fail"). Im Gegensatz zu anderen Verfahren wird beim GUSS das Aspirationsrisiko nicht nur durch Gabe von flüssigen, sondern ebenfalls breiigen und festen Konsistenzen ermittelt. 
+Der [Gugging Swallowing Screen (GUSS)](https://gussgroupinternational.files.wordpress.com/2017/01/guss_german_dez-2016.pdf) von Trapl et al. (2007) ist selbst mit schwer betroffenen Patienten, z.B. in der (Post)Akutphase eines Schlaganfalls leicht durchzuführen. Bei diesem und anderen Screeningverfahren stellt das primäre Ziel dar, die Notwendigkeit einer weiteren, ggf. instrumentellen Untersuchung abzuklären ("pass / fail"). Im Gegensatz zu anderen Verfahren wird beim GUSS das Aspirationsrisiko nicht nur durch Gabe von flüssigen, sondern ebenfalls breiigen und festen Konsistenzen ermittelt. 
 Der GUSS weist mit ca. 50% eine mittelmäßige Spezifität, jedoch mit ca. 100% eine hohe Sensitivität auf.
-Online ist der [GUSS als PDF](https://gussgroupinternational.files.wordpress.com/2017/01/guss_german_dez-2016.pdf) zu finden.
 
 Das Screening besteht aus drei Teilen:
 

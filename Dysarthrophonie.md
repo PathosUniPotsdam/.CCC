@@ -171,9 +171,16 @@ Die Symptome einer Dysarthrie äußern sich konstant. Das Sprechen weist durchge
 ## Diagnostik
 
 #### BoDys (Bogenhausener Dysarthrieskalen)
-Die Bogenhausener Dysarthrieskalen sind ein normiertes und validiertes Untersuchungsmaterial für die Diagnostik einer Dysarthrophonie. Es werden ausschließlich sprachliche Untersuchungsaufgaben in den Modalitäten _Spontansprache, Nachsprechen, Lesen_ und _Bildbeschreibung_ durchgeführt. 
+Die Bogenhausener Dysarthrieskalen sind ein normiertes und validiertes Untersuchungsmaterial für die Diagnostik einer Dysarthrophonie. Es werden ausschließlich sprachliche Untersuchungsaufgaben in den Modalitäten
+- _Spontansprache_,
+- _Nachsprechen_,
+- _Lesen_ 
+- und _Bildbeschreibung_ 
+durchgeführt. 
+Beispiel aus dem Material:
+![Bildergeschichte](
 
-Hierbei kann es hilfreich sein die Reaktionen des Patienten mit einer Audio- oder Videoaufnahme für die Auswertung festzuhalten. Die Beurteilung erfolgt nämlich ausschließlich durch die auditive Wahrnehmung des Sprachtherapeuten. 
+Hierbei ist es hilfreich die Reaktionen des Patienten mit einer Audio- oder Videoaufnahme für die Auswertung festzuhalten. Die Beurteilung erfolgt nämlich ausschließlich durch die auditive Wahrnehmung des Sprachtherapeuten. 
 Anhand einer 5- stufigen Skalierung von 9 Merkmalen kann der Schweregrad ermittelt werden. Des Weiteren lässt sich das Störungsprofil durch die Häufigkeit des Auftretens der einzelnen Merkmale bestimmen.
 
 Es gibt drei verschiedene Ausführungen der BoDys: 
@@ -181,13 +188,13 @@ Es gibt drei verschiedene Ausführungen der BoDys:
 - eine _Kurzversion_, bei der alle Modalitäten 2x geprüft werden, sodass man 8 Sprechproben erhält.
 - und eine _Version ohne Lesen_, bei der alle übrigen Modalitäten 3x geprüft werden, sodass man 9 Sprechproben erhält.
 
-![Untersuchungsbogen](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/BoDys1.jpeg)
-
 **Testdurchführung**
-Voraussetzung für die Durchführung ist, dass der Patient 30 Minuten an einem Tisch sitzen kann und eine uneingeschränkte Seh- und Hörfähigkeit besitzt. Die 3 Untersuchungblöcke können dann in der Reihenfolge der Nummerierung durchgeführt werden. Die Durchführungsdauer beträgt etwa 20 - 30 Minuten bei kompletter Durchführung. Testteile können abgebrochen werden, wenn sich der Untersucher einen ausreichenden Höreindruck verschafft hat. Eine Audio- oder Video Aufzeichnung für eine genaue Auswertung.
+Voraussetzung für die Durchführung ist, dass der Patient 30 Minuten an einem Tisch sitzen kann und eine uneingeschränkte Seh- und Hörfähigkeit besitzt. Die 3 Untersuchungblöcke können dann in der Reihenfolge der Nummerierung durchgeführt werden. Die Durchführungsdauer beträgt etwa 20 - 30 Minuten bei kompletter Durchführung. Testteile können abgebrochen werden, wenn sich der Untersucher einen ausreichenden Höreindruck verschafft hat. Dann folgt die zweiteilige Auswertung mit Hilfe der Audio/-Videoaufnahmen.
 
 **Auswertung**
-![Auswertungsbogen](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/BoDys2.jpeg)
+
+![Auswertungsbogen1](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/BoDys1.jpeg)
+![Auswertungsbogen2](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/BoDys2.jpeg)
 
 Die Bewertung erfolgt nach vollständigem Anhören der Aufzeichnungen. Im Auswertungbogen werden zunächst die Auftretenshäufigkeiten der Merkmale notiert. Anhand der Häufigkeit der Merkmale kann dann ein Punktwert für die einzelnen Modalitäten vergeben werden, wobei gilt:
 

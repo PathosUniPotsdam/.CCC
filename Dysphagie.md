@@ -33,6 +33,7 @@ Die Ursache von Dysphagien ist breit gefächert und tritt bei Menschen jeglicher
   Langzeitintubation, nach Strahlen- oder Chemotherapie
 
 **Folgen**
+
 Folgen können Mangelernährung (=Malnutrition) und Austrocknung (=Dehydratation) sowie Penetrationen (=der Bolus/Speichel gelangt bis zur Glottisebene) oder Aspirationen (=der Bolus gelangt bis hinter die Glottis). Bei einer sogenannten „stillen Aspiration“ bleiben Schutzreflexe wie Husten oder Würgen aus. Eine Aspirationspneumonie (=Lungenentzündung) kann unter Umständen tödlich enden.
 
 _Teufelskreis:_ Dysphagie <> Mangelernährung <> Muskelabbau

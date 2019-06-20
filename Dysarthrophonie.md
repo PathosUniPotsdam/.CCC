@@ -178,9 +178,9 @@ Die Bogenhausener Dysarthrieskalen sind ein normiertes und validiertes Untersuch
 - und _Bildbeschreibung_ 
 durchgeführt. 
 Beispiel aus dem Material:
-![Bildergeschichte](
+![Bildergeschichte](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Bildergeschichte%20BoDys.png)
 
-Hierbei ist es hilfreich die Reaktionen des Patienten mit einer Audio- oder Videoaufnahme für die Auswertung festzuhalten. Die Beurteilung erfolgt nämlich ausschließlich durch die auditive Wahrnehmung des Sprachtherapeuten. 
+Hilfreich ist es, die Reaktionen des Patienten mit einer Audio- oder Videoaufnahme für die Auswertung festzuhalten. Die Beurteilung erfolgt nämlich ausschließlich durch die auditive Wahrnehmung des Sprachtherapeuten. 
 Anhand einer 5- stufigen Skalierung von 9 Merkmalen kann der Schweregrad ermittelt werden. Des Weiteren lässt sich das Störungsprofil durch die Häufigkeit des Auftretens der einzelnen Merkmale bestimmen.
 
 Es gibt drei verschiedene Ausführungen der BoDys: 

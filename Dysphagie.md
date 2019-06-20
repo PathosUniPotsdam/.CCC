@@ -232,11 +232,11 @@ Kieferkontrollgriff
 * Transfer: Einbettung und Übung erarbeiteter Bewegungen / Strategien in die Schluckfunktion
 
 #### F.O.T.T.
-Die Fazio-orale-Trakt-Therapie liegt dem Bobath-Konzept (krankengymnastisches Pflegekonzept von 1943 mit der Grundannahme eine Spastik bilde sich in Abhängigkeit von der Lagerung und Stellung des Körpers aus) zugrunde.
+Die [Fazio-orale-Trakt-Therapie](https://www.formatt.org/) liegt dem Bobath-Konzept (krankengymnastisches Pflegekonzept von 1943 mit der Grundannahme eine Spastik bilde sich in Abhängigkeit von der Lagerung und Stellung des Körpers aus) zugrunde.
 Sie wirkt _restituierend_ und eignet sich für die Behandlung von Klienten mit neurogenen Störungen der Mimik, oralen Bewegungen, Atmung, Stimme, des Sprechens und der Nahrungsaufnahme aufgrund erworbener Hirnschädigungen. Die F.O.T.T. erweist sich als wirksame "24-Stunden-Behandlung" bei bewusstseinsgestörten oder kognitiv schwer beeinträchtigten Patienten.
 
 #### THERAPIE NACH CASTILLO MORALES
-Das neurophysiologische Therapiekonzept nach Castillo Morales ist geeignet für Kinder, insbesondere mit Down-Syndrom und Erwachsene  mit kommunikativen, sensomotorischen und orofazialen Störungen. Es umfasst ausschließlich _restituierende_ Übungen.
+Das neurophysiologische [Therapiekonzept nach Castillo Morales](https://www.castillomoralesvereinigung.de/) ist geeignet für Kinder, insbesondere mit Down-Syndrom und Erwachsene  mit kommunikativen, sensomotorischen und orofazialen Störungen. Es umfasst ausschließlich _restituierende_ Übungen.
 
 
 **Bausteine sensomotorischer (funktioneller) Dysphagietherapie:**

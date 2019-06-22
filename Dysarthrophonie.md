@@ -308,4 +308,17 @@ Nachteile:
 
 ## Therapie
 
+Dysarthrien liegt eine neurologisch bedingte Bewegungsstörung zugrunde, weshalb es nicht ausreicht die Mund-und Zungenmotorik mit einem dysarthrischen Patienten zu üben. Für die Therapieplanung ist es sehr wichtig sich einen Überblick über die Medikation des Patienten zu informieren, da es zahlreiche Medikamente gibt, die eine Wirkung auf das motorische System haben und demnach häufig bei dysarthrischen Patienten eingesetzt werden. Beispielsweise kommen Medikamente mit folgenden Wirkungen zum Einsatz:
+- tonusregulierend (z.B. Spasmolytika)
+- Ausgleich von Defiziten oder Übermaßen an Neurotransmittern (z.B. L-Dopa)
+- Veränderungen der Impulsübertragung an der neuromuskulären Schnittstelle (z.B. Botox)
+
+Meist besteht also eine Interaktion zwischen medikamentöser und "klassischer"
+Therapie. Im Folgenden werden nur "klassische" Therapiemethoden aufgeführt, für die immer ein gut abgestimmtes Zusammenspiel aus 
+1. Positionierung
+2. Bewegungsübungen
+3. Sprechübungen
+
+grundlegend ist.
+
 ## Quellen

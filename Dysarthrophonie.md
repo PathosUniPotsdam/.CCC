@@ -321,4 +321,9 @@ Therapie. Im Folgenden werden nur "klassische" Therapiemethoden aufgeführt, fü
 
 grundlegend ist.
 
+**1. Positionierung**
+
+**2. Bewegungsübungen**
+
+**3. Srechübungen**
 ## Quellen

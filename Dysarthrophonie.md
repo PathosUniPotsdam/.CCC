@@ -443,4 +443,10 @@ Im Funktionskreis Artikulation tragen folgende Übungen sowohl für eine Verbess
 
 #### Anwendung in den Funktionskreisen bei ataktischer DAP
 
+#### Therapiematerial
+
+**ArtikuList**
+
+**Lee Silverman Voice Treatment (LSVT)**
+
 ## Quellen

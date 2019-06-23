@@ -364,7 +364,7 @@ reduzierte Muskelaktivität anfordern, z.B. durch
 - weiche, behauchte Stimmeinsätze
 - Übungen mit weichen Ganzkörperbewegungen (z.B. Geh-/ Tanzbewegungen, Modulation mit entsprechenden Armbewegungen)
 
-#### Anwendung in den Funktionskreisen
+#### Anwendung in den Funktionskreisen bei hypotoner/ hypertoner DAP
 
 **Respiration**
 
@@ -438,5 +438,9 @@ Im Funktionskreis Artikulation tragen folgende Übungen sowohl für eine Verbess
 - Gleiches gilt für: Massagen, Dehnungsübungen etc: dies ist nur zur Vorbereitung von gezielten Artikulationsübungen sinnvoll
 - “KLASSISCH“: Minimalkontraste, kontrastive Akzentuierung, Wortidentifikationsübungen, überarktikuliertes Sprechen
 - kommunikationsorientiert: hörerorientierte Strategien und Interaktionsstrategien aufbauen
+
+#### Anwendung in den einzelnen Funktionskreisen bei hyperkinetischer DAP
+
+#### Anwendung in den Funktionskreisen bei ataktischer DAP
 
 ## Quellen

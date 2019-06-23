@@ -370,4 +370,73 @@ reduzierte Muskelaktivität anfordern, z.B. durch
 
 Zu den Therapiezielen im Funktionskreis Respiration zählt die Verbesserung der Atem - Sprech - Koordination und Sprechphasenlänge sowie die Regulation des subglottischen und oropharyngealen Anblasedrucks, um Voraussetzungen für die Funktionskreise Phonation, Resonanz & Artikulation zu schaffen.
 
+Der Wirkmechanismus, um diese Ziele zu erreichen, beinhaltet die Erhöhung des Atemvolumens: tiefere Einatmung sowie eine längere Ausatmung um längere Sprechphasen zu erlangen. Mehr Einatemvolumen führt zu mehr expiratorischem Flow und demnach ist ein höherer Anblasedruck vorhanden.
+
+Bei einer *hypotonen* DAP bieten sich z.B. folgende Übungen an:
+- aufrechte Behandlungsposition – wenig Unterstützungsfläche
+- tiefe Inspiration dabei Arme / Schultergürtel anheben – Ausatemphasen verlängern - dabei Arme senken
+-> auf Frikative / Vokale, zählen, Silben / Wörter / Phrasen
+- Stop- and go Übungen
+- Atemtrainer: Inspirations-/ Expirationstrainer
+
+Bei einer *hypertonen* DAP bieten sich z.B. folgende Übungen an:
+
+- angelehnte / ggf. liegende Behandlungsposition mir viel Unterstützungsfläche
+- Inspiration und Exspiration mit Rumpfrotationsbewegungen – dabei Sprechübungen in zunehmend längeren Exspirationsphasen (siehe Hypotone DAP)
+- ggf. Stop - and – Go Übungen
+- Atemtrainer: Atemvolumentrainer (weniger Kraftanforderung)
+
+Hilfreich können auch Übungen zur Wahrnehmung z.B.
+• Körperreise
+• autogenes Training
+• Progressive Muskelentspannung (nach Jacobson)
+
+und zur Differenzierung zwischen Mund- und Nasenatmung z.B.
+• Sniffing („Schnüffeln“)
+• Pustübungen
+• Einatmen -> Nase, Ausatmen -> Mund
+• Durch ein Nasenloch ein- durch das andere ausatmen
+
+sein.
+
+
+
+**Phonation**
+
+Der  Wirkmechanismus, um diese Ziele zu erreichen, beginnt mit der Erhöhung des Atemvolumens -> wodurch eine dosierte laryngeale Muskelfunktion geübt wird -> und es schließlich zu einer koordinierten Resonanzverstärkung des erzeugten Tons kommen kann.
+
+Bei einer *hypotonen* DAP bieten sich z.B. folgende Übungen an:
+
+- „Sphinkter“ - Aktivierung: Sprechübungen mit kräftigem Drücken, Schieben, Heben
+- Husten, Räuspern, „Ventiltönchen“, Luftanhalten mit offenem Mund
+- „harte“ Stimmeinsätze (initiale Vokale), Stop & Go, Glissandi/ Tonleiter aufwärts, intensive, kraftvolle Tonhalteübungen (-> LSVT)
+- semi - occluded vocal tract exercises (LAXVOX, Akzentmethode, Lippenflattern, /v, z/...)
+
+Bei einer *hypertonen* DAP bieten sich z.B. folgende Übungen an:
+
+- „Sphinkter“ - Deaktivierung: Sprechübungen mit Bewegungen zum Körper hin, Ziehen, rotatorische und transversale Bewegungen, Massage/ Dehnung/ Entspannung
+- Hauchen, Seufzen, „Lachen“
+- “weiche“/ behauchte Stimmeinsätze, initiales /h/, Tonhalten/ Zählen/ etc. mit Lautstärkemodulation (leiser), Glissandi/ Tonleiter abwärts, Tonhalten mit Tonhöhenmodulation
+- LAXVOX
+
+**Resonanz**
+
+Im Funktionskreis Resonanz tragen folgende Übungen sowohl für eine Verbesserung bei *hypotonen* als auch bei *hypertonen* Dysarthrophonien bei:
+
+- Überartikulation von Plosiven (erhöhte Lautstärke, reduziertes Tempo),kontrastive Artikulation (/m:p, n:t/)
+-> unterstützende Bewegungen (Tonusaufbau): Schieben, Boxen, Druck - Halte - Übungen
+- „Stoßübungen nach Fröschels“: Plosivsilben überartikuliert mit viel Mundluftdruck und Lautstärke
+• aaaaa - PA! – aaaaa - PE! – aaaa- PI! ...
+- ggf. Puste-, Saug- und Blasübungen, Gurgeln, Schnarchübungen (Wirksamkeit unklar)
+
+**Artikulation**
+
+Im Funktionskreis Artikulation tragen folgende Übungen sowohl für eine Verbesserung bei *hypotonen* als auch bei *hypertonen* Dysarthrophonien bei:
+
+- nonverbale Kräftigungsübungen nicht direkt effektiv (Artikulieren bedarf kaum Kraft)
+-> als „Warm-up“ / Förderung Wahrnehmung und selektive Beweglichkeit möglich
+- Gleiches gilt für: Massagen, Dehnungsübungen etc: dies ist nur zur Vorbereitung von gezielten Artikulationsübungen sinnvoll
+- “KLASSISCH“: Minimalkontraste, kontrastive Akzentuierung, Wortidentifikationsübungen, überarktikuliertes Sprechen
+- kommunikationsorientiert: hörerorientierte Strategien und Interaktionsstrategien aufbauen
+
 ## Quellen

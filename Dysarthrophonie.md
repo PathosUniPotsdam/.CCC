@@ -323,7 +323,10 @@ grundlegend ist.
 
 **1. Positionierung**
 Durch eine gute Positionierung des Patienten kann der Tonus entsprechend reguliert werden. Bei einer *hypotonen* Dysarthrophonie ist demnach die Tonuserhöung und bei einer *hypertonen* Dysarthrophonie die Tonussenkung zielführend. Die Schlüsselpunkte des Patienten sollten übereinander sein, sodass es für Ihn leichter wird die folgenden Sprechübungen möglichst genau durchzuführen. Die Stimme eines jeden Menschens wird durch die Körperhaltung beeinflusst. 
-![Aufrichtung über die Schlüssenpunkte]()
+
+![Aufrichtung über die Schlüsselpunkte](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Aufrichtung%20über%20die%20Schlüsselpunkte.png)
+Aufrichtung über die Schlüsselpunkte
+
 Eine Tonussenkung kann erreicht werden, indem dem Patienten eine große Unterstützungsfläche gegeben wird. Diese Unterstützungsdfläche sollte an jeden Patienten idividuell angepssst werden und eine gute Arbeitsgrundlage schaffen. Die Arme des Patienten können z.B. durch Kissen etwas erhöht gelagert werden. In Verbindung mit einem Haltungshintergrund kann eine Aufrichtung des Schultergürtels, des Thorax und des Kopfes erreicht werden. Beispielsweise mit einer Decke, die um den Rumpf gewickelt wird, kann eine Sabilisierung der Rumpfmuskulatur erzielt werden. 
 
 Eine Tonuserhöhung erreicht man, indem man die Unterstützungsfläche für den Patienten verkleinert. Der Patient muss dann den Muskeltonus erhöhen, um die Schlüsselpunkte übereinander halten zu können. Hierbei müssen die Therapeuten gut beobachten, wann der Patient erschöpft ist und sich nicht mehr selbstständig ohne seine gewohnte Unterstützungsfläche halten kann. Bei vielen Patienten kann die Unterstützungsfläche nur wenig reduziert werden. Ziel ist eine gute Haltung als Grundlage für die Sprechübungen zu bekommen, nicht das körperliche Training des Patienten!

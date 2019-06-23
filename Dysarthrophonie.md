@@ -364,4 +364,10 @@ reduzierte Muskelaktivität anfordern, z.B. durch
 - weiche, behauchte Stimmeinsätze
 - Übungen mit weichen Ganzkörperbewegungen (z.B. Geh-/ Tanzbewegungen, Modulation mit entsprechenden Armbewegungen)
 
+#### Anwendung in den Funktionskreisen
+
+**Respiration**
+
+Zu den Therapiezielen im Funktionskreis Respiration zählt die Verbesserung der Atem - Sprech - Koordination und Sprechphasenlänge sowie die Regulation des subglottischen und oropharyngealen Anblasedrucks, um Voraussetzungen für die Funktionskreise Phonation, Resonanz & Artikulation zu schaffen.
+
 ## Quellen

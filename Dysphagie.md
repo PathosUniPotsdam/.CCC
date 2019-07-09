@@ -215,7 +215,8 @@ gemeinsam essen - ein kulinarisches und soziales Erlebnis
 **Therapieansätze bei Dysphagie**
 - _adaptive_ Verfahren: 
   - Veränderung externer Bedingungen für die Nahrungsaufnahme
-  z.B. Kostadaption (pürierte Kost, angedickte Kost...), spezielle Hilfsmittel (Trinkbecher, Besteck...), ...
+  z.B. Kostadaption (pürierte Kost, angedickte Kost...), spezielle Hilfsmittel (Trinkbecher, Besteck, rutschfeste Unterlage...), ...
+  ! No-Go's bei Dysphagie = Krümel, Kräuter, Krusten, Körner, faseriges Fleisch, Fisch, Reis, Nüsse, Müsli und Ähnliches
 - _kompensatorische_ Verfahren: 
   - Erlernen von Haltungsänderungen und Schluckmanövern
   z.B. Chin Tuck, Shaker Übung, ...
@@ -246,8 +247,21 @@ Das neurophysiologische [Therapiekonzept nach Castillo Morales](https://www.cast
 * Transfer: Einbettung und Übung erarbeiteter Bewegungen / Strategien in die Schluckfunktion
 
 #### FDT
-Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als auch _kompensatorische_ und _adaptive_ Therapieansätze zu einem funktions- und problemorientieren Interventionsprogramm. Die Methodenwahl orientiert sich an der "evidence-based medicine", also nachgewiesener Wirksamkeit. 
+Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als auch _kompensatorische_ und _adaptive_ Therapieansätze zu einem funktions- und problemorientieren Interventionsprogramm. Die Methodenwahl orientiert sich an der "evidence-based medicine", also nachgewiesener Wirksamkeit.
 
+**Mögliche Übungen (nach Hotzenköcherle):**
+- Orale Vorbereitungsphase:
+  - _Lippenschlussübung_ (Drooling, orale Residuen)
+- Orale Vorbereitungsphase / Orale Transportphase:
+  - _Zungenbewegung in alle Richtungen gegen Widerstand_ (Zungenschüsselbildung, Zungenschubkraft, Bolussammlung, orale Residuen)
+  - _Kau- / Gazesäckchen_ (Kau- / Kieferfunktion, Kiefer- / Zungenkoordination, Lippen- / Wangenspannung, Zungenschüsselbildung, Schlucktriggerung)
+- Orale Transporthase / Pharyngeale Phase:
+  - _Masako Manöver_ (Rachenhinterwand, Zungenretraktion, oropharyngealer Bolustransport)
+  - _kräftiges Schlucken_ (intensive Aktivität der oralen / pharyngealenMuskulatur, Rachen- / Zungenbasisannährung, Achtung Cave (= 'Hüte dich' vor Ermüdung))
+- Pharyngeale Phase:
+  - _Mendelson Manöver_ (pharyngealerTransport, OÖS Öffnung)
+  - _Supraglottisches Schlucken (SGS) / Supersupraglottisches Schlucken (SSGS)_ (kompensiert insuffizienten Glottisschluss)
+  
 
 #### ÜBERSICHT THERAPEUTISCHER INTERVENTIONEN: 
 [Dysphagie-Merkblatt für Therapeuten nach Alexander Fillbrandt](https://madoo.net/15853/dysphagie-merkblatt-fuer-therapeuten-stoerung-und-passende-verfahren/)

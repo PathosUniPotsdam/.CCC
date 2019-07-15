@@ -74,6 +74,7 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 ![10-Punkte-Checkliste](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/10-Punkte-Checkliste.png)
 
 ![Hierarchische Wortlisten](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Hierarchische%20Wortlisten.jpg)
+![Hierarchische Wortlisten](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Hierarchische%20Wortlisten-klein.jpg)
 
 ![Beispielliste](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Beispiel%20Liste.png)
 

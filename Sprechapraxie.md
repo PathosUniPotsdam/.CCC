@@ -80,7 +80,7 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 ![Magnetresonanztomografie](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Magnetresonanztomografie-gro%C3%9F.jpg)
 
 
-## Therapie
+## Therapi
 
 #### Weiterführende Links
 * [Sprechapraxie - dbl](https://www.dbl-ev.de/kommunikation-sprache-sprechen-stimme-schlucken/stoerungen-bei-erwachsenen/stoerungsbereiche/sprechen/sprechapraxie.html)

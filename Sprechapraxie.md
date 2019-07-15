@@ -69,13 +69,13 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 
 ## Therapie
 
-### Weiterführende Links
-* [Sprechapraxie - dbl] (https://www.dbl-ev.de/kommunikation-sprache-sprechen-stimme-schlucken/stoerungen-bei-erwachsenen/stoerungsbereiche/sprechen/sprechapraxie.html)
-* [Sprechapraxie:Leitfaden zur Diagnostik - dbl] (https://test.dbl-ev.de/fileadmin/Inhalte/Dokumente/der_dbl/QM/leitfaden_sprechapraxie.pdf)
-* [Neue Methoden in der Diagnostik und Therapie bei Sprechapraxie] (https://www.uni-potsdam.de/de/swallow/projekte/sprechapraxie-neue-methoden-in-der-diagnostik-und-therapie-bei-sprechapraxie.html)
-* [SP6 - Heilmittelkatalog 2017] (https://heilmittelkatalog.de/files/luxe/hmkonline/logo/sp6.htm)
+#### Weiterführende Links
+* [Sprechapraxie - dbl](https://www.dbl-ev.de/kommunikation-sprache-sprechen-stimme-schlucken/stoerungen-bei-erwachsenen/stoerungsbereiche/sprechen/sprechapraxie.html)
+* [Sprechapraxie: Leitfaden zur Diagnostik - dbl](https://test.dbl-ev.de/fileadmin/Inhalte/Dokumente/der_dbl/QM/leitfaden_sprechapraxie.pdf)
+* [Neue Methoden in der Diagnostik und Therapie bei Sprechapraxie](https://www.uni-potsdam.de/de/swallow/projekte/sprechapraxie-neue-methoden-in-der-diagnostik-und-therapie-bei-sprechapraxie.html)
+* [SP6 - Heilmittelkatalog 2017](https://heilmittelkatalog.de/files/luxe/hmkonline/logo/sp6.htm)
 
-### Quellen
+#### Quellen
 * Blanken, G. (Ed.). (1991). Einführung in die linguistische Aphasiologie: Theorie und Praxis. Verlag Mainz.
 * Dronkers NF (1996) A new brain region for coordinating speech artculation. Nature 384:159-161. Hillis AE, Work M, Barker PE, Jacobs MA, Breese EL, Maurer K (2004) Re-examining the brain regions crucial for orchestraFng speech arFculaFon. Brain 127:1479-1487.
 * Hartje, W., Karnath, H. O., & Ziegler, W. (2005). Kognitive Neurologie. Georg Thieme Verlag.

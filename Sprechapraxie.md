@@ -79,6 +79,7 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 #### Quellen
 * Blanken, G. (Ed.). (1991). Einführung in die linguistische Aphasiologie: Theorie und Praxis. Verlag Mainz.
 * Dronkers NF (1996) A new brain region for coordinating speech artculation. Nature 384:159-161. Hillis AE, Work M, Barker PE, Jacobs MA, Breese EL, Maurer K (2004) Re-examining the brain regions crucial for orchestraFng speech arFculaFon. Brain 127:1479-1487.
+* Geissler, M., & Lauer, N. (2015). Sprechapraxie: ein Ratgeber für Betroffene und Angehörige. Schulz-Kirchner Verlag GmbH.
 * Hartje, W., Karnath, H. O., & Ziegler, W. (2005). Kognitive Neurologie. Georg Thieme Verlag.
 * Lauer, N., & Birner-Janusch, B. (2010). Sprechapraxie im Kindes-und Erwachsenenalter. Georg Thieme Verlag.
 * Liepold, M., Ziegler, W., Brendel, B., & Ziegler, W. (2003). Hierarchische Wortlisten: ein Nachsprechtest für die Sprechapraxiediagnostik. Borgmann.

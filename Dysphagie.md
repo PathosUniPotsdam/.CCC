@@ -14,21 +14,21 @@ Die Ursache von Dysphagien ist breit gefächert und tritt bei Menschen jeglicher
 * phagein - essen, schlucken
 
 ## Ätiologie
-- **neurogen:** 
+- _neurogen:_
   Schlaganfall/Blutungen, Schädel-Hirn-Trauma, degenerative Erkrankungen (z.B. Demenz, M. Parkinson, ALS, MS),
   Hirnhautentzündung, Muskelerkrankungen
-- **psychogen:**
+- _psychogen:_
   Verhaltensstörungen, Essstörungen, Phagophobie (=Schluckangst), gestörte Eltern-Kind-Interaktion
--	**nach Operationen:**
+-	_nach Operationen:_
   Tumore im Mund-, Hals- und Kopfbereich, Tumore der (oberen) Speiseröhre, Lippen-Kiefer-Gaumen-Spalten, Halswirbelsäule,
   strukturelle / funktionelle Veränderungen
--	**im Kindesalter:** 
+-	_im Kindesalter:_
   Lippen-Kiefer-Gaumen-Spalten, Tonsillenhyperplasie (=vergrößerte Gaumen- / Rachenmandel), Bewegungsstörungen / 
   Motilitätsstörungen, Missbildungssyndrome, neurologische Erkrankung (ZNS, PNS, Muskeln, nach Tumoroperationen, usw.)
--	**im fortschreitenden Alter:** 
+-	_im fortschreitenden Alter:_
   Presbyphagie (=altersbedingte Schluckveränderungen), Bewegungsstörungen / Motilitätsstörungen, Demenzerkrankungen,
   Antriebsstörungen
--	**andere:**
+-	_andere:_
   Ösophaguserkrankungen (z.B. neuromuskulär bedingter Reflux), Vergiftungen / Verätzungen des Speisewegs, nach
   Langzeitintubation, nach Strahlen- oder Chemotherapie
 
@@ -181,20 +181,20 @@ Schluckversuch
 Die Therapiemaßnahmen einer Dysphagie leiten sich aus dem zugrundeliegenden Störungsbild und Schweregrad ab.
 Therapieziele jeglicher Art sollten möglichst "SMART" (Specific - Measurable - Achievable - Reasonable - Time Bound) formuliert werden.
 
-Mögliche Therapieziele wären folgende:
-- **allgemeine Ziele:**
+Mögliche **Therapieziele** wären folgende:
+- _allgemeine Ziele:_
   - Vermeidung von Mangelernährung (=Malnutrition) / Austrocknung (=Dehydratation)
   - Vermeidung von Penetration / Aspiration / Pneumonie
   - oraler Kostaufbau
   - Trachealkanülenentwöhnung
   - Verbesserung der Lebensqualität
-- **Funktionsziele:**
+- _Funktionsziele:_
   - Verbesserung der Kieferöffnung
   - Verbesserung der Zungenretraktionskraft
   - Verbesserung der Kehlkopfhebung
   - Verbesserung der Hand-Mund-Koordination
   - Kräftigung der willkürlichen und reflektorischen Schutzreflexe / -reaktionen
-- **Partizipationsziele:**
+- _Partizipationsziele:_
   - Verbesserung der Speichelkontrolle
   - Beginn teiloraler Ernährung (z.B. passierte Kost)
   - Erweiterung oraler Ernährung (z.B. Übergang zu weich-festen Konsistenzen)
@@ -204,11 +204,11 @@ Mögliche Therapieziele wären folgende:
 gemeinsam essen - ein kulinarisches und soziales Erlebnis
 
 **Prinzipen des motorischen Lernens innerhalb der Dysphagietherapie:**
-- Intensität: 
+- _Intensität:_ 
   - hohe Therapiefrequenz bei angemessener Dauer
   - häufige Wiederholungen der Bewegungsabläufe
   - Zielbewegungen gegen Widerstand
-- Spezifität:
+- _Spezifität:_
   - dem funktionellen Ziel entsprechende Bewegungsaufgaben
   - spezifisch die Zielmuskulatur aktivierende Bewegungsaufgaben
   

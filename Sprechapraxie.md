@@ -69,6 +69,12 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 
 ## Therapie
 
+### Weiterführende Links
+* (./https://www.uni-potsdam.de/de/swallow/projekte/sprechapraxie-neue-methoden-in-der-diagnostik-und-therapie-bei-sprechapraxie.html).
+
+### Quellen
+*
+
 ### Header 3
 
 ```js

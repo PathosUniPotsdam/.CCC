@@ -40,6 +40,7 @@ Bei einer Sprechapraxie ist zu beachten, dass die Symptomatik sehr variabel ist.
 
 Zunächst ist es grundlegend, zwischen Sprechstörungen (Sprechapraxien, [Dysarthrophonien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Dysarthrophonie.html)) und Sprachstörungen (Aphasien) zu unterscheiden. Bei Sprachstörungen ist es den Betroffenen nicht möglich, Sprache richtig zu verstehen und zu verarbeiten sowie auf bestimmte Worte zuzugreifen und daraus korrekte Sätze zu bilden. Hier sind alle sprachlichen Modalitäten (Sprachproduktion, Sprachverständnis, Lesen und Schreiben) betroffen. Bei den Sprechstörungen sind diese Fähigkeiten nicht eingeschränkt. 
 Anhand des nebenstehenden Sprachproduktionsmodells von Levelt (Levelt et al. 1989) lassen sich die verschiedenen Störungsschwerpunkte im System der verschiedenen Störungsbilder gut erkennen. 
+
 (blau = Aphasie, orange = Sprechapraxie, grün = Dysarthrophonie)
 
 ![Modell der Sprachproduktion, Levelt et al. 1989](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Levelt%20Modell-mittel.png)

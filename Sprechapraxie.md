@@ -146,7 +146,7 @@ end
 
 * * *
 
-### Here is an unordered list:
+## Here is an unordered list:
 
 *   Item foo
 *   Item bar

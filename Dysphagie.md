@@ -213,16 +213,15 @@ gemeinsam essen - ein kulinarisches und soziales Erlebnis
   - spezifisch die Zielmuskulatur aktivierende Bewegungsaufgaben
   
 **Therapieansätze bei Dysphagie**
-- _adaptive_ Verfahren: 
-  Veränderung externer Bedingungen für die Nahrungsaufnahme
-    z.B. Kostadaption (pürierte Kost, angedickte Kost...), spezielle Hilfsmittel (Trinkbecher, Besteck, rutschfeste Unterlage...)
-  !!! No-Go's bei Dysphagie = Krümel, Kräuter, Krusten, Körner, faseriges Fleisch, Fisch, Reis, Nüsse, Müsli und Ähnliches
-- _kompensatorische_ Verfahren: 
-  Erlernen von Haltungsänderungen und Schluckmanövern
-    z.B. Chin Tuck, Shaker Übung
-- _restituierende_ Verfahren: 
-  Wiederherstellung beeinträchtigter schluckrelevanter (Teil)Funktion durch spezifische Übungstherapie
-    z.B. Glissandoübungen, kräftiges Schlucken
+- _adaptive_ Verfahren: Veränderung externer Bedingungen für die Nahrungsaufnahme
+  - z.B. Kostadaption (pürierte Kost, angedickte Kost...), spezielle Hilfsmittel (Trinkbecher, Besteck, rutschfeste
+  Unterlage...)
+  - !!! No-Go's bei Dysphagie = Krümel, Kräuter, Krusten, Körner, faseriges Fleisch, Fisch, Reis, Nüsse, Müsli und Ähnliches
+- _kompensatorische_ Verfahren: Erlernen von Haltungsänderungen und Schluckmanövern
+  - z.B. Chin Tuck, Shaker Übung
+- _restituierende_ Verfahren: Wiederherstellung beeinträchtigter schluckrelevanter (Teil)Funktion durch spezifische
+Übungstherapie
+  - z.B. Glissandoübungen, kräftiges Schlucken
   
 ![Branching](https://image.jimcdn.com/app/cms/image/transf/dimension=695x10000:format=jpg/path/scbe13cec5f52dfd6/image/i96b4edd54f4f010e/version/1448539888/aline-moghaddam-logop%C3%A4die-logop%C3%A4din-freiburg-wiehre-st-georgen-vauban-haslach.jpg)
 Kieferkontrollgriff

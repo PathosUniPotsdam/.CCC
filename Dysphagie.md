@@ -215,8 +215,8 @@ gemeinsam essen - ein kulinarisches und soziales Erlebnis
 **Therapieansätze bei Dysphagie**
 - _adaptive_ Verfahren: 
   - Veränderung externer Bedingungen für die Nahrungsaufnahme
-  z.B. Kostadaption (pürierte Kost, angedickte Kost...), spezielle Hilfsmittel (Trinkbecher, Besteck, rutschfeste Unterlage...), ...
-  ! No-Go's bei Dysphagie = Krümel, Kräuter, Krusten, Körner, faseriges Fleisch, Fisch, Reis, Nüsse, Müsli und Ähnliches
+  z.B. Kostadaption (pürierte Kost, angedickte Kost...), spezielle Hilfsmittel (Trinkbecher, Besteck, rutschfeste Unterlage...),...
+  !!! No-Go's bei Dysphagie = Krümel, Kräuter, Krusten, Körner, faseriges Fleisch, Fisch, Reis, Nüsse, Müsli und Ähnliches
 - _kompensatorische_ Verfahren: 
   - Erlernen von Haltungsänderungen und Schluckmanövern
   z.B. Chin Tuck, Shaker Übung, ...

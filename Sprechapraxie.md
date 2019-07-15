@@ -20,8 +20,6 @@ Zu 9 Prozent handelt es sich bei einer neurologisch bedingten Sprechstörung um 
 
 Das Auftreten einer Sprechapraxie kann verschiedene Ursachen haben, zumeist ist sie jedoch Folge eines Schlaganfalls (Insult, cerebrale Durchblutungsstörung) oder Schädel-Hirn-Traumas, bei welchen linkshemisphärisches Hirngewebe vor allem rund um das Versorgungsgebiet der mittleren Hirnarterie (Arteria cerebri media) irreversibel beschädigt bzw. zerstört wird.  Die entstandenen Läsionen werden somit zumeist im Broca Areal, im motorischen Gesichtskortex, in der Inselregion und den darunter liegenden Marklagern oder/sowie in den angrenzenden Bereichen des frontalen Operculums identifiziert.
 
-![Arteria cerebri media](https://www2.ims.uni-stuttgart.de/sgtutorial/graphic/blutvers.gif)
-
 ![Verlauf der mittleren HInrarterie, Inselregion im Gehirn](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Verlauf%20der%20mittleren%20HInrarterie%20und%20Inselregion.JPG)
 
 Sprechapraxien treten nur in sehr seltenen Fällen „rein“ (etwa 10% der Fälle) also ohne jegliche, zusätzliche Begleiterkrankungen auf. Häufig verlaufen sie komorbid mit einer Hemiparese/ Facialisparese auf der rechten Seite, mit einer buccofacialen Apraxie (BFA) und/oder einer Aphasie (APH). Bei den Aphasien handelt es sich aufgrund der Läsionslokalisation zumeist um eine Broca- Aphasie, Leitungsaphasie oder globale Aphasie. 
@@ -43,7 +41,7 @@ Bei einer Sprechapraxie ist zu beachten, dass die Symptomatik sehr variabel ist.
 Zunächst ist es grundlegend, zwischen Sprechstörungen (Sprechapraxien, [Dysarthrophonien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Dysarthrophonie.html)) und Sprachstörungen (Aphasien) zu unterscheiden. Bei Sprachstörungen ist es den Betroffenen nicht möglich, Sprache richtig zu verstehen und zu verarbeiten sowie auf bestimmte Worte zuzugreifen und daraus korrekte Sätze zu bilden. Hier sind alle sprachlichen Modalitäten (Sprachproduktion, Sprachverständnis, Lesen und Schreiben) betroffen. Bei den Sprechstörungen sind diese Fähigkeiten nicht eingeschränkt. 
 Anhand des nebenstehenden Sprachproduktionsmodells von Levelt (Levelt et al. 1989) lassen sich die verschiedenen Störungsschwerpunkte im System der verschiedenen Störungsbilder gut erkennen. --> blau = Aphasie, orange = Sprechapraxie, grün = Dysarthrie
 
-![Modell der Sprachproduktion, Levelt et al. 1989](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Levelt%20Modell.png)
+![Modell der Sprachproduktion, Levelt et al. 1989](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Levelt%20Modell-klein.png)
 
 Da die Sprechstörungen Sprechapraxie in den meisten Fällen kombiniert/ assoziiert mit Aphasie und/ oder Dysarthrophonie auftritt, ist das Durchführen einer Differentialdiagnostik grundlegend, wenn auch erschwert, da sich die Störungsbilder zum Teil ähneln.
 Um dies zu ermöglichen sollten verschiedene Diagnostikinstrumente durchgeführt werden. Materialien wie zum Beispiel eine Spontansprachanalyse, die 10-Punkte-Checkliste (Liepold et al. 2003) und der Aachener Aphasie Test (Huber et al. 1983), v.a. mit Blick auch die Untertest der mündlichen Sprachproduktion, durchgeführt werden.
@@ -69,16 +67,15 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 
 ## Diagnostik
 
-![Leitfaden zur Diagnostik](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Sprechapraxie%20Leitfaden%20zur%20Diagnostik%20-%20dbl.png)
+![Leitfaden zur Diagnostik]()
 
-![10-Punkte-Checkliste](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/10-Punkte-Checkliste.png)
+![10-Punkte-Checkliste](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/10-Punkte-Checkliste-klein.png)
 
-![Hierarchische Wortlisten](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Hierarchische%20Wortlisten.jpg)
 ![Hierarchische Wortlisten](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Hierarchische%20Wortlisten-klein.jpg)
 
-![Beispielliste](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Beispiel%20Liste.png)
+![Beispielliste](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Beispiel%20Liste-klein.png)
 
-![Magnetresonanztomografie](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Magnetresonanztomografie.jpg)
+![Magnetresonanztomografie](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Magnetresonanztomografie-gro%C3%9F.jpg)
 
 
 ## Therapie

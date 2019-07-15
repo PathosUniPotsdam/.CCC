@@ -271,16 +271,17 @@ Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als au
 * [dysphagie-therapie.info](https://dysphagie-therapie.info/dysphagie-therapie/)
 * [das-dysphagiezentrum.de](https://www.das-dysphagiezentrum.de/wasistdysphagie.html)
 * [stepcommunity.com](https://www.stepcommunity.com/)
+* [Iss Nix! Podcast](https://iss-nix.de/)
 
 
 
 
 #### QUELLEN:
-* IntelliMed GmbH (2017). SC1 Krankhafte Störungen des Schluckaktes – Dysphagie [online]. Abgerufen von  https://heilmittelkatalog.de/files/luxe/hmkonline/logo/sc1.htm.
-* HOTZENKÖCHERLE, S. (2013). Dysphagie: Diagnostik und Therapie. Schweiz Z Ernährungsmed, 2, 6-11.
-* Motzko, M., & Weinert, M. (2005). Dysphagie-Ursachen, Diagnostik und Behandlung. Ernährung & Medizin, 20(03), 133-136.
-*	Hotzenköcherle, S. & Schwegler, H. Dysphagie oder Schluckstörungen Schweiz [online]. Abgerufen von https://www.dysphagie.ch.
 * Bartolome, G., & Schröter-Morasch, H. (Herausgeber). (2018). Schluckstörungen Interdisziplinäre Diagnostik und Rehabilitation (6. Aufl.). München: Elsevier. 
+* Hotzenköcherle, S. (2013). Dysphagie: Diagnostik und Therapie. Schweiz Z Ernährungsmed, 2, 6-11.
+* Hotzenköcherle, S. & Schwegler, H. Dysphagie oder Schluckstörungen Schweiz [online]. Abgerufen von https://www.dysphagie.ch.
+* IntelliMed GmbH (2017). SC1 Krankhafte Störungen des Schluckaktes – Dysphagie [online]. Abgerufen von  https://heilmittelkatalog.de/files/luxe/hmkonline/logo/sc1.htm.
+* Motzko, M., & Weinert, M. (2005). Dysphagie-Ursachen, Diagnostik und Behandlung. Ernährung & Medizin, 20(03), 133-136.
 
 * Abb. Schluckanatomie. Abgerufen von https://blog.lecturio.de/wp-content/uploads/2015/10/Anatomy-of-Nose-Pharynx-Mouth-Larynx.jpg.
 *	Abb. Schluckphasen. Abgerufen von https://accessmedicine.mhmedical.com/data/books/1872/mckeanhm2_ch70_f001.png.

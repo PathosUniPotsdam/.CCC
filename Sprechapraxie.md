@@ -41,7 +41,7 @@ Bei einer Sprechapraxie ist zu beachten, dass die Symptomatik sehr variabel ist.
 Zunächst ist es grundlegend, zwischen Sprechstörungen (Sprechapraxien, [Dysarthrophonien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Dysarthrophonie.html)) und Sprachstörungen (Aphasien) zu unterscheiden. Bei Sprachstörungen ist es den Betroffenen nicht möglich, Sprache richtig zu verstehen und zu verarbeiten sowie auf bestimmte Worte zuzugreifen und daraus korrekte Sätze zu bilden. Hier sind alle sprachlichen Modalitäten (Sprachproduktion, Sprachverständnis, Lesen und Schreiben) betroffen. Bei den Sprechstörungen sind diese Fähigkeiten nicht eingeschränkt. 
 Anhand des nebenstehenden Sprachproduktionsmodells von Levelt (Levelt et al. 1989) lassen sich die verschiedenen Störungsschwerpunkte im System der verschiedenen Störungsbilder gut erkennen. --> blau = Aphasie, orange = Sprechapraxie, grün = Dysarthrie
 
-![Modell der Sprachproduktion, Levelt et al. 1989](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Levelt%20Modell-klein.png)
+![Modell der Sprachproduktion, Levelt et al. 1989](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Levelt%20Modell-mittel.png)
 
 Da die Sprechstörungen Sprechapraxie in den meisten Fällen kombiniert/ assoziiert mit Aphasie und/ oder Dysarthrophonie auftritt, ist das Durchführen einer Differentialdiagnostik grundlegend, wenn auch erschwert, da sich die Störungsbilder zum Teil ähneln.
 Um dies zu ermöglichen sollten verschiedene Diagnostikinstrumente durchgeführt werden. Materialien wie zum Beispiel eine Spontansprachanalyse, die 10-Punkte-Checkliste (Liepold et al. 2003) und der Aachener Aphasie Test (Huber et al. 1983), v.a. mit Blick auch die Untertest der mündlichen Sprachproduktion, durchgeführt werden.
@@ -67,7 +67,7 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 
 ## Diagnostik
 
-![Leitfaden zur Diagnostik]()
+![Leitfaden zur Diagnostik](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Sprechapraxie%20Leitfaden%20zur%20Diagnostik%20-%20dbl-klein.png)
 
 ![10-Punkte-Checkliste](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/10-Punkte-Checkliste-klein.png)
 

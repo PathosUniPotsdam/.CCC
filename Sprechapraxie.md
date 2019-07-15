@@ -70,11 +70,25 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 ## Therapie
 
 ### Weiterführende Links
-* [Sprechapraxie - dbl] (https://www.dbl-ev.de/kommunikation-sprache-sprechen-stimme-schlucken/stoerungen-bei-erwachsenen/stoerungsbereiche/sprechen/sprechapraxie.html).
-* [Neue Methoden in der Diagnostik und Therapie bei Sprechapraxie] (https://www.uni-potsdam.de/de/swallow/projekte/sprechapraxie-neue-methoden-in-der-diagnostik-und-therapie-bei-sprechapraxie.html).
+* [Sprechapraxie - dbl] (https://www.dbl-ev.de/kommunikation-sprache-sprechen-stimme-schlucken/stoerungen-bei-erwachsenen/stoerungsbereiche/sprechen/sprechapraxie.html)
+* [Sprechapraxie:Leitfaden zur Diagnostik - dbl] (https://test.dbl-ev.de/fileadmin/Inhalte/Dokumente/der_dbl/QM/leitfaden_sprechapraxie.pdf)
+* [Neue Methoden in der Diagnostik und Therapie bei Sprechapraxie] (https://www.uni-potsdam.de/de/swallow/projekte/sprechapraxie-neue-methoden-in-der-diagnostik-und-therapie-bei-sprechapraxie.html)
+* [SP6 - Heilmittelkatalog 2017] (https://heilmittelkatalog.de/files/luxe/hmkonline/logo/sp6.htm)
 
 ### Quellen
-*
+* Blanken, G. (Ed.). (1991). Einführung in die linguistische Aphasiologie: Theorie und Praxis. Verlag Mainz.
+* Dronkers NF (1996) A new brain region for coordinating speech artculation. Nature 384:159-161. Hillis AE, Work M, Barker PE, Jacobs MA, Breese EL, Maurer K (2004) Re-examining the brain regions crucial for orchestraFng speech arFculaFon. Brain 127:1479-1487.
+* Hartje, W., Karnath, H. O., & Ziegler, W. (2005). Kognitive Neurologie. Georg Thieme Verlag.
+* Lauer, N., & Birner-Janusch, B. (2010). Sprechapraxie im Kindes-und Erwachsenenalter. Georg Thieme Verlag.
+* Liepold, M., Ziegler, W., Brendel, B., & Ziegler, W. (2003). Hierarchische Wortlisten: ein Nachsprechtest für die Sprechapraxiediagnostik. Borgmann.
+* Schneider, B., Wehmeyer, M., & Grötzbach, H. (2014). Abgrenzung der Aphasie zu anderen kommunikativen Beeinträchtigungen. In Aphasie (pp. 53-63). Springer, Berlin, Heidelberg.
+* Siegmüller, J., & Bartels, H. (Eds.). (2017). Leitfaden Sprache Sprechen Stimme Schlucken. Elsevier Health Sciences.
+* Ziegler, W., Thelen, A. K., Staiger, A., & Liepold, M. (2008). The domain of phonetic encoding in apraxia of speech: Which sub‐lexical units count?. Aphasiology, 22(11), 1230-1247.
+
+* Abb.
+* Abb.
+
+
 
 ### Header 3
 

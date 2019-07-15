@@ -21,8 +21,8 @@ Zu 9 Prozent handelt es sich bei einer neurologisch bedingten Sprechstörung um 
 Das Auftreten einer Sprechapraxie kann verschiedene Ursachen haben, zumeist ist sie jedoch Folge eines Schlaganfalls (Insult, cerebrale Durchblutungsstörung) oder Schädel-Hirn-Traumas, bei welchen linkshemisphärisches Hirngewebe vor allem rund um das Versorgungsgebiet der mittleren Hirnarterie (Arteria cerebri media) irreversibel beschädigt bzw. zerstört wird.  Die entstandenen Läsionen werden somit zumeist im Broca Areal, im motorischen Gesichtskortex, in der Inselregion und den darunter liegenden Marklagern oder/sowie in den angrenzenden Bereichen des frontalen Operculums identifiziert.
 
 ![Arteria cerebri media](https://www2.ims.uni-stuttgart.de/sgtutorial/graphic/blutvers.gif)
-![Arteria cerebri media](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Arterie-min.JPG)
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
+![Verlauf der mittleren HInrarterie, Inselregion im Gehirn](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Verlauf%20der%20mittleren%20HInrarterie%20und%20Inselregion.JPG)
 
 Sprechapraxien treten nur in sehr seltenen Fällen „rein“ (etwa 10% der Fälle) also ohne jegliche, zusätzliche Begleiterkrankungen auf. Häufig verlaufen sie komorbid mit einer Hemiparese/ Facialisparese auf der rechten Seite, mit einer buccofacialen Apraxie (BFA) und/oder einer Aphasie (APH). Bei den Aphasien handelt es sich aufgrund der Läsionslokalisation zumeist um eine Broca- Aphasie, Leitungsaphasie oder globale Aphasie. 
 Sprechapraxien können zum Beispiel aber auch bei Tumorerkrankungen, Entzündungen, choreatischen Krankheitsbildern, Multipler Sklerose, Ataxien und Dystonien (Bewegungsstörungen) auftreten. 

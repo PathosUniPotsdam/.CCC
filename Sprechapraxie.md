@@ -70,7 +70,8 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder ausgehen
 ## Therapie
 
 ### Weiterführende Links
-* (./https://www.uni-potsdam.de/de/swallow/projekte/sprechapraxie-neue-methoden-in-der-diagnostik-und-therapie-bei-sprechapraxie.html).
+* (https://www.dbl-ev.de/kommunikation-sprache-sprechen-stimme-schlucken/stoerungen-bei-erwachsenen/stoerungsbereiche/sprechen/sprechapraxie.html).
+* (https://www.uni-potsdam.de/de/swallow/projekte/sprechapraxie-neue-methoden-in-der-diagnostik-und-therapie-bei-sprechapraxie.html).
 
 ### Quellen
 *

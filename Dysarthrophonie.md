@@ -529,14 +529,15 @@ Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist e
 - [aktuelle Leitlinien Dysarthrie](https://www.dgn.org/leitlinien/3647-ll-030-103-neurogene-sprechstoerungen-dysarthrien-2018)
 
 ## Quellen
+- Betke, I. et al.(2010). _ArtikuList - Wortlisten zur Behandlung von Artikulationsstörungen._ NAT-Verlag
 - Duffy, J. (2013). _Motor Speech Disorders- Substrates, Differential Diagnosis, and Management._ St. Louis: Elsevier Mosby
-- Enderby, Palmer (2012). _FDA-2 - Frenchay Dysarthrie Assessment._ Seite 15-44
+- Enderby, Palmer (2012). _FDA-2 - Frenchay Dysarthrie Assessment._ 
 - Maas, E., et al. (2008). _Tutorial: Principles of Motor Learning in Treatment of Motor Speech Disorders._ American Journal of Speech-Language Pathology Vol. 17, S. 277-298
 - Schindelmeiser, J. (2005). _Anatomie und Physiologie für Sprachtherapeuten._ München: Urban & Fischer
 - Schubert, A. (2007). _Dysarthrie - Diagnostik, Therapie, Beratung._ Idstein: Schulz-Kirchner Verlag GmbH
 - Vogel et al. (2019). _Speech treatment improves dysarthria in multisystemic ataxia: a rater- blinded, controlled pilot-study in ARSACS._ Springer Verlag
+- Ziegler, W., Schölderle, T., Staiger, A., Vogel, M. (2018). _BoDys - Bogenhausener Dysarthrieskalen_ Hogrefe
 - Ziegler, W., Vogel, M. (2010). _Dysarthrie verstehen-untersuchen-behandeln._ Stuttgart: Thieme Verlag
 
-**Bilder**
-- 
+
 

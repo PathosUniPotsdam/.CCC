@@ -308,16 +308,7 @@ Nachteile:
 
 ## Therapie
 
-Dysarthrien liegt eine neurologisch bedingte Bewegungsstörung zugrunde, weshalb es nicht ausreicht die Mund-und Zungenmotorik mit einem dysarthrischen Patienten zu üben. 
-Beispiele für *Therapieziele* könnte sein:
-- 
-
-
-
-Des Weiteren ist es für die Therapieplanung sehr wichtig sich über die Medikation des Patienten zu informieren, da es zahlreiche Medikamente gibt, die eine Wirkung auf das motorische System haben und demnach häufig bei dysarthrischen Patienten eingesetzt werden. Beispielsweise kommen Medikamente mit folgenden Wirkungen zum Einsatz:
-- tonusregulierend (z.B. Spasmolytika)
-- Ausgleich von Defiziten oder Übermaßen an Neurotransmittern (z.B. L-Dopa)
-- Veränderungen der Impulsübertragung an der neuromuskulären Schnittstelle (z.B. Botox)
+Dysarthrien liegt eine neurologisch bedingte Bewegungsstörung zugrunde, weshalb es nicht ausreicht die Mund- und Zungenmotorik mit einem dysarthrischen Patienten zu üben. 
 
 Meist besteht also eine Interaktion zwischen medikamentöser und "klassischer"
 Therapie. Im Folgenden werden Beispiele für "klassische" Therapiemethoden aufgeführt, für die immer ein gut abgestimmtes Zusammenspiel aus 
@@ -326,6 +317,11 @@ Therapie. Im Folgenden werden Beispiele für "klassische" Therapiemethoden aufge
 3. Sprechübungen
 
 grundlegend ist.
+
+Da es zahlreiche Medikamente gibt, die eine Wirkung auf das motorische System haben und demnach häufig bei dysarthrischen Patienten eingesetzt werden, ist es für die Therapieplanung wichtig sich über die Medikation des Patienten zu informieren. Beispielsweise kommen Medikamente mit folgenden Wirkungen zum Einsatz:
+- tonusregulierend (z.B. Spasmolytika)
+- Ausgleich von Defiziten oder Übermaßen an Neurotransmittern (z.B. L-Dopa)
+- Veränderungen der Impulsübertragung an der neuromuskulären Schnittstelle (z.B. Botox)
 
 **1. Positionierung**
 
@@ -343,9 +339,9 @@ Eine *Tonuserhöhung* erreicht man, indem man die Unterstützungsfläche für de
 Die facio-orale Stimulation dient zur Vorbereitung und Voraktivierung der Muskulatur für Sprechübungen.
 
 Tonuserhöhend wirkt:
-- Kälte/Eisapplikation
+- Kälte/ Eisapplikation
 - Tapping, leichte Wischbewegungen mit wenig Druck
-- Quick - Stretch -> schnelle Vordehnungen bewirken Muskelkontraktion
+- Quick-Stretch -> schnelle Vordehnungen bewirken Muskelkontraktion
 - maschinelle Vibration (z.B. elektrische Zahnbürste)
 
 Tonussenkend wirkt:
@@ -360,44 +356,45 @@ Auch mit bestimmten Sprechübungen lässt sich der Muskeltonus regulieren.
 
 erhöhte Muskelaktivität anfordern, z.B. durch
 - lautes Sprechen
-- kräftige Laute und Silben (Plosive,Frikative.....)
+- kräftige Laute und Silben (Plosive, Frikative)
 - "harte" Stimmeinsätze
-- Sprechübungen mit kräftigen Ganzkörperbewegungen (z.B. Plosive mit Wurfbewegung, Vokale mit Aufstützen, Wegschiebebewegungen)
+- Sprechübungen mit kräftigen Ganzkörperbewegungen (z.B. Plosive mit Wurf-/Wegschiebebewegung, Vokale mit Aufstützen)
 
 reduzierte Muskelaktivität anfordern, z.B. durch
 - weiches, moduliertes Sprechen
-- diadochokokinetische Lautabfolgen/ Bewegungsabfolgen (z.B. badaga, gigugigu)
+- diadochokokinetische Laut-/ Bewegungsabfolgen (z.B. badaga, gigugigu)
 - weiche, behauchte Stimmeinsätze
 - Übungen mit weichen Ganzkörperbewegungen (z.B. Geh-/ Tanzbewegungen, Modulation mit entsprechenden Armbewegungen)
 
 #### Anwendung in den Funktionskreisen bei hypotoner/ hypertoner DAP
 
-**Respiration**
-
-Zu den Therapiezielen im Funktionskreis Respiration zählt die Verbesserung der Atem - Sprech - Koordination und Sprechphasenlänge sowie die Regulation des subglottischen und oropharyngealen Anblasedrucks, um Voraussetzungen für die Funktionskreise Phonation, Resonanz & Artikulation zu schaffen.
+Zu den Therapiezielen im Funktionskreis Respiration zählt die Verbesserung der Atem-Sprech-Koordination und Sprechphasenlänge sowie die Regulation des subglottischen und oropharyngealen Anblasedrucks, um Voraussetzungen für die Funktionskreise Phonation, Resonanz & Artikulation zu schaffen.
 
 Der Wirkmechanismus, um diese Ziele zu erreichen, beinhaltet die Erhöhung des Atemvolumens: tiefere Einatmung sowie eine längere Ausatmung um längere Sprechphasen zu erlangen. Mehr Einatemvolumen führt zu mehr expiratorischem Flow und demnach ist ein höherer Anblasedruck vorhanden.
 
+**Respiration**
+
 Bei einer *hypotonen* DAP bieten sich z.B. folgende Übungen an:
-- aufrechte Behandlungsposition – wenig Unterstützungsfläche
-- tiefe Inspiration dabei Arme / Schultergürtel anheben – Ausatemphasen verlängern - dabei Arme senken
--> auf Frikative / Vokale, zählen, Silben / Wörter / Phrasen
+
+- aufrechte Behandlungsposition (wenig Unterstützungsfläche)
+- tiefe Inspiration + Arme/ Schultergürtel anheben, Ausatemphasen verlängern + Arme senken
 - Stop- and go Übungen
 - Atemtrainer: Inspirations-/ Expirationstrainer
 
 Bei einer *hypertonen* DAP bieten sich z.B. folgende Übungen an:
 
-- angelehnte / ggf. liegende Behandlungsposition mir viel Unterstützungsfläche
-- Inspiration und Exspiration mit Rumpfrotationsbewegungen – dabei Sprechübungen in zunehmend längeren Exspirationsphasen (siehe Hypotone DAP)
-- ggf. Stop - and – Go Übungen
+- angelehnte/ liegende Behandlungsposition (viel Unterstützungsfläche)
+- Inspiration und Exspiration mit Rumpfrotationsbewegungen (dabei Sprechübungen in zunehmend längeren Exspirationsphasen)
 - Atemtrainer: Atemvolumentrainer (weniger Kraftanforderung)
 
-Hilfreich können auch Übungen zur Wahrnehmung z.B.
+Hilfreich können auch Übungen zur 
+
+Wahrnehmung z.B.:
 • Körperreise
 • autogenes Training
 • Progressive Muskelentspannung (nach Jacobson)
 
-und zur Differenzierung zwischen Mund- und Nasenatmung z.B.
+und zur Differenzierung zwischen Mund- und Nasenatmung z.B.:
 • Sniffing („Schnüffeln“)
 • Pustübungen
 • Einatmen -> Nase, Ausatmen -> Mund
@@ -407,45 +404,94 @@ sein.
 
 **Phonation**
 
-Der  Wirkmechanismus, um diese Ziele zu erreichen, beginnt mit der Erhöhung des Atemvolumens -> wodurch eine dosierte laryngeale Muskelfunktion geübt wird -> und es schließlich zu einer koordinierten Resonanzverstärkung des erzeugten Tons kommen kann.
-
 Bei einer *hypotonen* DAP bieten sich z.B. folgende Übungen an:
 
 - „Sphinkter“ - Aktivierung: Sprechübungen mit kräftigem Drücken, Schieben, Heben
 - Husten, Räuspern, „Ventiltönchen“, Luftanhalten mit offenem Mund
-- „harte“ Stimmeinsätze (initiale Vokale), Stop & Go, Glissandi/ Tonleiter aufwärts, intensive, kraftvolle Tonhalteübungen (-> LSVT)
-- semi - occluded vocal tract exercises (LAXVOX, Akzentmethode, Lippenflattern, /v, z/...)
+- „harte“ Stimmeinsätze (initiale Vokale), Stop & Go
+- Glissandi/ Tonleiter aufwärts, intensive, kraftvolle Tonhalteübungen (-> LSVT)
+- semi-occluded vocal tract exercises (LAXVOX, Akzentmethode, Lippenflattern, /v, z/...)
 
 Bei einer *hypertonen* DAP bieten sich z.B. folgende Übungen an:
 
-- „Sphinkter“ - Deaktivierung: Sprechübungen mit Bewegungen zum Körper hin, Ziehen, rotatorische und transversale Bewegungen, Massage/ Dehnung/ Entspannung
+- „Sphinkter“-Deaktivierung: Sprechübungen mit Bewegungen zum Körper hin (Ziehen, rotatorische und transversale Bewegungen, Massage/ Dehnung/ Entspannung)
 - Hauchen, Seufzen, „Lachen“
-- “weiche“/ behauchte Stimmeinsätze, initiales /h/, Tonhalten/ Zählen/ etc. mit Lautstärkemodulation (leiser), Glissandi/ Tonleiter abwärts, Tonhalten mit Tonhöhenmodulation
+- “weiche“/ behauchte Stimmeinsätze, initiales /h/
+- Tonhalten/ Zählen/ etc. mit Lautstärkemodulation (leiser), 
+- Glissandi/ Tonleiter abwärts, Tonhalten mit Tonhöhenmodulation
 - LAXVOX
 
 **Resonanz**
 
 Im Funktionskreis Resonanz tragen folgende Übungen sowohl für eine Verbesserung bei *hypotonen* als auch bei *hypertonen* Dysarthrophonien bei:
 
-- Überartikulation von Plosiven (erhöhte Lautstärke, reduziertes Tempo),kontrastive Artikulation (/m:p, n:t/)
--> unterstützende Bewegungen (Tonusaufbau): Schieben, Boxen, Druck - Halte - Übungen
-- „Stoßübungen nach Fröschels“: Plosivsilben überartikuliert mit viel Mundluftdruck und Lautstärke
-• aaaaa - PA! – aaaaa - PE! – aaaa- PI! ...
+- Überartikulation von Plosiven (erhöhte Lautstärke, reduziertes Tempo)
+- kontrastive Artikulation (/m:p, n:t/)
+- unterstützende Bewegungen (Tonusaufbau): Schieben, Boxen, Druck-Halte-Übungen
+- „Stoßübungen nach Fröschels“: Plosivsilben überartikuliert mit viel Mundluftdruck und Lautstärke (aaaa-PA!–aaaa-PE!–aaa-PI!)
 - ggf. Puste-, Saug- und Blasübungen, Gurgeln, Schnarchübungen (Wirksamkeit unklar)
 
 **Artikulation**
 
 Im Funktionskreis Artikulation tragen folgende Übungen sowohl für eine Verbesserung bei *hypotonen* als auch bei *hypertonen* Dysarthrophonien bei:
 
-- nonverbale Kräftigungsübungen nicht direkt effektiv (Artikulieren bedarf kaum Kraft)
--> als „Warm-up“ / Förderung Wahrnehmung und selektive Beweglichkeit möglich
-- Gleiches gilt für: Massagen, Dehnungsübungen etc: dies ist nur zur Vorbereitung von gezielten Artikulationsübungen sinnvoll
-- “KLASSISCH“: Minimalkontraste, kontrastive Akzentuierung, Wortidentifikationsübungen, überarktikuliertes Sprechen
-- kommunikationsorientiert: hörerorientierte Strategien und Interaktionsstrategien aufbauen
+“Klassisch“: 
+- Minimalkontraste
+- kontrastive Akzentuierung
+- Wortidentifikationsübungen
+- überarktikuliertes Sprechen
 
-#### Anwendung in den einzelnen Funktionskreisen bei hyperkinetischer DAP
+kommunikationsorientiert: 
+- hörerorientierte Strategien
+- Interaktionsstrategien
+
+#### Hyperkinetische DAP
+
+Hyperkinetische Dysarthrophonien lassen sich mit sprachtherapeutischer Übungstherapie allein kaum zu beeinflussen. Meist muss die zugrundeliegende Bewegungsstörung medikamentös behandelt werden. 
+Die Therapieziele für die sprachtherapeutische Intervention sind die Änderung der Sprechstimmlage, Lautstärke sowie dem Sprechtempo und das Verkürzen der Sprechphasen. Welche durch kompensatorische Techniken erreicht werden können. Ein weiteres wichtiges Ziel stellt das Unterstützen und Fördern der Kommunikationsbereitschaft dar.
 
 #### Anwendung in den Funktionskreisen bei ataktischer DAP
+
+Bei ataktischen Dysarthrophonien liegt der Fokus auf behavioraler Therapie, da prothetische, operative und medikamentöse Therapien hierbei nicht möglich oder sinnvoll sind. In der Sprachtherapie sind die Ziele in erster Linie die Verbesserung der Selbstwahrnehmung sowie das Erlernen und Anwenden von Strategien für verständlicheres Sprechen.
+Weitere Therapieziele sind:
+- Kompensation der Instabilität (Strategien zur Verbesserung der Rumpfkontrolle)
+- verbesserte Koordination von Atmung–Phonation–Artikulation
+- „Kontrolle wiederfinden“ über die Sprechbewegungen
+- Verbesserte Selbsteinschätzung -> bessere Kontrollfähigkeit und Transfer
+
+**Respiration**
+
+- Einatmung: “Atemstapeln“/ “sniffing“/
+- Ausatmung: auf Frikative, Stop- and Go Übungen
+- Tief einatmen und kräftiges, kontrolliertes Ausatmen mit Biofeedback (z.B. Spirometer)
+- Tief einatmen, dann Laute/ Vokale/ Frikative/ Silben/ Phrasen sprechen und
+      • beim Sprechen auf Tischplatte stützen (Steigerung: wegschieben oder Wurfbewegung)
+- Reihensprechen (Zählen, Wochentage, Monate)
+
+**Phonation**
+
+- Stop- and Go Übungen mit Vokaleinsätzen (Variation feste vs. behauchte Vokaleinsätze)
+- Wörter mit Stimmhaftigkeitswechseln
+- Wörter wie bspw.: beeilen, verarbeiten, erörtern, Kooperation, etc. (auch als Minimalpaare)
+- Übungen Tonhöhenstabilität und Modulation: Prosodische Markierung von Wörtern, Phrasen, Sätzen
+- Wahrnehmung der eigenen Stimme bei Tonhalteaufgaben, Tonleitern, Gleittönen (mit Zielton)
+- Reihensprechen mit wechselnder Lautstärke (Flüstern, leise , normal, laut)
+- Kontrastive Akzentuierung
+
+**Artikulation**
+
+Koordination von Kiefer- und Zungenbewegungen:
+- Kieferöffnen und –schließen dabei Zungenspitze an den Alveolen
+- “Zähne zählen“: mit der Zungenspitze die Zähne nacheinander antippen
+- Diphtonge/ Silben (Wörter mit Diphtongen abwechselnd sprechen -> Rhythmisierung)
+
+Didaochokinese
+- Wörter mit systematischem Artikulationsort Wechseln
+- Clusteraufbau 
+
+Kompensatorisch: 
+- Flüstern
+- Kieferstabilisierung (nimmt „Störfaktoren“ raus)
 
 #### Therapiematerial
 

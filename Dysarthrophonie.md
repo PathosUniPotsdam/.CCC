@@ -519,10 +519,10 @@ Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist e
 - 3 Variablen werden täglich durchgeführt: Tonhaltedauer, Tonhöhenmodulation, maximale Lautstärke (bei funktionalen Äußerungen)
     
 4. Kalibrierung
-Einschätzung der eigenen Stimme, für sie subjektiv lautere Stimme bei LSVT soll im Verlauf als "normale" Lautstärke akzeptiert werden
+- Einschätzung der eigenen Stimme, für sie subjektiv lautere Stimme bei LSVT soll im Verlauf als "normale" Lautstärke akzeptiert werden
 
 5. Quantifizierung
-Messung und Dokumentation der Stimmleistungen in LSVT - Protokollbogen
+- Messung und Dokumentation der Stimmleistungen in LSVT - Protokollbogen
 
 #### weiterführende Links
 www.lsvt.org 

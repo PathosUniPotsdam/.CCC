@@ -525,7 +525,18 @@ Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist e
 - Messung und Dokumentation der Stimmleistungen in LSVT - Protokollbogen
 
 #### weiterführende Links
-www.lsvt.org 
-www.lsvt.de
+- [www.lsvt.de](http://www.lsvt.de/start/)
+- [aktuelle Leitlinien Dysarthrie](https://www.dgn.org/leitlinien/3647-ll-030-103-neurogene-sprechstoerungen-dysarthrien-2018)
 
 ## Quellen
+- Duffy, J. (2013). _Motor Speech Disorders- Substrates, Differential Diagnosis, and Management._ St. Louis: Elsevier Mosby
+- Enderby, Palmer (2012). _FDA-2 - Frenchay Dysarthrie Assessment._ Seite 15-44
+- Maas, E., et al. (2008). _Tutorial: Principles of Motor Learning in Treatment of Motor Speech Disorders._ American Journal of Speech-Language Pathology Vol. 17, S. 277-298
+- Schindelmeiser, J. (2005). _Anatomie und Physiologie für Sprachtherapeuten._ München: Urban & Fischer
+- Schubert, A. (2007). _Dysarthrie - Diagnostik, Therapie, Beratung._ Idstein: Schulz-Kirchner Verlag GmbH
+- Vogel et al. (2019). _Speech treatment improves dysarthria in multisystemic ataxia: a rater- blinded, controlled pilot-study in ARSACS._ Springer Verlag
+- Ziegler, W., Vogel, M. (2010). _Dysarthrie verstehen-untersuchen-behandeln._ Stuttgart: Thieme Verlag
+
+**Bilder**
+- 
+

@@ -6,7 +6,7 @@ layout: default
 
 ----------------
 
-Hier findet ihr Informationen zu Sprech - und Schluckstörungen. 
+Auf dieser Website findet ihr Informationen zu Sprech- und Schluckstörungen. Viel Spaß beim Durchstöbern!
 
 ### Wer wir sind?
 

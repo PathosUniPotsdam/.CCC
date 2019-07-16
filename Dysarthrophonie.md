@@ -527,6 +527,8 @@ Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist e
 #### weiterführende Links
 - [www.lsvt.de](http://www.lsvt.de/start/)
 - [aktuelle Leitlinien Dysarthrie](https://www.dgn.org/leitlinien/3647-ll-030-103-neurogene-sprechstoerungen-dysarthrien-2018)
+- [Dysarthrie - dbl](https://www.dbl-ev.de/kommunikation-sprache-sprechen-stimme-schlucken/stoerungen-bei-erwachsenen/stoerungsbereiche/komplexe-stoerungen/dysarthrie.html)
+- [SP6 - Heilmittelkatalog 2017](https://heilmittelkatalog.de/files/luxe/hmkonline/logo/sp6.htm)
 
 ## Quellen
 - Betke, I. et al.(2010). _ArtikuList - Wortlisten zur Behandlung von Artikulationsstörungen._ NAT-Verlag

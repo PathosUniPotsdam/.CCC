@@ -14,3 +14,9 @@ Wir sind drei Studierende des Studiengangs Bsc. Patholinguistik an der Universit
 
 Die Website wird im Laufe der Zeit aktualisiert und erweitert. Liebend gern dürft Ihr euch an uns wenden, wenn Ihr Ideen habt, um diese Seite zu bereichern. 
 Wir freuen uns über Kommentare sowie Verbesserungsvorschläge!
+
+### Danke!
+
+Wir möchten uns zunächst ganz ♥-lich bei Ulrike Frank und Maria Blickensdorff für die tollen und stets anschaulichen Seminare bedanken.
+
+Des Weiteren bedanken wir uns ganz ♥-lich bei Stefan Kremser für die Unterstützung bei der Website-Erstellung!

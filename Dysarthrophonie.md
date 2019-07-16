@@ -325,7 +325,7 @@ Da es zahlreiche Medikamente gibt, die eine Wirkung auf das motorische System ha
 
 **1. Positionierung**
 
-Durch eine gute Positionierung des Patienten kann der Tonus entsprechend reguliert werden. Bei einer *hypotonen* Dysarthrophonie ist demnach die Tonuserhöung und bei einer *hypertonen* Dysarthrophonie die Tonussenkung zielführend. Die Schlüsselpunkte des Patienten sollten übereinander sein, sodass es für Ihn leichter wird die folgenden Sprechübungen möglichst genau durchzuführen. Die Stimme eines jeden Menschens wird durch die Körperhaltung beeinflusst. 
+Durch eine gute Positionierung des Patienten kann der Tonus entsprechend reguliert werden. Bei einer *hypotonen* Dysarthrophonie ist demnach die Tonuserhöung und bei einer *hypertonen* Dysarthrophonie die Tonussenkung zielführend. Die Schlüsselpunkte des Patienten sollten übereinander sein, sodass es für Ihn leichter wird Sprechübungen möglichst genau durchzuführen. Die Stimme eines jeden Menschens wird durch die Körperhaltung beeinflusst. 
 
 ![Aufrichtung über die Schlüsselpunkte](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Aufrichtung%20über%20die%20Schlüsselpunkte.png)
 Aufrichtung über die Schlüsselpunkte
@@ -497,6 +497,39 @@ Kompensatorisch:
 
 **ArtikuList**
 
+Die ArtikuList - Wortlisten zur Behandlung von Artikulationsstörungen (Betke I, Christiansen JA, Röder S, Schädler U, Settele S, Sonnenschein S, Thiel B, 2010) stellen ein systematisch strukturiertes, hierarchisch geordnetes und mengenmäßig ausreichendes Therapiematerial auf Wortebene zur Behandlung der Artikulation bei Patienten mit neurologisch bedingten Sprechstörungen dar.
+Die Wortlisten sind auf diverse Linguistische Parameter kontrolliert und wurde in zahlreichen Therapien erbrobt und verbessert.
+
 **Lee Silverman Voice Treatment (LSVT)**
+
+Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist ein Stimmtherapie-Konzept für Patienten mit Morbis Parkinson.
+
+**Ziel:** Verbesserung der funktionellen Verständlichkeit durch erhöhte Sprechlautstärke („Think loud“, „Think shout“)
+
+**5 essentielle Faktoren:**
+1. Fokus auf Stimme
+- keine aufwendige Therapieform, kognitiv und motorisch wenig anspruchsvoll 
+"THINK LOUD – THINK SHOUT" 
+
+2. Hoher Aufwand ("effort")
+- hoher (Kraft-)Aufwand verringert Hypokinese und Rigidität der laryngealen und respiratorischen Muskulatur
+- Patient muss an die Grenzen seiner Stimme gehen und diese spüren
+
+3. intensive Therapie
+- Patienten erhalten 4 (Tage) x 4 (Wochen) = 16 TE à 50-60 Minuten, dazu kommen obligatorische Hausaufgaben
+- 3 Variablen werden täglich durchgeführt: 
+    • Tonhaltedauer
+    • Tonhöhenmodulation
+    • maximale Lautstärke (bei funktionalen Äußerungen)
+    
+4. Kalibrierung
+Einschätzung der eigenen Stimme, für sie subjektiv lautere Stimme bei LSVT soll im Verlauf als "normale" Lautstärke akzeptiert werden
+
+5. Quantifizierung
+Messung und Dokumentation der Stimmleistungen in LSVT - Protokollbogen
+
+#### weiterführende Links
+www.lsvt.org 
+www.lsvt.de
 
 ## Quellen

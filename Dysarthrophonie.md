@@ -390,15 +390,15 @@ Bei einer *hypertonen* DAP bieten sich z.B. folgende Übungen an:
 Hilfreich können auch Übungen zur 
 
 Wahrnehmung z.B.:
-• Körperreise
-• autogenes Training
-• Progressive Muskelentspannung (nach Jacobson)
+- Körperreise
+- autogenes Training
+- Progressive Muskelentspannung (nach Jacobson)
 
 und zur Differenzierung zwischen Mund- und Nasenatmung z.B.:
-• Sniffing („Schnüffeln“)
-• Pustübungen
-• Einatmen -> Nase, Ausatmen -> Mund
-• Durch ein Nasenloch ein- durch das andere ausatmen
+- Sniffing („Schnüffeln“)
+- Pustübungen
+- Einatmen -> Nase, Ausatmen -> Mund
+- Durch ein Nasenloch ein- durch das andere ausatmen
 
 sein.
 
@@ -464,8 +464,7 @@ Weitere Therapieziele sind:
 - Einatmung: “Atemstapeln“/ “sniffing“/
 - Ausatmung: auf Frikative, Stop- and Go Übungen
 - Tief einatmen und kräftiges, kontrolliertes Ausatmen mit Biofeedback (z.B. Spirometer)
-- Tief einatmen, dann Laute/ Vokale/ Frikative/ Silben/ Phrasen sprechen und
-      • beim Sprechen auf Tischplatte stützen (Steigerung: wegschieben oder Wurfbewegung)
+- Tief einatmen, dann Laute/ Vokale/ Frikative/ Silben/ Phrasen sprechen und beim Sprechen auf Tischplatte stützen (Steigerung: wegschieben oder Wurfbewegung)
 - Reihensprechen (Zählen, Wochentage, Monate)
 
 **Phonation**
@@ -517,10 +516,7 @@ Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist e
 
 3. intensive Therapie
 - Patienten erhalten 4 (Tage) x 4 (Wochen) = 16 TE à 50-60 Minuten, dazu kommen obligatorische Hausaufgaben
-- 3 Variablen werden täglich durchgeführt: 
-    • Tonhaltedauer
-    • Tonhöhenmodulation
-    • maximale Lautstärke (bei funktionalen Äußerungen)
+- 3 Variablen werden täglich durchgeführt: Tonhaltedauer, Tonhöhenmodulation, maximale Lautstärke (bei funktionalen Äußerungen)
     
 4. Kalibrierung
 Einschätzung der eigenen Stimme, für sie subjektiv lautere Stimme bei LSVT soll im Verlauf als "normale" Lautstärke akzeptiert werden

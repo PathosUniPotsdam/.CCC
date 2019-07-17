@@ -43,6 +43,7 @@ Bei einer Sprechapraxie haben alle Betroffenen Schwierigkeiten in der mündliche
 
 Zunächst ist es grundlegend, zwischen Sprechstörungen (Sprechapraxien, Dysarthrophonien) und Sprachstörungen (Aphasien) zu unterscheiden. Bei Sprachstörungen ist es den Betroffenen nicht möglich, Sprache richtig zu verstehen und zu verarbeiten sowie auf bestimmte Worte zuzugreifen und daraus korrekte Sätze zu bilden. Hier sind alle sprachlichen Modalitäten (Sprachproduktion, Sprachverständnis, Lesen und Schreiben) betroffen. Bei den Sprechstörungen sind diese Fähigkeiten nicht eingeschränkt. 
 Anhand des untenstehenden Sprachproduktionsmodells von Levelt (Levelt et al. 1989) lassen sich die unterschiedlichen Störungsschwerpunkte im System der verschiedenen Störungsbilder gut erkennen. 
+
 (blau = Aphasie, orange = Sprechapraxie, grün = Dysarthrophonie)
 
 ![Modell der Sprachproduktion, Levelt et al. 1989](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Levelt%20Modell-mittel.png)
@@ -141,9 +142,9 @@ Im Heilmittelkatalog von 2017 sind unter „Störungen der Sprechmotorik“ die 
 
 Diese Ziele sind sehr allgemein formuliert und sollten in Abhängigkeit vom Schweregrad des Patienten und der auftretenden Symptome folgendermaßen gewählt werden:
 
-* Übergeordnetes Ziel: Verbesserung der Kommunikationsfähigkeit im Alltag.
+Übergeordnetes Ziel: Verbesserung der Kommunikationsfähigkeit im Alltag.
 
-* leichte bis mittelschwere SPX:
+leichte bis mittelschwere SPX:
 -	Verbesserung der Verständlichkeit 
 -	Artikulatorische Präzision
 -	natürlich klingende Prosodie
@@ -151,7 +152,7 @@ Diese Ziele sind sehr allgemein formuliert und sollten in Abhängigkeit vom Schw
 -	Förderung günstiger Kompensationsstrategien
 -	Üben in verschiedenen Kommunikationssituationen
 
-* schwere SPX:
+schwere SPX:
 -	Erarbeitung alltagsrelevanter Äußerungen
 -	Einsatz alternative Kommunikationsmittel (alle Modalitäten, verbal vs. non-verbal)
 -	Reduktion von Automatismen
@@ -159,12 +160,12 @@ Diese Ziele sind sehr allgemein formuliert und sollten in Abhängigkeit vom Schw
 
 Je nachdem von welchen funktionellen Einschränkungen der sprechapraktische Patient beeinträchtigt ist, müssen Zielsetzung sowie Ausrichtung der Behandlung gewählt werden. Die Therapie sollte orientiert am Alltag des Patienten ausgerichtet werden, um dessen Aktivität und Teilhabe am täglichen, sozialen Leben zu ermöglichen bzw. zu verbessern. Funktionelle Ziele werdenden dabei patientenorientierten Zielen untergeordnet, auch „Top-down-Vorgehen“ genannt. 
 
-Beispiele für Funktionsziele in der Therapie sind:
+Beispiele für Funktionsziele in der Therapie:
 -	das genaue Klangziel soll erkannt, verinnerlicht sowie korrekt artikuliert werden (Phonetischer Plan)
 -	kurze Äußerungen sollen prosodisch flüssig, akzentuiert und auf einem Atemzug produziert werden 
 -	alltagsrelevante, artikulatorisch einfache Wörter wie z.B. „ja“ und „nein“ sollen sicher produziert werden
 
-Beispiele für Aktivitätsziele in der Therapie sind:
+Beispiele für Aktivitätsziele in der Therapie:
 -	die Ziellaute (/…/, /…/, usw.) sollen in 20 Nominakomposita korrekt artikuliert werden (Verbesserung der Artikulation von komplexen Lautstrukturen auf segmentaler Ebene)
 -	ein einfacher Text soll flüssig und mit natürlicher Sprechweise  gelesen werden
 -	kurze, alltagsnahe Äußerungen sollen im Rollenspiel verständlich produziert werden
@@ -202,6 +203,7 @@ Mundbild des Therapeuten (nur für vordere Artikulationszonen); Spiegel-Arbeit (
 Hand des Therapeuten (Empfindungswahrnehmung von Lage und Bewegung); Spatel (intraorale Stimulierung); Beißblock (Diagnostik); Künstlicher Gaumen (Gefühl für Zungen-Gaumen-Koordination); taktil-kinästhetische Hinweisreize (siehe TAKTKIN, standardisierte Zielkonfigurationen)
 
 Während der eigentlichen Therapieplanung sollten, speziell auf den jeweiligen Patienten zugeschnitten, auch die _Prinzipien des motorischen Lernens_ (McNeil et al., 1997; Maas et al., 2008) beachtet und eingebaut werden. Diese Prinzipien verbessern das Erlernen von neuen Bewegungen der Gliedmaßen, erhalten das Erlernte langfristig und fördern die Generalisierung. 
+
 Grundsätzlich gilt es, die Therapie über einen längeren Zeitraum hinweg sehr intensiv zu gestalten, um den Übungseffekt zu steigern und möglichst effektiv zu arbeiten. Alle durchzuführenden Bewegungen sollten deshalb sehr häufig wiederholt werden, d. h. nicht weniger als 20 Mal. Eine neutrale Position einzunehmen, ist zwischen den einzelnen Versuchen sehr wichtig. Zudem sollte der Fokus vor allem auf verbalen Aufgaben liegen. Der Patient soll an seiner fehlerhaften Artikulation bzw. Lautproduktion arbeiten, dementsprechend gehören schriftliche oder auditive Aufgaben eher weniger zu diesem Störungsbild. Die Strukturierung der einzelnen Items ist sehr wichtig. Diese sollten entsprechend ihres artikulatorischen Schwierigkeitsgrades  geordnet und mittels steigender (Silben-) Komplexität geübt werden, um Überforderung bzw. Frustration seitens des Patienten zu vermeiden.  Die Übungen sollten variabel gestaltet sein, d.h. die zu übenden Bewegungsmuster können auch in verschiedenen sprachlichen Kontexten angewendet werden. Darüber hinaus sollte – immer in Abhängigkeit von den Patientenleistungen – auch an der Prosodie gearbeitet werden. 
 Um dem Patienten eine Rückmeldung über das Ergebnis zu geben, ist therapeutisches Feedback unerlässlich. Hier geht es vorwiegend um die Korrektheit der einzelnen Bewegungen. Das Feedback solltet nach jeweils ca. drei Artikulationsversuchen (= niedrige Frequenz) zeitlich kurz verzögert, d.h. nicht direkt nach der Bewegungsausführung, gegeben werden. 
 

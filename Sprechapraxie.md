@@ -105,7 +105,8 @@ Das Zielitem kann auf Nachfrage oder bei Nullreaktion noch ein Mal erneut vorgeg
 
 **Auswertung:** Das Auswerten aller Listen sollte von dem Untersucher selbst durchgeführt werden und dauert in der Regel ca. 15 bis 30 Minuten. 
 Anhand der Ton- oder Videoaufnahme kann der Untersucher jedes Item einzeln auditiv beurteilen und eine quantitative Auswertung durchführen. Tritt ein Fehler in der phonetischen Struktur, der phonematischen Struktur und/ oder des Redeflusses auf, so wird die jeweilige Kategorie angekreuzt. Bis zu drei Kreuze können bei einem Item vergeben werden. Bei einer korrekten Reaktion bleibt das Bewertungsfeld leer. Nicht bewertet und als Nullreaktion ausgeschrieben werden fehlende Realisationsversuche, Perseverationen des vorherigen Items, semantische Paraphasien, zeitgleiches Sprechen mit dem Untersucher und ausschließlich lautliche Reaktionen, indem alle drei Kategoriefelder durchgestrichen werden. 
-Für weitere ausführliche Erklärungen und Grenzfälle in der Bewertung siehe in das [Handbuch der Hierarchischen Wortlisten](https://www.ekn.phonetik.uni-muenchen.de/diagnostik_therapie/hwl/ekn_materialien_hwl.pdf) oder besuche die Therapiebibliothek. 
+
+Für weitere ausführliche Erklärungen und Grenzfälle in der Bewertung siehe in das [Handbuch der Hierarchischen Wortlisten](https://www.ekn.phonetik.uni-muenchen.de/diagnostik_therapie/hwl/ekn_materialien_hwl.pdf) oder besuche die Therapiebibliothek in Golm. 
 
 Der Schweregrad in den Hierarchischen Wortlisten wird nach Ziegler et al. (2008) folgendermaßen prozentual bestimmt: 
 >75% korrekt = leichte SPX, 25-75% korrekt= mittelgradige SPX, <25% korrekt= schwere SPX

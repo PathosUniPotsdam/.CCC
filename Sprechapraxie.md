@@ -160,7 +160,7 @@ schwere SPX:
 
 Je nachdem von welchen funktionellen Einschränkungen der sprechapraktische Patient beeinträchtigt ist, müssen Zielsetzung sowie Ausrichtung der Behandlung gewählt werden. Die Therapie sollte orientiert am Alltag des Patienten ausgerichtet werden, um dessen Aktivität und Teilhabe am täglichen, sozialen Leben zu ermöglichen bzw. zu verbessern. Funktionelle Ziele werdenden dabei patientenorientierten Zielen untergeordnet, auch „Top-down-Vorgehen“ genannt. 
 
-Mögliche Therapieziele sind folgende:
+Mögliche **Therapieziele** sind folgende:
 
 - Funktionsziele:
   -	das genaue Klangziel soll erkannt, verinnerlicht sowie korrekt artikuliert werden (Phonetischer Plan)
@@ -182,27 +182,42 @@ Im Bereich des Störungsbildes der Sprechapraxie wurden fünf _Ansätze_ (Bereic
 
 * **Rhythmisch-melodische Ansätze**
 Diese beschäftigen sich mit der unterstützten  Artikulation und Prosodie durch Hervorhebung ausgewählter rhythmischer und/ oder melodischer Äußerungselemente. 
+
 Folgende Verfahren sind zugehörig: melodische Intonationstherapie (Albert et al., 1973); externe und interne Taktgeber (Dworkin et al., 1988); artikulatorisches Synchronisationsverfahren (Brendel u. Ziegler, 2002); kontrastive Akzentuierung (Fairbanks, 1960); SIPARI (Jungblut u. Aldridge, 2004) und die Akzentmethode (Smith u. Thyme, 1980)
 * **Segmentbasierte Ansätze**
 Diese setzen auf Einzellaut- oder Silbenebene an und werden erst anschließend zum ganzen Wort zusammengesetzt. Der Anbahnung von Einzellauten folgt also die Einbettung der Laute in Silben, Wörter, Phrasen und Sätzen. Zur Ableitung von Phonemen dienen z.B. einzelne Mundbewegungen  und nicht-sprachliche Laute. Zudem können aus bereits ausführbaren Lauten andere abgeleitet werden. Voraussetzung  ist u.a., dass keine bukkofaziale Apraxie vorliegt. 
+
 Folgende Verfahren sind zugehörig: Phonetische Ableitung und Progressive Approximation (Van Riper u. Irvin, 1958); Phonetic Placement (Rosenbek, 1983); Phonemdrill (Darley et al., 1975); 8-Stufen-Kontinuum (Rosenbek et al., 1973) und die Sprechapraxietherapie nach Luzzatti und Springer (Springer, 1995)
 * **Wortstrukturelle Ansätze**
 Diese Stellen das Wortganze in den Fokus. Die Akzentstruktur sowie die Silbenanzahl bleiben gleich, werden jedoch artikulatorisch vereinfacht oder systematisch variiert.
+
 Folgende Verfahren sind zugehörig: Phonetische Kontrastierung – Minimalpaartechnik (Wertz et al.,1984); Multiple Input Phoneme Therapy (Stevens u. Glaser, 1983) und der Metrische Ansatz (Jaeger, 1991)
 * **Cueing-Techniken**
 Diese wenden gestische, visuelle oder taktil-kinästhetische Hinweise ein, um Sprechbewegungen zu unterstützen. 
+
 Folgende Verfahren sind zugehörig: Gestische Reorganisation (Romero, 1980); Gesten/Zeichensprache (Skelly et al., 1974) und PROMPT (Chumpelik, 1984) / TAKTKIN (Birner-Janusch, 2001)
 * **Alternative und/oder augmentative Kommunikationsformen**
 Diese sind für schwerbetroffene Patienten geeignet, welche trotz Therapie nicht in der Lage sind, expressive Äußerungen zu tätigen, bzw. können diese Strategien auch übergangsweise bei Therapiebeginn genutzt werden. 
+
 Folgende Verfahren sind zugehörig: nichtelektronische Kommunikationsformen - Kommunikationstafeln (Vanderheiden u. Grilley,1978), - Kommunikationsbücher (Bundesverband für die Rehabilitation der Aphasiker, 2005) und elektronische Kommunikationsformen (PuT, 2001)
 
 Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche _Vermittlungstechniken_ zur Verfügung, die dem Patienten Verständnis für die Phonetik geben sollen, an welcher derzeit gearbeitet wird. Auch diese Techniken können/ sollten zur Unterstützung der Lautbildung miteinander kombiniert werden: 
--	**Auditive Vermittlungstechniken**
-Vorsprechen des Zielitems durch den Therapeuten (Verbindung zwischen akustischem Lautbild und Bewegungskonzept herstellen); verbale Erklärungen zur Artikulation von Lauten (Klärung der Artikulationsarten und -orte); akustische Synchronisation (Artikulation synchron zu einer akustischen Vorgabe)
--	**Visuelle Vermittlungstechniken**
-Mundbild des Therapeuten (nur für vordere Artikulationszonen); Spiegel-Arbeit (gestärkte Eigenkontrolle des Patienten) ; gezeichnete bzw. fotografische Mundbilder (keine Darstellung koartikulatorischer Prozesse), schematische Sagittalschnitte des Ansatzrohrs (keine Artikulationsabläufe erkennbar); Computerunterstützte Darstellung von Artikulationsabläufen (Speech Trainer – Unterstützung der verbalen Erklärungen); Handgesten (abstrakt, lauttypische Gesten)
--	**Taktil-kinästhetische Vermittlungstechniken** 
-Hand des Therapeuten (Empfindungswahrnehmung von Lage und Bewegung); Spatel (intraorale Stimulierung); Beißblock (Diagnostik); Künstlicher Gaumen (Gefühl für Zungen-Gaumen-Koordination); taktil-kinästhetische Hinweisreize (siehe TAKTKIN, standardisierte Zielkonfigurationen)
+**Auditive Vermittlungstechniken**
+   - Vorsprechen des Zielitems durch den Therapeuten (Verbindung zwischen akustischem Lautbild und Bewegungskonzept herstellen)
+   - verbale Erklärungen zur Artikulation von Lauten (Klärung der Artikulationsarten und -orte)
+   - akustische Synchronisation (Artikulation synchron zu einer akustischen Vorgabe)
+**Visuelle Vermittlungstechniken**
+   - Mundbild des Therapeuten (nur für vordere Artikulationszonen)
+   - Spiegel-Arbeit (gestärkte Eigenkontrolle des Patienten)
+   - gezeichnete bzw. fotografische Mundbilder (keine Darstellung koartikulatorischer Prozesse)
+   - schematische Sagittalschnitte des Ansatzrohrs (keine Artikulationsabläufe erkennbar)
+   - Computerunterstützte Darstellung von Artikulationsabläufen (Speech Trainer – Unterstützung der verbalen Erklärungen)
+   - Handgesten (abstrakt, lauttypische Gesten)
+**Taktil-kinästhetische Vermittlungstechniken** 
+   - Hand des Therapeuten (Empfindungswahrnehmung von Lage und Bewegung)
+   - Spatel (intraorale Stimulierung); Beißblock (Diagnostik)
+   - Künstlicher Gaumen (Gefühl für Zungen-Gaumen-Koordination)
+   - taktil-kinästhetische Hinweisreize (siehe TAKTKIN, standardisierte Zielkonfigurationen)
 
 Während der eigentlichen Therapieplanung sollten, speziell auf den jeweiligen Patienten zugeschnitten, auch die _Prinzipien des motorischen Lernens_ (McNeil et al., 1997; Maas et al., 2008) beachtet und eingebaut werden. Diese Prinzipien verbessern das Erlernen von neuen Bewegungen der Gliedmaßen, erhalten das Erlernte langfristig und fördern die Generalisierung. 
 

@@ -239,8 +239,8 @@ Die eben genannten Prinzipien könnten beispielsweise folgenderweise umgesetzt w
 - Übungsvariabilität: Veränderung des koartikulatorischen Kontexts, z.B. der Vokalumgebung von /d/ in /da/, /du/, /do/ …
 
 Nach Maas et al. (2008) kann man folgende zwei Therapieeinheiten unterscheiden: 
-**„pre-practice“**  und **„practice“**. Die pre-practice ist die Therapiephase, in der der eigentliche Bewegungsablauf erlernt wird – also eine „Vorübung“. Das Ziel liegt darin, den grundsätzlichen (motorischen) Plan zu erzeugen und die Programmierung zu vollziehen. Hier sollte (Klang-) zielorientiertes Feedback gegeben werden. 
-In der practice – Transferphase, kommt es dann zur eigentlichen Übung des bereits Erlernten. Es geht also um die Automatisierung bzw. Festigung des Bewegungsablaufs. Hier sollte ergebnisorientiertes Feedback gegeben werden. 
+**„pre-practice“**  und **„practice“**. 
+Die pre-practice ist die Therapiephase, in der der eigentliche Bewegungsablauf erlernt wird – also eine „Vorübung“. Das Ziel liegt darin, den grundsätzlichen (motorischen) Plan zu erzeugen und die Programmierung zu vollziehen. Hier sollte (Klang-) zielorientiertes Feedback gegeben werden.                                                                                                               In der practice – Transferphase, kommt es dann zur eigentlichen Übung des bereits Erlernten. Es geht also um die Automatisierung bzw. Festigung des Bewegungsablaufs. Hier sollte ergebnisorientiertes Feedback gegeben werden. 
 Um in der practice Phase gute Lerneffekte zu erzielen, sollten möglichst viele Therapieeinheiten  mit variablen Zielstrukturen (in unterschiedlichen Kontexten) geplant werden, wobei diese auch miteinander zufällig vermischt werden sollten. 
 
 **Hilfen** sollten wärend der Therapie nur so viele verwendet, wie auch unbedingt gebraucht werden. Der Abbau der Hilfenstrukturen sowie die Förderung des Patienten, sprachliche Äußerungen selbständig zu initiieren, werden allgemein angestrebt. 

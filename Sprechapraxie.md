@@ -88,9 +88,11 @@ Dieser Test kann zudem zur Verlaufskontrolle angewendet werden.
 ![Hierarchische Wortlisten](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Hierarchische%20Wortlisten-klein.jpg)
 
 **Material**: Die Hierarchischen Wortlisten umfassen 2 mal 8 Listen. Die Listen 1 bis 8 beinhalten bedeutungstragende Wörter und die Listen 9-16 beschäftigen sich mit Pseudowörtern (Logatomen), die jedoch parallel den Wörtern der ersten acht Listen in Bezug auf Wortlänge/ Silbenanzahl und Komplexität angepasst wurden. Jede Liste besteht aus je sechs Items, woraus sich also insgesamt ein Umfang von 96 Testaufgaben ergibt. Die verwendeten Wörter sind deutsche Nomina und wurden möglichst hochfrequent ausgewählt. Durch sie kann das deutsche Lautinventar überprüft werden. 
+
 In der Regel zeigen Sprechapraktiker größere Schwierigkeiten beim Planen und Nachsprechen von Pseudowörtern, da diese im Gegensatz zu reellen Wörtern nicht getriggert sind. Durch die Gegenüberstellung von Wörtern zu Neologismen kann also ein möglicherweise vorliegender Lexikalitätseffekt nachgewiesen werden, welcher die Sensitivität dieses Tests erhöht. 
 Mit den ein- bis viersilbigen Testitems lässt sich ein eventuell vorliegender Wortlängeneffekt (Silben) erkennen. 
 Durch die zwei verwendeten Komplexitätsgrade: einfach CV (Konsonant-Vokal) und komplex CC (Konsonant-Konsonant)  kann zudem auch das Vorliegen eines Komplexitätseffekts bzw. Silbenstruktureffekts aufgedeckt werden.
+
 Der Untersuchungsbogen besteht aus:
 *	Einem Deckblatt (Dies umfasst einen Ergebnisüberblick, die Summenwerte aus den einzelnen Listen und birgt Platz für sonstige Beobachtungen.)
 *	Vier Wortlistenbögen (Die jeweiligen Überschriften geben einen Überblick über die hierarchische Struktur. Jedes Item besitzt eine eigene Zeile mit der Angabe des Wortakzents und einem phonologischen Transkript. Zudem folgen drei Felder, in denen Auffälligkeiten der phonetischen (PT) und phonematischen (PM) Struktur und des Redeflusses (RF) angekreuzt werden können.)
@@ -98,21 +100,25 @@ Der Untersuchungsbogen besteht aus:
 
 **Durchführung:** Zunächst sollte eine mögliche periphere oder zentrale Hörstörung ausgeschlossen bzw. vermerkt wurden, denn diese kann das Endergebnis verfälschen. 
 Wenn vorhanden, sollte der Patient wärend der Testung Hörgerät und Zahnprothese tragen. 
-Im Voraus werden alle benötigten Bögen, ein Stift sowie ein Tonbandgerät oder ein Videoaufnahmegerät bereitgelegt. Die 10 bis 20-minütige Untersuchung findet in einem ruhigen Raum statt, wobei der Untersucher dem Patienten gegenüber sitzt. Laut und mit natürlicher Intonation spricht der Untersucher die Items einzeln vor und fordert den Patienten auf, diese im Anschluss nachzusprechen. 
+Im Voraus werden alle benötigten Bögen, ein Stift sowie ein Tonbandgerät oder ein Videoaufnahmegerät bereitgelegt. 
+Die 10 bis 20-minütige Untersuchung findet in einem ruhigen Raum statt, wobei der Untersucher dem Patienten gegenüber sitzt. Laut und mit natürlicher Intonation spricht der Untersucher die Items einzeln vor und fordert den Patienten auf, diese im Anschluss nachzusprechen. 
 Das Zielitem kann auf Nachfrage oder bei Nullreaktion noch ein Mal erneut vorgegeben werden. Abgebrochen wird die Testung, wenn in drei aufeinanderfolgenden Listen jeweils mindestens drei nicht verwertbare Reaktionen auftreten. 
 
 ![Beispielliste](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Beispiel%20Liste-klein.png)
 
 **Auswertung:** Das Auswerten aller Listen sollte von dem Untersucher selbst durchgeführt werden und dauert in der Regel ca. 15 bis 30 Minuten. 
-Anhand der Ton- oder Videoaufnahme kann der Untersucher jedes Item einzeln auditiv beurteilen und eine quantitative Auswertung durchführen. Tritt ein Fehler in der phonetischen Struktur, der phonematischen Struktur und/ oder des Redeflusses auf, so wird die jeweilige Kategorie angekreuzt. Bis zu drei Kreuze können bei einem Item vergeben werden. Bei einer korrekten Reaktion bleibt das Bewertungsfeld leer. Nicht bewertet und als Nullreaktion ausgeschrieben werden fehlende Realisationsversuche, Perseverationen des vorherigen Items, semantische Paraphasien, zeitgleiches Sprechen mit dem Untersucher und ausschließlich lautliche Reaktionen, indem alle drei Kategoriefelder durchgestrichen werden. 
+Anhand der Ton- oder Videoaufnahme kann der Untersucher jedes Item einzeln auditiv beurteilen und eine quantitative Auswertung durchführen. Tritt ein Fehler in der phonetischen Struktur, der phonematischen Struktur und/ oder des Redeflusses auf, so wird die jeweilige Kategorie angekreuzt. Bis zu drei Kreuze können bei einem Item vergeben werden. Bei einer korrekten Reaktion bleibt das Bewertungsfeld leer. 
+Nicht bewertet und als Nullreaktion ausgeschrieben werden fehlende Realisationsversuche, Perseverationen des vorherigen Items, semantische Paraphasien, zeitgleiches Sprechen mit dem Untersucher und ausschließlich lautliche Reaktionen, indem alle drei Kategoriefelder durchgestrichen werden. 
 
 Für weitere ausführliche Erklärungen und Grenzfälle in der Bewertung siehe in das [Handbuch der Hierarchischen Wortlisten](https://www.ekn.phonetik.uni-muenchen.de/diagnostik_therapie/hwl/ekn_materialien_hwl.pdf) oder besuche die Therapiebibliothek in Golm. 
 
 Der Schweregrad in den Hierarchischen Wortlisten wird nach Ziegler et al. (2008) folgendermaßen prozentual bestimmt: 
->75% korrekt = leichte SPX, 25-75% korrekt= mittelgradige SPX, <25% korrekt= schwere SPX
+ >75% korrekt = leichte SPX, 25-75% korrekt= mittelgradige SPX, <25% korrekt= schwere SPX
 
-Neben den drei Fehlerkategorien können auch noch weitere Merkmale wie Sprechanstrengung, Suchverhalten, silbisches Sprechen und veränderter Wortakzent mittels einer vierstufigen Skala (0 – unauffällig bis 3 - stark ausgeprägt) auf dem Deckblatt erfasst und qualitativ ausgewertet werden. Diese dienen zur erweiterten Diagnostik und vor allem zur Abgrenzung sprechapraktischer  Störungen.
+Neben den drei Fehlerkategorien können auch noch weitere Merkmale wie Sprechanstrengung, Suchverhalten, silbisches Sprechen und veränderter Wortakzent mittels einer vierstufigen Skala 
+(0 – unauffällig bis 3 - stark ausgeprägt) auf dem Deckblatt erfasst und qualitativ ausgewertet werden. Diese dienen zur erweiterten Diagnostik und vor allem zur Abgrenzung sprechapraktischer  Störungen.
 Trotzdem bei jedem Untersucher die Fähigkeit des analytischen Hörens unterschiedlich stark ausgeprägt ist, kann man anhand der signifikanten Übereinstimmungen von einer guten Auswertungsobjektivität reden. Die Hierarchischen Wortlisten haben eine hohe innere Konsistenz und weisen eine gute Konstruktvalidität auf. Die Abbildung des Schweregrades in diesem Test stimmt mit klinischen Schweregradsurteilen überein. Es liegt jedoch keine ausführliche Normierung anhand von angegeben Prozenträngen, Normwerten oder Äquivalentnormen vor. 
+
 Dieses Screening-Verfahren ist nicht validiert, besitzt also keinen „Goldstandard“! 
 
 **Weitere mögliche Diagnostikverfahren:**
@@ -120,7 +126,8 @@ Dieses Screening-Verfahren ist nicht validiert, besitzt also keinen „Goldstand
 *	Beurteilung der (gelenkten) Spontansprache nach Mangold et al. (2001) anhand eines Interviews mit spezifischen Fragen aus dem Alltag des Patienten - schwere Sprechapraxie
 *	Verständlichkeitsmessung mittels NTID-Skala nach Samar u. Metz (1988) und der Bewertung der Vermittlungsmodalitäten nach Mangold et al. (2001)
 -	Untersuchungsbogen leichte bis mittelschwere Sprechapraxie nach Lauer & Birner-Janusch (2007)
-Neben eben genannten perzeptiven Diagnostikverfahren können bei Bedarf auch apparative Diagnostikverfahren wie zum Beispiel eine Zungensonografie, Elektromyografie (EMG) oder Magnetresonanztomografie (MRT) angewendet werden. Diese kommen im Therapiealltag eher selten zum Einsatz, sondern werden in spezialisierten klinischen Einrichtungen durchgeführt. 
+
+Neben eben genannten perzeptiven Diagnostikverfahren können bei Bedarf auch _apparative Diagnostikverfahren_ wie zum Beispiel eine Zungensonografie, Elektromyografie (EMG) oder Magnetresonanztomografie (MRT) angewendet werden. Diese kommen im Therapiealltag eher selten zum Einsatz, sondern werden in spezialisierten klinischen Einrichtungen durchgeführt. 
 
 ![Leitfaden zur Diagnostik](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Sprechapraxie%20Leitfaden%20zur%20Diagnostik%20-%20dbl-klein.png)
 
@@ -130,17 +137,21 @@ Neben eben genannten perzeptiven Diagnostikverfahren können bei Bedarf auch app
 ## Therapie
 
 **Grundlagen der Therapieplanung:**
-Im Heilmittelkatalog von 2017 sind unter „Störungen der Sprechmotorik“ die folgenden zwei Therapieziele angegeben: „Verbesserung bzw. Normalisierung des Sprechens“ und „Erreichen einer Kommunikationsfähigkeit (erforderlich falls Schaffung nonverbaler Kommunikationsmöglichkeiten)“. Diese Ziele sind sehr allgemein formuliert und sollten in Abhängigkeit vom Schweregrad des Patienten und der auftretenden Symptome folgendermaßen gewählt werden:
-Übergeordnetes Ziel: Verbesserung der Kommunikationsfähigkeit im Alltag.
+Im Heilmittelkatalog von 2017 sind unter „Störungen der Sprechmotorik“ die folgenden zwei Therapieziele angegeben: „_Verbesserung bzw. Normalisierung des Sprechens_“ und „_Erreichen einer Kommunikationsfähigkeit (erforderlich falls Schaffung nonverbaler Kommunikationsmöglichkeiten)_". 
 
-Für leichte bis mittelschwere SPX:
+Diese Ziele sind sehr allgemein formuliert und sollten in Abhängigkeit vom Schweregrad des Patienten und der auftretenden Symptome folgendermaßen gewählt werden:
+
+* Übergeordnetes Ziel: Verbesserung der Kommunikationsfähigkeit im Alltag.
+
+* leichte bis mittelschwere SPX:
 -	Verbesserung der Verständlichkeit 
 -	Artikulatorische Präzision
 -	natürlich klingende Prosodie
 -	Reduzierung ungünstiger Kompensationsstrategien
 -	Förderung günstiger Kompensationsstrategien
 -	Üben in verschiedenen Kommunikationssituationen
-Für schwere SPX:
+
+* schwere SPX:
 -	Erarbeitung alltagsrelevanter Äußerungen
 -	Einsatz alternative Kommunikationsmittel (alle Modalitäten, verbal vs. non-verbal)
 -	Reduktion von Automatismen

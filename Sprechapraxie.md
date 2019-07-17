@@ -177,6 +177,7 @@ Mögliche **Therapieziele** sind folgende:
   -	eine Gute-Nacht-Geschichte soll „spannender“ vorgelesen werden
   -	eigene Wünsche und Entscheidungen sollen verbal geäußert werden
 
+
 Je nach Symptomausprägung und Stimulierbarkeit des Patienten sollte ein passendes Therapieverfahren individuell ausgewählt werden. Wärend der Behandlung ist darauf zu achten, dass ganzheitliche wie auch segmentale Aspekte einbezogen werden. 
 Im Bereich des Störungsbildes der Sprechapraxie wurden fünf _Ansätze_ (Bereiche) entwickelt, nach denen man die Therapie, auch in Kombination miteinander, ausrichten kann:
 
@@ -200,7 +201,9 @@ Diese wenden gestische, visuelle oder taktil-kinästhetische Hinweise ein, um Sp
 Diese sind für schwerbetroffene Patienten geeignet, welche trotz Therapie nicht in der Lage sind, expressive Äußerungen zu tätigen, bzw. können diese Strategien auch übergangsweise bei Therapiebeginn genutzt werden. 
    - Verfahren: nichtelektronische Kommunikationsformen - Kommunikationstafeln (Vanderheiden u. Grilley,1978), - Kommunikationsbücher (Bundesverband für die Rehabilitation der Aphasiker, 2005) und elektronische Kommunikationsformen (PuT, 2001)
 
+
 Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche _Vermittlungstechniken_ zur Verfügung, die dem Patienten Verständnis für die Phonetik geben sollen, an welcher derzeit gearbeitet wird. Auch diese Techniken können/ sollten zur Unterstützung der Lautbildung miteinander kombiniert werden: 
+
 **Auditive Vermittlungstechniken**
    - Vorsprechen des Zielitems durch den Therapeuten (Verbindung zwischen akustischem Lautbild und Bewegungskonzept herstellen)
    - verbale Erklärungen zur Artikulation von Lauten (Klärung der Artikulationsarten und -orte)
@@ -218,7 +221,9 @@ Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche _Ve
    - Künstlicher Gaumen (Gefühl für Zungen-Gaumen-Koordination)
    - taktil-kinästhetische Hinweisreize (siehe TAKTKIN, standardisierte Zielkonfigurationen)
 
-Während der eigentlichen Therapieplanung sollten, speziell auf den jeweiligen Patienten zugeschnitten, auch die _Prinzipien des motorischen Lernens_ (McNeil et al., 1997; Maas et al., 2008) beachtet und eingebaut werden. Diese Prinzipien verbessern das Erlernen von neuen Bewegungen der Gliedmaßen, erhalten das Erlernte langfristig und fördern die Generalisierung. 
+
+Während der eigentlichen Therapieplanung sollten, speziell auf den jeweiligen Patienten zugeschnitten, 
+auch die _Prinzipien des motorischen Lernens_ (McNeil et al., 1997; Maas et al., 2008) beachtet und eingebaut werden. Diese Prinzipien verbessern das Erlernen von neuen Bewegungen der Gliedmaßen, erhalten das Erlernte langfristig und fördern die Generalisierung. 
 
 Grundsätzlich gilt es, die Therapie über einen längeren Zeitraum hinweg sehr intensiv zu gestalten, um den Übungseffekt zu steigern und möglichst effektiv zu arbeiten. Alle durchzuführenden Bewegungen sollten deshalb sehr häufig wiederholt werden, d. h. nicht weniger als 20 Mal. Eine neutrale Position einzunehmen, ist zwischen den einzelnen Versuchen sehr wichtig. Zudem sollte der Fokus vor allem auf verbalen Aufgaben liegen. Der Patient soll an seiner fehlerhaften Artikulation bzw. Lautproduktion arbeiten, dementsprechend gehören schriftliche oder auditive Aufgaben eher weniger zu diesem Störungsbild. Die Strukturierung der einzelnen Items ist sehr wichtig. Diese sollten entsprechend ihres artikulatorischen Schwierigkeitsgrades  geordnet und mittels steigender (Silben-) Komplexität geübt werden, um Überforderung bzw. Frustration seitens des Patienten zu vermeiden.  Die Übungen sollten variabel gestaltet sein, d.h. die zu übenden Bewegungsmuster können auch in verschiedenen sprachlichen Kontexten angewendet werden. Darüber hinaus sollte – immer in Abhängigkeit von den Patientenleistungen – auch an der Prosodie gearbeitet werden. 
 Um dem Patienten eine Rückmeldung über das Ergebnis zu geben, ist therapeutisches Feedback unerlässlich. Hier geht es vorwiegend um die Korrektheit der einzelnen Bewegungen. Das Feedback solltet nach jeweils ca. drei Artikulationsversuchen (= niedrige Frequenz) zeitlich kurz verzögert, d.h. nicht direkt nach der Bewegungsausführung, gegeben werden. 

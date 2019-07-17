@@ -35,7 +35,7 @@ Auf dieser Ebene kann es möglicherweise auch zu sogenannten „Mischformen“ k
 *	**suprasegmentale Ebene** („prosody“): Auf der Ebene der Prosodie/ des Redeflusses sind oft Verlangsamungen und Unflüssigkeiten durch z.B. Fehlversuche oder Selbstkorrekturen, Nivellierung (Einebnung) von Akzentkontrasten und Intonationsmustern sowie Iterationen (Wiederholungen) von Lauten, Silben und Wörtern zu verzeichnen. Zudem fallen Betroffene häufig durch eine silbische (skandierende) Sprechweise und inadäquate bzw. inadäquat lange Pausen auf. Das Symptom der „Dysprosodie“, eine unnatürliche, monotone Sprechweise, ist momentan noch sehr umstritten, kann jedoch auch zu den primären Defiziten gezählt werden.  
 *	**Sprechverhalten** („fluency“): Auf der Ebene des Sprechverhaltens lassen sich bei den Patienten häufig artikulatorische, zum Teil stumme Suchbewegungen und sicht- sowie hörbare Sprechanstrengung ausmachen. Die Betroffenen besitzen meist ein stark ausgeprägtes Störungsbewusstsein. Die Sprechweise ist oft stark verlangsamt, wirkt unnatürlich und ist schwer verständlich, wodurch bei den Patienten auch ein hoher Leidensdruck durch die Unzufriedenheit mit den eigenen Leistungen zustande kommt.
 
-Teufelskreis: Befürchtungen <> Vermeiden der Sprechsituation <> Bestätigung der Befürchtung
+_Teufelskreis_: Befürchtungen <> Vermeiden der Sprechsituation <> Bestätigung der Befürchtung
 
 Bei einer Sprechapraxie haben alle Betroffenen Schwierigkeiten in der mündlichen Sprachproduktion, jedoch ist zu beachten, dass die Symptomatik sehr variabel sein kann. Das Vorkommen der Symptome ist bei jedem Patienten sehr individuell und auch treten die Fehler inkonstant, d.h. ein Laut wird nicht durchgängig falsch realisiert, und inkonsequent, d.h. die Art der falschen Realisierung ist nicht immer gleich, auf. Auch kann es zu sogenannten „Inseln intakter Sprachproduktion“ kommen. In diesem Fall sind nicht alle verbalen Äußerungen des Patienten von Symptomen betroffen, es kann sogar ganze symptomfreie Passagen geben. Dies ist von dem jeweiligen Automatisierungsgrad und dem Kommunikationskontext abhängig. 
 
@@ -53,35 +53,35 @@ Um dies zu ermöglichen, ist es grundlegend, verschiedene Diagnostikinstrumente,
 Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder, ausgehend von den sprechapraktischen Symptomen.
 
 
-| Fehlertypen                         | Sprechapraxie              | Dysarthrophonie | Aphasie         |
-|:------------------------------------|:---------------------------|:----------------|:----------------|
-| Phonetische Fehler                  | ✓ inkonstant, inkonsistent | ✓ konstant     | -               |                                                                                   
-| Phonologische Fehler                | ✓ initial                  | -               | ✓ final, inkonsequent |
-| Artikulationsfehler                 | ✓                                                                                            (eher Silben-/ Wortanfang, Konsonantenverbindungen)                                                                                     | ✓ (eher Wort-/ Äußerungsende, Konsonantenverbindungen)              | ✓               |
-| Skandierende Sprechweise            | ✓             | (✓) ataktische Dysarthrie            | -           |
-| Sprechpausen                        | ✓             | ✓              | (✓) abh. von Form und Schweregrad|
-| Fehlstarts                          | ✓             | -               | -               |
-| Selbstkorrekturen                   | ✓             | -               | (✓) abh. von Form und Schweregrad|
-| Redefluss- und Akzentuierungsfehler | ✓             | ✓              | -                |
+| Fehlertypen                         | Sprechapraxie  | Dysarthrophonie | Aphasie         |
+|:------------------------------------|:---------------|:----------------|:----------------|
+| Phonetische Fehler                  | ✓              | ✓              | -               |                                                                                   
+| Phonologische Fehler                | ✓              | -               | ✓              |
+| Artikulationsfehler                 | ✓              | ✓              | ✓               |                                                                                                
+| Skandierende Sprechweise            | ✓              | (✓)            | -               |
+| Sprechpausen                        | ✓              | ✓              | (✓)             |
+| Fehlstarts                          | ✓              | -               | -               |
+| Selbstkorrekturen                   | ✓              | -               | (✓)            |
+| Redefluss- und Akzentuierungsfehler | ✓              | ✓              | -               |
 | Störungen in der Stimmgebung, Phonation, Sprechatmung und Resonanz     | -             | ✓               | -               |
 | Artikulatorisches Suchverhalten     | ✓             | -               | -               |
 | Sprechanstrengung                   | ✓             | ✓               | ✓              |
-| Störungsbewusstsein                 | ✓             | ✓               | (✓) abh. vom Schweregrad|
-| Inseln intakter Sprachproduktion    | ✓             | -               | ✓ Leitungsaphasie              |
-| Normales Sprechtempo                | - verlangsamt              | - verlangsamt               | ✓              |
+| Störungsbewusstsein                 | ✓             | ✓               | (✓)            |
+| Inseln intakter Sprachproduktion    | ✓             | -               | ✓              |
+| Normales Sprechtempo                | -             | -                | ✓              |
 
 ## Diagnostik
 
 Allgemeine diagnostische Fragestellung: Liegt bei dem getesteten Patienten eine Sprechapraxie vor? Wenn ja, wie stark ist diese ausgeprägt (leicht-, mittel-, schwergradig) und mit welchem Störungsschwerpunkt (segmental oder suprasegmental)?
 
-#### 10-Punkte- Checkliste
+### 10-Punkte- Checkliste
 Das mögliche Vorliegen einer Sprechapraxie kann zum Beispiel mit dem Screening der 10-Punkte-Checkliste aus den „Hierarchischen Wortlisten“ (Liepold et. al, 2003) überprüft werden.  Diese Liste besteht aus 10 aufeinanderfolgenden Fragen, die jeweils nur mit „Ja“ oder „Nein“ beantwortet werden. Die zeitsparende Testung wird von dem Untersucher selbst ausgeführt, dabei stützt er sich auf Fakten aus Anamnese, Spontansprachanalyse und anderen Vorbefunden.  Es handelt sich um eine rein quantitative Auswertung, denn je mehr Ja-Antworten gegeben werden, desto höher ist die Wahrscheinlichkeit für das Vorliegen einer Sprechapraxie. Vor allem die Punkte 2. und 3. sind hierbei obligatorisch. Punkt 7. sowie 8. verdeutlichen die Ausprägung des Störungsbewusstseins und Punkt 10. kann auf eine bukkofaziale Apraxie hindeuten, welche die Therapie bei einem nichtsprachlichen Ansatz stark einschränken würde. 
 Alles in allem sind eine sichere Diagnosestellung sowie eine Profilbildung mit diesem Test jedoch nicht möglich, da einzelne Punkte auch auf eine Dysarthrie (Punkt 3. und 6.) oder Aphasie (Punkt 9.) deuten können. Weitere Diagnostiken sollten dementsprechend vorgenommen werden. 
 Dieser Test ist nicht validiert!
 
 ![10-Punkte-Checkliste](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/10-Punkte-Checkliste-klein.png)
 
-#### Hierarchische Wortlisten 
+### Hierarchische Wortlisten 
 Die Hierarchischen Wortlisten von Liepold et. al (2003) bilden bisher das einzige Screening-Verfahren zur sprechapraktischen Diagnostik in Deutschland. Dieses perzeptive Verfahren ist bei leichter bis mittelschwerer Sprechapraxie anwendbar und ermöglicht als Nachsprechtest vor allem die Betrachtung von phonetischen sowie phonologischen Fehlern und des Redeflusses. Final kann ein Profil erstellt werden, welches Aussagen über den Wortlängeneinfluss, die Komplexität von Silbenstrukturen und der Lexikalität auf die Sprechfähigkeit hat.
 Dieser Test kann zudem zur Verlaufskontrolle angewendet werden.
 
@@ -208,14 +208,13 @@ Um in der practice Phase gute Lerneffekte zu erzielen, sollten möglichst viele 
 **Hilfen** sollten wärend der Therapie nur so viele verwendet, wie auch unbedingt gebraucht werden. Der Abbau der Hilfenstrukturen sowie die Förderung des Patienten, sprachliche Äußerungen selbständig zu initiieren, werden allgemein angestrebt. 
 
 
-
-#### Weiterführende Links
+## Weiterführende Links
 * [Sprechapraxie - dbl](https://www.dbl-ev.de/kommunikation-sprache-sprechen-stimme-schlucken/stoerungen-bei-erwachsenen/stoerungsbereiche/sprechen/sprechapraxie.html)
 * [Sprechapraxie: Leitfaden zur Diagnostik - dbl](https://test.dbl-ev.de/fileadmin/Inhalte/Dokumente/der_dbl/QM/leitfaden_sprechapraxie.pdf)
 * [Neue Methoden in der Diagnostik und Therapie bei Sprechapraxie](https://www.uni-potsdam.de/de/swallow/projekte/sprechapraxie-neue-methoden-in-der-diagnostik-und-therapie-bei-sprechapraxie.html)
 * [SP6 - Heilmittelkatalog 2017](https://heilmittelkatalog.de/files/luxe/hmkonline/logo/sp6.htm)
 
-#### Quellen
+## Quellen
 * Blanken, G. (Ed.). (1991). Einführung in die linguistische Aphasiologie: Theorie und Praxis. Verlag Mainz.
 * Dronkers NF (1996) A new brain region for coordinating speech artculation. Nature 384:159-161. Hillis AE, Work M, Barker PE, Jacobs MA, Breese EL, Maurer K (2004) Re-examining the brain regions crucial for orchestraFng speech arFculaFon. Brain 127:1479-1487.
 * Geissler, M., & Lauer, N. (2015). Sprechapraxie: ein Ratgeber für Betroffene und Angehörige. Schulz-Kirchner Verlag GmbH.

@@ -75,14 +75,14 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder, ausgehe
 
 Allgemeine diagnostische Fragestellung: Liegt bei dem getesteten Patienten eine Sprechapraxie vor? Wenn ja, wie stark ist diese ausgeprägt (leicht-, mittel-, schwergradig) und mit welchem Störungsschwerpunkt (segmental oder suprasegmental)?
 
-### 10-Punkte- Checkliste
+#### 10-Punkte- Checkliste
 Das mögliche Vorliegen einer Sprechapraxie kann zum Beispiel mit dem Screening der 10-Punkte-Checkliste aus den „Hierarchischen Wortlisten“ (Liepold et. al, 2003) überprüft werden.  Diese Liste besteht aus 10 aufeinanderfolgenden Fragen, die jeweils nur mit „Ja“ oder „Nein“ beantwortet werden. Die zeitsparende Testung wird von dem Untersucher selbst ausgeführt, dabei stützt er sich auf Fakten aus Anamnese, Spontansprachanalyse und anderen Vorbefunden.  Es handelt sich um eine rein quantitative Auswertung, denn je mehr Ja-Antworten gegeben werden, desto höher ist die Wahrscheinlichkeit für das Vorliegen einer Sprechapraxie. Vor allem die Punkte 2. und 3. sind hierbei obligatorisch. Punkt 7. sowie 8. verdeutlichen die Ausprägung des Störungsbewusstseins und Punkt 10. kann auf eine bukkofaziale Apraxie hindeuten, welche die Therapie bei einem nichtsprachlichen Ansatz stark einschränken würde. 
 Alles in allem sind eine sichere Diagnosestellung sowie eine Profilbildung mit diesem Test jedoch nicht möglich, da einzelne Punkte auch auf eine Dysarthrie (Punkt 3. und 6.) oder Aphasie (Punkt 9.) deuten können. Weitere Diagnostiken sollten dementsprechend vorgenommen werden. 
 Dieser Test ist nicht validiert!
 
 ![10-Punkte-Checkliste](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/10-Punkte-Checkliste-klein.png)
 
-### Hierarchische Wortlisten 
+#### Hierarchische Wortlisten 
 Die Hierarchischen Wortlisten von Liepold et. al (2003) bilden bisher das einzige Screening-Verfahren zur sprechapraktischen Diagnostik in Deutschland. Dieses perzeptive Verfahren ist bei leichter bis mittelschwerer Sprechapraxie anwendbar und ermöglicht als Nachsprechtest vor allem die Betrachtung von phonetischen sowie phonologischen Fehlern und des Redeflusses. Final kann ein Profil erstellt werden, welches Aussagen über den Wortlängeneinfluss, die Komplexität von Silbenstrukturen und der Lexikalität auf die Sprechfähigkeit hat.
 Dieser Test kann zudem zur Verlaufskontrolle angewendet werden.
 

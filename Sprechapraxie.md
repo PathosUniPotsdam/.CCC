@@ -160,20 +160,22 @@ schwere SPX:
 
 Je nachdem von welchen funktionellen Einschränkungen der sprechapraktische Patient beeinträchtigt ist, müssen Zielsetzung sowie Ausrichtung der Behandlung gewählt werden. Die Therapie sollte orientiert am Alltag des Patienten ausgerichtet werden, um dessen Aktivität und Teilhabe am täglichen, sozialen Leben zu ermöglichen bzw. zu verbessern. Funktionelle Ziele werdenden dabei patientenorientierten Zielen untergeordnet, auch „Top-down-Vorgehen“ genannt. 
 
-Beispiele für Funktionsziele in der Therapie:
--	das genaue Klangziel soll erkannt, verinnerlicht sowie korrekt artikuliert werden (Phonetischer Plan)
--	kurze Äußerungen sollen prosodisch flüssig, akzentuiert und auf einem Atemzug produziert werden 
--	alltagsrelevante, artikulatorisch einfache Wörter wie z.B. „ja“ und „nein“ sollen sicher produziert werden
+Mögliche Therapieziele sind folgende:
 
-Beispiele für Aktivitätsziele in der Therapie:
--	die Ziellaute (/…/, /…/, usw.) sollen in 20 Nominakomposita korrekt artikuliert werden (Verbesserung der Artikulation von komplexen Lautstrukturen auf segmentaler Ebene)
--	ein einfacher Text soll flüssig und mit natürlicher Sprechweise  gelesen werden
--	kurze, alltagsnahe Äußerungen sollen im Rollenspiel verständlich produziert werden
+- Funktionsziele:
+  -	das genaue Klangziel soll erkannt, verinnerlicht sowie korrekt artikuliert werden (Phonetischer Plan)
+  -	kurze Äußerungen sollen prosodisch flüssig, akzentuiert und auf einem Atemzug produziert werden 
+  -	alltagsrelevante, artikulatorisch einfache Wörter wie z.B. „ja“ und „nein“ sollen sicher produziert werden
 
-Beispiele für Partizipationsziele in der Therapie:
--	in Alltagsgesprächen sollen komplexe Wörter korrekt artikuliert werden (sicheres Sprechen im alltäglichen Kontext)
--	eine Gute-Nacht-Geschichte soll „spannender“ vorgelesen werden
--	eigene Wünsche und Entscheidungen sollen verbal geäußert werden
+- Aktivitätsziele:
+  -	die Ziellaute (/…/, /…/, usw.) sollen in 20 Nominakomposita korrekt artikuliert werden (Verbesserung der Artikulation von komplexen Lautstrukturen auf segmentaler Ebene)
+  -	ein einfacher Text soll flüssig und mit natürlicher Sprechweise  gelesen werden
+  -	kurze, alltagsnahe Äußerungen sollen im Rollenspiel verständlich produziert werden
+
+- Partizipationsziele:
+  -	in Alltagsgesprächen sollen komplexe Wörter korrekt artikuliert werden (sicheres Sprechen im alltäglichen Kontext)
+  -	eine Gute-Nacht-Geschichte soll „spannender“ vorgelesen werden
+  -	eigene Wünsche und Entscheidungen sollen verbal geäußert werden
 
 Je nach Symptomausprägung und Stimulierbarkeit des Patienten sollte ein passendes Therapieverfahren individuell ausgewählt werden. Wärend der Behandlung ist darauf zu achten, dass ganzheitliche wie auch segmentale Aspekte einbezogen werden. 
 Im Bereich des Störungsbildes der Sprechapraxie wurden fünf _Ansätze_ (Bereiche) entwickelt, nach denen man die Therapie, auch in Kombination miteinander, ausrichten kann:

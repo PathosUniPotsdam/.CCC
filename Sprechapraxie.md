@@ -210,6 +210,7 @@ Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche _Ve
    - Vorsprechen des Zielitems durch den Therapeuten (Verbindung zwischen akustischem Lautbild und Bewegungskonzept herstellen)
    - verbale Erklärungen zur Artikulation von Lauten (Klärung der Artikulationsarten und -orte)
    - akustische Synchronisation (Artikulation synchron zu einer akustischen Vorgabe)
+
 **Visuelle Vermittlungstechniken**
    - Mundbild des Therapeuten (nur für vordere Artikulationszonen)
    - Spiegel-Arbeit (gestärkte Eigenkontrolle des Patienten)
@@ -217,6 +218,7 @@ Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche _Ve
    - schematische Sagittalschnitte des Ansatzrohrs (keine Artikulationsabläufe erkennbar)
    - Computerunterstützte Darstellung von Artikulationsabläufen (Speech Trainer – Unterstützung der verbalen Erklärungen)
    - Handgesten (abstrakt, lauttypische Gesten)
+
 **Taktil-kinästhetische Vermittlungstechniken** 
    - Hand des Therapeuten (Empfindungswahrnehmung von Lage und Bewegung)
    - Spatel (intraorale Stimulierung); Beißblock (Diagnostik)
@@ -225,7 +227,7 @@ Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche _Ve
 
 
 Während der eigentlichen Therapieplanung sollten, speziell auf den jeweiligen Patienten zugeschnitten, 
-auch die _Prinzipien des motorischen Lernens_ (McNeil et al., 1997; Maas et al., 2008) beachtet und eingebaut werden. Diese Prinzipien verbessern das Erlernen von neuen Bewegungen der Gliedmaßen, erhalten das Erlernte langfristig und fördern die Generalisierung. 
+auch die **_Prinzipien des motorischen Lernens_** (McNeil et al., 1997; Maas et al., 2008) beachtet und eingebaut werden. Diese Prinzipien verbessern das Erlernen von neuen Bewegungen der Gliedmaßen, erhalten das Erlernte langfristig und fördern die Generalisierung. 
 
 Grundsätzlich gilt es, die Therapie über einen längeren Zeitraum hinweg sehr intensiv zu gestalten, um den Übungseffekt zu steigern und möglichst effektiv zu arbeiten. Alle durchzuführenden Bewegungen sollten deshalb sehr häufig wiederholt werden, d. h. nicht weniger als 20 Mal. Eine neutrale Position einzunehmen, ist zwischen den einzelnen Versuchen sehr wichtig. Zudem sollte der Fokus vor allem auf verbalen Aufgaben liegen. Der Patient soll an seiner fehlerhaften Artikulation bzw. Lautproduktion arbeiten, dementsprechend gehören schriftliche oder auditive Aufgaben eher weniger zu diesem Störungsbild. Die Strukturierung der einzelnen Items ist sehr wichtig. Diese sollten entsprechend ihres artikulatorischen Schwierigkeitsgrades  geordnet und mittels steigender (Silben-) Komplexität geübt werden, um Überforderung bzw. Frustration seitens des Patienten zu vermeiden.  Die Übungen sollten variabel gestaltet sein, d.h. die zu übenden Bewegungsmuster können auch in verschiedenen sprachlichen Kontexten angewendet werden. Darüber hinaus sollte – immer in Abhängigkeit von den Patientenleistungen – auch an der Prosodie gearbeitet werden. 
 Um dem Patienten eine Rückmeldung über das Ergebnis zu geben, ist therapeutisches Feedback unerlässlich. Hier geht es vorwiegend um die Korrektheit der einzelnen Bewegungen. Das Feedback solltet nach jeweils ca. drei Artikulationsversuchen (= niedrige Frequenz) zeitlich kurz verzögert, d.h. nicht direkt nach der Bewegungsausführung, gegeben werden. 

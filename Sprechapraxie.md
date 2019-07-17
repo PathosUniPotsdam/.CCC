@@ -108,9 +108,7 @@ Anhand der Ton- oder Videoaufnahme kann der Untersucher jedes Item einzeln audit
 Für weitere ausführliche Erklärungen und Grenzfälle in der Bewertung siehe in das Handbuch der Hierarchischen Wortlisten (Therapiebibliothek) oder unter dem folgenden Link: https://www.ekn.phonetik.uni-muenchen.de/diagnostik_therapie/hwl/ekn_materialien_hwl.pdf 
 
 Der Schweregrad in den Hierarchischen Wortlisten wird nach Ziegler et al. (2008) folgendermaßen prozentual bestimmt: 
->75% korrekt = leichte SPX
-25-75% korrekt= mittelgradige SPX
-<25% korrekt= schwere SPX
+>75% korrekt = leichte SPX, 25-75% korrekt= mittelgradige SPX, <25% korrekt= schwere SPX
 
 Neben den drei Fehlerkategorien können auch noch weitere Merkmale wie Sprechanstrengung, Suchverhalten, silbisches Sprechen und veränderter Wortakzent mittels einer vierstufigen Skala (0 – unauffällig bis 3 - stark ausgeprägt) auf dem Deckblatt erfasst und qualitativ ausgewertet werden. Diese dienen zur erweiterten Diagnostik und vor allem zur Abgrenzung sprechapraktischer  Störungen.
 Trotzdem bei jedem Untersucher die Fähigkeit des analytischen Hörens unterschiedlich stark ausgeprägt ist, kann man anhand der signifikanten Übereinstimmungen von einer guten Auswertungsobjektivität reden. Die Hierarchischen Wortlisten haben eine hohe innere Konsistenz und weisen eine gute Konstruktvalidität auf. Die Abbildung des Schweregrades in diesem Test stimmt mit klinischen Schweregradsurteilen überein. Es liegt jedoch keine ausführliche Normierung anhand von angegeben Prozenträngen, Normwerten oder Äquivalentnormen vor. 
@@ -165,25 +163,25 @@ Beispiele für Partizipationsziele in der Therapie:
 -	eigene Wünsche und Entscheidungen sollen verbal geäußert werden
 
 Je nach Symptomausprägung und Stimulierbarkeit des Patienten sollte ein passendes Therapieverfahren individuell ausgewählt werden. Wärend der Behandlung ist darauf zu achten, dass ganzheitliche wie auch segmentale Aspekte einbezogen werden. 
-Im Bereich des Störungsbildes der Sprechapraxie wurden fünf Ansätze (Bereiche) entwickelt, nach denen man die Therapie, auch in Kombination miteinander, ausrichten kann:
+Im Bereich des Störungsbildes der Sprechapraxie wurden fünf _Ansätze_ (Bereiche) entwickelt, nach denen man die Therapie, auch in Kombination miteinander, ausrichten kann:
 
-* 1.	Rhythmisch-melodische Ansätze
+* **Rhythmisch-melodische Ansätze**
 Diese beschäftigen sich mit der unterstützten  Artikulation und Prosodie durch Hervorhebung ausgewählter rhythmischer und/ oder melodischer Äußerungselemente. 
 Folgende Verfahren sind zugehörig: melodische Intonationstherapie (Albert et al., 1973); externe und interne Taktgeber (Dworkin et al., 1988); artikulatorisches Synchronisationsverfahren (Brendel u. Ziegler, 2002); kontrastive Akzentuierung (Fairbanks, 1960); SIPARI (Jungblut u. Aldridge, 2004) und die Akzentmethode (Smith u. Thyme, 1980)
-* 2.	Segmentbasierte Ansätze
+* **Segmentbasierte Ansätze**
 Diese setzen auf Einzellaut- oder Silbenebene an und werden erst anschließend zum ganzen Wort zusammengesetzt. Der Anbahnung von Einzellauten folgt also die Einbettung der Laute in Silben, Wörter, Phrasen und Sätzen. Zur Ableitung von Phonemen dienen z.B. einzelne Mundbewegungen  und nicht-sprachliche Laute. Zudem können aus bereits ausführbaren Lauten andere abgeleitet werden. Voraussetzung  ist u.a., dass keine bukkofaziale Apraxie vorliegt. 
 Folgende Verfahren sind zugehörig: Phonetische Ableitung und Progressive Approximation (Van Riper u. Irvin, 1958); Phonetic Placement (Rosenbek, 1983); Phonemdrill (Darley et al., 1975); 8-Stufen-Kontinuum (Rosenbek et al., 1973) und die Sprechapraxietherapie nach Luzzatti und Springer (Springer, 1995)
-* 3.	Wortstrukturelle Ansätze
+* **Wortstrukturelle Ansätze**
 Diese Stellen das Wortganze in den Fokus. Die Akzentstruktur sowie die Silbenanzahl bleiben gleich, werden jedoch artikulatorisch vereinfacht oder systematisch variiert.
 Folgende Verfahren sind zugehörig: Phonetische Kontrastierung – Minimalpaartechnik (Wertz et al.,1984); Multiple Input Phoneme Therapy (Stevens u. Glaser, 1983) und der Metrische Ansatz (Jaeger, 1991)
-* 4.	Cueing-Techniken
+* **Cueing-Techniken**
 Diese wenden gestische, visuelle oder taktil-kinästhetische Hinweise ein, um Sprechbewegungen zu unterstützen. 
 Folgende Verfahren sind zugehörig: Gestische Reorganisation (Romero, 1980); Gesten/Zeichensprache (Skelly et al., 1974) und PROMPT (Chumpelik, 1984) / TAKTKIN (Birner-Janusch, 2001)
-* 5.	Alternative und/oder augmentative Kommunikationsformen
+* **Alternative und/oder augmentative Kommunikationsformen**
 Diese sind für schwerbetroffene Patienten geeignet, welche trotz Therapie nicht in der Lage sind, expressive Äußerungen zu tätigen, bzw. können diese Strategien auch übergangsweise bei Therapiebeginn genutzt werden. 
 Folgende Verfahren sind zugehörig: nichtelektronische Kommunikationsformen - Kommunikationstafeln (Vanderheiden u. Grilley,1978), - Kommunikationsbücher (Bundesverband für die Rehabilitation der Aphasiker, 2005) und elektronische Kommunikationsformen (PuT, 2001)
 
-Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche Vermittlungstechniken zur Verfügung, die dem Patienten Verständnis für die Phonetik geben sollen, an welcher derzeit gearbeitet wird. Auch diese Techniken können/ sollten zur Unterstützung der Lautbildung miteinander kombiniert werden: 
+Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche _Vermittlungstechniken_ zur Verfügung, die dem Patienten Verständnis für die Phonetik geben sollen, an welcher derzeit gearbeitet wird. Auch diese Techniken können/ sollten zur Unterstützung der Lautbildung miteinander kombiniert werden: 
 -	**Auditive Vermittlungstechniken**
 Vorsprechen des Zielitems durch den Therapeuten (Verbindung zwischen akustischem Lautbild und Bewegungskonzept herstellen); verbale Erklärungen zur Artikulation von Lauten (Klärung der Artikulationsarten und -orte); akustische Synchronisation (Artikulation synchron zu einer akustischen Vorgabe)
 -	**Visuelle Vermittlungstechniken**
@@ -198,7 +196,7 @@ Um dem Patienten eine Rückmeldung über das Ergebnis zu geben, ist therapeutisc
 Die eben genannten Prinzipien könnten beispielsweise folgenderweise umgesetzt werden:
 - intensive Therapie/ hohe Therapiefrequenz: 2x 60 Minuten pro Woche, 5-6 Wochen lang, pro Sitzung mindestens 20 Wiederholungen 
 - verbale Aufgaben: Approximation (Lautannäherung); Nachsprechen;  lautes Lesen; mündliches Benennen
-- Itemstrukturierung: Realisierung von 1. /t/ und 2. /st/  steigende Komplexität (hier: erst einzelner Konsonant dann Konsonantencluster)
+- Itemstrukturierung: Realisierung von 1. /t/ und 2. /st/ --> steigende Komplexität (hier: erst einzelner Konsonant dann Konsonantencluster)
 - Übungsvariabilität: Veränderung des koartikulatorischen Kontexts, z.B. der Vokalumgebung von /d/ in /da/, /du/, /do/ …
 
 Nach Maas et al. (2008) kann man folgende zwei Therapieeinheiten unterscheiden: 

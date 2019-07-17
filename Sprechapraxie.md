@@ -206,12 +206,12 @@ Diese sind für schwerbetroffene Patienten geeignet, welche trotz Therapie nicht
 #### Vermittlungstechniken
 Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche _Vermittlungstechniken_ zur Verfügung, die dem Patienten Verständnis für die Phonetik geben sollen, an welcher derzeit gearbeitet wird. Auch diese Techniken können/ sollten zur Unterstützung der Lautbildung miteinander kombiniert werden: 
 
-**Auditive Vermittlungstechniken**
+**Auditiv**
    - Vorsprechen des Zielitems durch den Therapeuten (Verbindung zwischen akustischem Lautbild und Bewegungskonzept herstellen)
    - verbale Erklärungen zur Artikulation von Lauten (Klärung der Artikulationsarten und -orte)
    - akustische Synchronisation (Artikulation synchron zu einer akustischen Vorgabe)
 
-**Visuelle Vermittlungstechniken**
+**Visuell**
    - Mundbild des Therapeuten (nur für vordere Artikulationszonen)
    - Spiegel-Arbeit (gestärkte Eigenkontrolle des Patienten)
    - gezeichnete bzw. fotografische Mundbilder (keine Darstellung koartikulatorischer Prozesse)
@@ -219,7 +219,7 @@ Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche _Ve
    - Computerunterstützte Darstellung von Artikulationsabläufen (Speech Trainer – Unterstützung der verbalen Erklärungen)
    - Handgesten (abstrakt, lauttypische Gesten)
 
-**Taktil-kinästhetische Vermittlungstechniken** 
+**Taktil-kinästhetisch** 
    - Hand des Therapeuten (Empfindungswahrnehmung von Lage und Bewegung)
    - Spatel (intraorale Stimulierung); Beißblock (Diagnostik)
    - Künstlicher Gaumen (Gefühl für Zungen-Gaumen-Koordination)

@@ -180,26 +180,21 @@ Mögliche **Therapieziele** sind folgende:
 Je nach Symptomausprägung und Stimulierbarkeit des Patienten sollte ein passendes Therapieverfahren individuell ausgewählt werden. Wärend der Behandlung ist darauf zu achten, dass ganzheitliche wie auch segmentale Aspekte einbezogen werden. 
 Im Bereich des Störungsbildes der Sprechapraxie wurden fünf _Ansätze_ (Bereiche) entwickelt, nach denen man die Therapie, auch in Kombination miteinander, ausrichten kann:
 
-* **Rhythmisch-melodische Ansätze**
+**Rhythmisch-melodische Ansätze**
 Diese beschäftigen sich mit der unterstützten  Artikulation und Prosodie durch Hervorhebung ausgewählter rhythmischer und/ oder melodischer Äußerungselemente. 
-
-Folgende Verfahren sind zugehörig: melodische Intonationstherapie (Albert et al., 1973); externe und interne Taktgeber (Dworkin et al., 1988); artikulatorisches Synchronisationsverfahren (Brendel u. Ziegler, 2002); kontrastive Akzentuierung (Fairbanks, 1960); SIPARI (Jungblut u. Aldridge, 2004) und die Akzentmethode (Smith u. Thyme, 1980)
-* **Segmentbasierte Ansätze**
+   - Folgende Verfahren sind zugehörig: melodische Intonationstherapie (Albert et al., 1973); externe und interne Taktgeber (Dworkin et al., 1988); artikulatorisches Synchronisationsverfahren (Brendel u. Ziegler, 2002); kontrastive Akzentuierung (Fairbanks, 1960); SIPARI (Jungblut u. Aldridge, 2004) und die Akzentmethode (Smith u. Thyme, 1980)
+**Segmentbasierte Ansätze**
 Diese setzen auf Einzellaut- oder Silbenebene an und werden erst anschließend zum ganzen Wort zusammengesetzt. Der Anbahnung von Einzellauten folgt also die Einbettung der Laute in Silben, Wörter, Phrasen und Sätzen. Zur Ableitung von Phonemen dienen z.B. einzelne Mundbewegungen  und nicht-sprachliche Laute. Zudem können aus bereits ausführbaren Lauten andere abgeleitet werden. Voraussetzung  ist u.a., dass keine bukkofaziale Apraxie vorliegt. 
-
-Folgende Verfahren sind zugehörig: Phonetische Ableitung und Progressive Approximation (Van Riper u. Irvin, 1958); Phonetic Placement (Rosenbek, 1983); Phonemdrill (Darley et al., 1975); 8-Stufen-Kontinuum (Rosenbek et al., 1973) und die Sprechapraxietherapie nach Luzzatti und Springer (Springer, 1995)
-* **Wortstrukturelle Ansätze**
+   - Folgende Verfahren sind zugehörig: Phonetische Ableitung und Progressive Approximation (Van Riper u. Irvin, 1958); Phonetic Placement (Rosenbek, 1983); Phonemdrill (Darley et al., 1975); 8-Stufen-Kontinuum (Rosenbek et al., 1973) und die Sprechapraxietherapie nach Luzzatti und Springer (Springer, 1995)
+**Wortstrukturelle Ansätze**
 Diese Stellen das Wortganze in den Fokus. Die Akzentstruktur sowie die Silbenanzahl bleiben gleich, werden jedoch artikulatorisch vereinfacht oder systematisch variiert.
-
-Folgende Verfahren sind zugehörig: Phonetische Kontrastierung – Minimalpaartechnik (Wertz et al.,1984); Multiple Input Phoneme Therapy (Stevens u. Glaser, 1983) und der Metrische Ansatz (Jaeger, 1991)
-* **Cueing-Techniken**
+   - Folgende Verfahren sind zugehörig: Phonetische Kontrastierung – Minimalpaartechnik (Wertz et al.,1984); Multiple Input Phoneme Therapy (Stevens u. Glaser, 1983) und der Metrische Ansatz (Jaeger, 1991)
+**Cueing-Techniken**
 Diese wenden gestische, visuelle oder taktil-kinästhetische Hinweise ein, um Sprechbewegungen zu unterstützen. 
-
-Folgende Verfahren sind zugehörig: Gestische Reorganisation (Romero, 1980); Gesten/Zeichensprache (Skelly et al., 1974) und PROMPT (Chumpelik, 1984) / TAKTKIN (Birner-Janusch, 2001)
-* **Alternative und/oder augmentative Kommunikationsformen**
+   - Folgende Verfahren sind zugehörig: Gestische Reorganisation (Romero, 1980); Gesten/Zeichensprache (Skelly et al., 1974) und PROMPT (Chumpelik, 1984) / TAKTKIN (Birner-Janusch, 2001)
+**Alternative und/oder augmentative Kommunikationsformen**
 Diese sind für schwerbetroffene Patienten geeignet, welche trotz Therapie nicht in der Lage sind, expressive Äußerungen zu tätigen, bzw. können diese Strategien auch übergangsweise bei Therapiebeginn genutzt werden. 
-
-Folgende Verfahren sind zugehörig: nichtelektronische Kommunikationsformen - Kommunikationstafeln (Vanderheiden u. Grilley,1978), - Kommunikationsbücher (Bundesverband für die Rehabilitation der Aphasiker, 2005) und elektronische Kommunikationsformen (PuT, 2001)
+   - Folgende Verfahren sind zugehörig: nichtelektronische Kommunikationsformen - Kommunikationstafeln (Vanderheiden u. Grilley,1978), - Kommunikationsbücher (Bundesverband für die Rehabilitation der Aphasiker, 2005) und elektronische Kommunikationsformen (PuT, 2001)
 
 Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche _Vermittlungstechniken_ zur Verfügung, die dem Patienten Verständnis für die Phonetik geben sollen, an welcher derzeit gearbeitet wird. Auch diese Techniken können/ sollten zur Unterstützung der Lautbildung miteinander kombiniert werden: 
 **Auditive Vermittlungstechniken**

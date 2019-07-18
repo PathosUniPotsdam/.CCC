@@ -111,6 +111,7 @@ Die 10 bis 20-minütige Untersuchung findet in einem ruhigen Raum statt, wobei d
 Das Zielitem kann auf Nachfrage oder bei Nullreaktion noch ein Mal erneut vorgegeben werden. Abgebrochen wird die Testung, wenn in drei aufeinanderfolgenden Listen jeweils mindestens drei nicht verwertbare Reaktionen auftreten. 
 
 ![Beispiel für ausgefüllte Liste](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Beispiel%20Liste-klein.png)
+
 Beispiel-Liste
 
 **Auswertung:** Das Auswerten aller Listen sollte von dem Untersucher selbst durchgeführt werden und dauert in der Regel ca. 15 bis 30 Minuten. 
@@ -120,13 +121,12 @@ Nicht bewertet und als Nullreaktion ausgeschrieben werden fehlende Realisationsv
 Für weitere ausführliche Erklärungen und Grenzfälle in der Bewertung siehe in das [Handbuch der Hierarchischen Wortlisten](https://www.ekn.phonetik.uni-muenchen.de/diagnostik_therapie/hwl/ekn_materialien_hwl.pdf) oder besuche die Therapiebibliothek in Golm. 
 
 Der Schweregrad in den Hierarchischen Wortlisten wird nach Ziegler et al. (2008) folgendermaßen prozentual bestimmt: 
-- über 75% korrekt = leichte SPX, 25-75% korrekt= mittelgradige SPX, unter 25% korrekt= schwere SPX
+über 75% korrekt = leichte SPX, 25-75% korrekt= mittelgradige SPX, unter 25% korrekt= schwere SPX
 
 Neben den drei Fehlerkategorien können auch noch weitere Merkmale wie Sprechanstrengung, Suchverhalten, silbisches Sprechen und veränderter Wortakzent mittels einer vierstufigen Skala 
 (0 – unauffällig bis 3 - stark ausgeprägt) auf dem Deckblatt erfasst und qualitativ ausgewertet werden. Diese dienen zur erweiterten Diagnostik und vor allem zur Abgrenzung sprechapraktischer  Störungen.
 Trotzdem bei jedem Untersucher die Fähigkeit des analytischen Hörens unterschiedlich stark ausgeprägt ist, kann man anhand der signifikanten Übereinstimmungen von einer guten Auswertungsobjektivität reden. Die Hierarchischen Wortlisten haben eine hohe innere Konsistenz und weisen eine gute Konstruktvalidität auf. Die Abbildung des Schweregrades in diesem Test stimmt mit klinischen Schweregradsurteilen überein. Es liegt jedoch keine ausführliche Normierung anhand von angegeben Prozenträngen, Normwerten oder Äquivalentnormen vor. 
-
-Dieses Screening-Verfahren ist nicht validiert, besitzt also keinen „Goldstandard“! 
+Dieses Screening-Verfahren ist nicht validiert. 
 
 **Weitere mögliche Diagnostikverfahren:**
 *	umfassende Spontansprachanalyse
@@ -150,7 +150,7 @@ Im Heilmittelkatalog von 2017 sind unter „Störungen der Sprechmotorik“ die 
 
 Diese Ziele sind sehr allgemein formuliert und sollten in Abhängigkeit vom Schweregrad des Patienten und der auftretenden Symptome folgendermaßen gewählt werden:
 
-Übergeordnetes Ziel: Verbesserung der Kommunikationsfähigkeit im Alltag.
+**Übergeordnetes Ziel**: Verbesserung der Kommunikationsfähigkeit im Alltag.
 
 leichte bis mittelschwere SPX:
 -	Verbesserung der Verständlichkeit 
@@ -188,7 +188,7 @@ Mögliche **Therapieziele** sind folgende:
 
 #### Therapieansätze 
 Je nach Symptomausprägung und Stimulierbarkeit des Patienten sollte ein passendes Therapieverfahren individuell ausgewählt werden. Wärend der Behandlung ist darauf zu achten, dass ganzheitliche wie auch segmentale Aspekte einbezogen werden. 
-Im Bereich des Störungsbildes der Sprechapraxie wurden fünf _Ansätze_ (Bereiche) entwickelt, nach denen man die Therapie, auch in Kombination miteinander, ausrichten kann:
+Im Bereich des Störungsbildes der Sprechapraxie wurden _fünf Ansätze_ (Bereiche) entwickelt, nach denen man die Therapie, auch in Kombination miteinander, ausrichten kann:
 
 **Rhythmisch-melodische Ansätze**
 Diese beschäftigen sich mit der unterstützten  Artikulation und Prosodie durch Hervorhebung ausgewählter rhythmischer und/ oder melodischer Äußerungselemente. 
@@ -209,7 +209,9 @@ Diese wenden gestische, visuelle oder taktil-kinästhetische Hinweise ein, um Sp
 **Alternative und/oder augmentative Kommunikationsformen**
 Diese sind für schwerbetroffene Patienten geeignet, welche trotz Therapie nicht in der Lage sind, expressive Äußerungen zu tätigen, bzw. können diese Strategien auch übergangsweise bei Therapiebeginn genutzt werden. 
    - Verfahren: nichtelektronische Kommunikationsformen - Kommunikationstafeln (Vanderheiden u. Grilley,1978), - Kommunikationsbücher (Bundesverband für die Rehabilitation der Aphasiker, 2005) und elektronische Kommunikationsformen (PuT, 2001)
-
+   
+![Kommunikationstafel] (https://pableo.files.wordpress.com/2008/10/komtafelresized.png)
+Kommunikationstafel
 
 #### Vermittlungstechniken
 Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche _Vermittlungstechniken_ zur Verfügung, die dem Patienten Verständnis für die Phonetik geben sollen, an welcher derzeit gearbeitet wird. Auch diese Techniken können/ sollten zur Unterstützung der Lautbildung miteinander kombiniert werden: 
@@ -229,7 +231,8 @@ Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche _Ve
 
 **Taktil-kinästhetisch** 
    - Hand des Therapeuten (Empfindungswahrnehmung von Lage und Bewegung)
-   - Spatel (intraorale Stimulierung); Beißblock (Diagnostik)
+   - Spatel (intraorale Stimulierung)
+   - Beißblock (Diagnostik)
    - Künstlicher Gaumen (Gefühl für Zungen-Gaumen-Koordination)
    - taktil-kinästhetische Hinweisreize (siehe TAKTKIN, standardisierte Zielkonfigurationen)
 
@@ -254,6 +257,7 @@ Um in der practice Phase gute Lerneffekte zu erzielen, sollten möglichst viele 
 **Hilfen** sollten wärend der Therapie nur so viele verwendet, wie auch unbedingt gebraucht werden. Der Abbau der Hilfenstrukturen sowie die Förderung des Patienten, sprachliche Äußerungen selbständig zu initiieren, werden allgemein angestrebt. 
 
 
+
 ## Weiterführende Links
 * [Sprechapraxie - dbl](https://www.dbl-ev.de/kommunikation-sprache-sprechen-stimme-schlucken/stoerungen-bei-erwachsenen/stoerungsbereiche/sprechen/sprechapraxie.html)
 * [Sprechapraxie: Leitfaden zur Diagnostik - dbl](https://test.dbl-ev.de/fileadmin/Inhalte/Dokumente/der_dbl/QM/leitfaden_sprechapraxie.pdf)
@@ -271,8 +275,13 @@ Um in der practice Phase gute Lerneffekte zu erzielen, sollten möglichst viele 
 * Siegmüller, J., & Bartels, H. (Eds.). (2017). Leitfaden Sprache Sprechen Stimme Schlucken. Elsevier Health Sciences.
 * Ziegler, W., Thelen, A. K., Staiger, A., & Liepold, M. (2008). The domain of phonetic encoding in apraxia of speech: Which sub‐lexical units count?. Aphasiology, 22(11), 1230-1247.
 
-* Abb.
+* Abb. Verlauf der mittleren Hirnarterie, Inselregion im Gehirn: Geissler, M., & Lauer, N. (2015). Sprechapraxie: ein Ratgeber für Betroffene und Angehörige. Schulz-Kirchner Verlag GmbH.
+* Abb. Levelt Modell: https://logopaediebachelor.files.wordpress.com/2012/09/levelt2.jpg
+* Abb. 10-Punkte-Checkliste: : Liepold, M., Ziegler, W., Brendel, B., & Ziegler, W. (2003). Hierarchische Wortlisten: ein Nachsprechtest für die Sprechapraxiediagnostik. Borgmann.
+* Abb. Hierarchische Wortlisten: https://www.ekn.phonetik.uni-muenchen.de/diagnostik_therapie/hwl/hwl.jpg
+* Abb. Beispiel-Liste: Liepold, M., Ziegler, W., Brendel, B., & Ziegler, W. (2003). Hierarchische Wortlisten: ein Nachsprechtest für die Sprechapraxiediagnostik. Borgmann.
 * Abb. Magnetresonanztomografie: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Echtzeit_MRT_-_Sprechen.ogv/256px--Echtzeit_MRT_-_Sprechen.ogv.jpg
+* Abb. Leitfaden zur Diagnostik: https://test.dbl-ev.de/fileadmin/Inhalte/Dokumente/der_dbl/QM/leitfaden_sprechapraxie.pdf
 
 
 

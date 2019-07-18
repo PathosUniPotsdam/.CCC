@@ -545,6 +545,7 @@ Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist e
 
 #### weiterführende Links
 - [www.lsvt.de](http://www.lsvt.de/start/)
+- [ICF und Dysarthrie](https://www.yumpu.com/de/document/read/6543347/icf-und-dysarthrie-deutscher-bundesverband-fur-logopadie-ev)
 - [aktuelle Leitlinien Dysarthrie](https://www.dgn.org/leitlinien/3647-ll-030-103-neurogene-sprechstoerungen-dysarthrien-2018)
 - [Dysarthrie - dbl](https://www.dbl-ev.de/kommunikation-sprache-sprechen-stimme-schlucken/stoerungen-bei-erwachsenen/stoerungsbereiche/komplexe-stoerungen/dysarthrie.html)
 - [SP6 - Heilmittelkatalog 2017](https://heilmittelkatalog.de/files/luxe/hmkonline/logo/sp6.htm)
@@ -554,6 +555,7 @@ Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist e
 - Darley, Aronson, Brown (1969). _Differential diagnostic patterns of dysarthria._ Journal of speech and hearing research, ASHA
 - Duffy, J. (2013). _Motor Speech Disorders- Substrates, Differential Diagnosis, and Management._ St. Louis: Elsevier Mosby
 - Enderby, Palmer (2012). _FDA-2 - Frenchay Dysarthrie Assessment._ 
+- Gröne, B. (2009). _ICF und Dysarthrie_ Forum Logopädie Heft 4, S. 16-21
 - Maas, E., et al. (2008). _Tutorial: Principles of Motor Learning in Treatment of Motor Speech Disorders._ American Journal of Speech-Language Pathology Vol. 17, S. 277-298
 - Schindelmeiser, J. (2005). _Anatomie und Physiologie für Sprachtherapeuten._ München: Urban & Fischer
 - Schubert, A. (2007). _Dysarthrie - Diagnostik, Therapie, Beratung._ Idstein: Schulz-Kirchner Verlag GmbH

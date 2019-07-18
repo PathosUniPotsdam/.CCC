@@ -20,7 +20,9 @@ Das Störungsbild wird den ideomotorischen Apraxien (Störung der Bewegungsplanu
 
 Das Auftreten einer Sprechapraxie kann verschiedene Ursachen haben, zumeist ist sie jedoch Folge eines Schlaganfalls (Insult, cerebrale Durchblutungsstörung) oder Schädel-Hirn-Traumas. Dabei wird linkshemisphärisches Hirngewebe vor allem rund um das Versorgungsgebiet der mittleren Hirnarterie „Arteria cerebri media“ irreversibel (nicht umkehrbar) beschädigt bzw. zerstört.  Die entstandenen Läsionen werden somit zumeist im Broca Areal, im motorischen Gesichtskortex, in der Inselregion und den darunter liegenden Marklagern oder/sowie in den angrenzenden Bereichen des frontalen Operculums identifiziert. 
 
-![Verlauf der mittleren Hirnarterie, Inselregion im Gehirn](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Verlauf%20der%20mittleren%20HInrarterie%20und%20Inselregion.JPG)
+![Verlauf der mittleren Hirnarterie, Inselregion im Gehirn](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/mittlere%20Hirnarterie%20und%20Inselregion.JPG)
+
+![Test](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/mittlere%20Hirnarterie%20und%20Inselregion.JPG)
 
 Nach Lauer & Birner-Janusch (2007) treten Sprechapraxien nur in etwa 10% der Fälle isoliert auf, d.h. ohne jegliche, zusätzliche Begleiterkrankung. Häufig verlaufen sie komorbid mit einer Hemiparese/ Facialisparese auf der rechten Seite, mit einer bukkofazialen Apraxie (BFA) und/oder einer Aphasie (APH). Bei den Aphasien handelt es sich aufgrund der Läsionslokalisation zumeist um eine Broca- Aphasie, Leitungsaphasie oder globale Aphasie. 
 Sprechapraxien können zum Beispiel aber auch bei Tumorerkrankungen, Entzündungen, choreatischen Krankheitsbildern, Multipler Sklerose, Ataxien (Störungen in der Koordination von Muskelbewegungen) und Dystonien (Bewegungsstörungen) auftreten. 

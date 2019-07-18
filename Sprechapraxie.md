@@ -110,8 +110,8 @@ Im Voraus werden alle benötigten Bögen, ein Stift sowie ein Tonbandgerät oder
 Die 10 bis 20-minütige Untersuchung findet in einem ruhigen Raum statt, wobei der Untersucher dem Patienten gegenüber sitzt. Laut und mit natürlicher Intonation spricht der Untersucher die Items einzeln vor und fordert den Patienten auf, diese im Anschluss nachzusprechen. 
 Das Zielitem kann auf Nachfrage oder bei Nullreaktion noch ein Mal erneut vorgegeben werden. Abgebrochen wird die Testung, wenn in drei aufeinanderfolgenden Listen jeweils mindestens drei nicht verwertbare Reaktionen auftreten. 
 
-![Beispiel für ausgefüllte Liste] (https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Beispiel%20Liste-klein.png)
-Beispiel für ausgefüllte Liste
+![Beispiel für ausgefüllte Liste](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Beispiel%20Liste-klein.png)
+Beispiel-Liste
 
 **Auswertung:** Das Auswerten aller Listen sollte von dem Untersucher selbst durchgeführt werden und dauert in der Regel ca. 15 bis 30 Minuten. 
 Anhand der Ton- oder Videoaufnahme kann der Untersucher jedes Item einzeln auditiv beurteilen und eine quantitative Auswertung durchführen. Tritt ein Fehler in der phonetischen Struktur, der phonematischen Struktur und/ oder des Redeflusses auf, so wird die jeweilige Kategorie angekreuzt. Bis zu drei Kreuze können bei einem Item vergeben werden. Bei einer korrekten Reaktion bleibt das Bewertungsfeld leer. 

@@ -328,7 +328,7 @@ Dysarthrien liegt eine neurologisch bedingte Bewegungsstörung zugrunde, weshalb
  
 Des Weiteren ist das Orientieren an den Prinzipien des motorischen Lernens für die Therapieplanung sehr sinnvoll. Beispielsweise können die Spezifität ("Specifity") und die Salienz ("Salience matters") maßgeblich den Therapieerfolg beeinflussen. 
 Die Art des Trainings beeinflusst auch die Art der hirnorganischen Veränderungen. 
-Funktionsverbesserungen und positive neuroplastische Veränderungen sind wahrscheinlicher, wenn in der Therapie komplexe Aufgaben und Umgebungen verwendet werden (Raymer et al., 2008, p. S263). Demnach sollten spezifische und komplexe Aufgaben für die Therapie gewählt werden.
+Funktionsverbesserungen und positive neuroplastische Veränderungen sind wahrscheinlicher, wenn in der Therapie komplexe Aufgaben und Umgebungen verwendet werden (Raymer et al., 2008, p. S263). 
 Die Therapie sollte ausreichend salient geplant werden, denn wenn der Patient durch transparente Erklärungen weiß worauf die Aufgaben der Therapie abzielen, hat er einen Alltagsbezug und kann sich so besser motivieren auch komplexere Aufgaben zu lösen.
 
 Meist besteht eine Interaktion zwischen medikamentöser und "klassischer"

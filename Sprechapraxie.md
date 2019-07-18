@@ -133,7 +133,7 @@ Dieses Screening-Verfahren ist nicht validiert, besitzt also keinen „Goldstand
 
 Neben eben genannten perzeptiven Diagnostikverfahren können bei Bedarf auch _apparative Diagnostikverfahren_ wie zum Beispiel eine Zungensonografie, Elektromyografie (EMG) oder Magnetresonanztomografie (MRT) angewendet werden. Diese kommen im Therapiealltag eher selten zum Einsatz, sondern werden in spezialisierten klinischen Einrichtungen durchgeführt. 
 
-
+![MRT](https://i.ytimg.com/vi/6dAEE7FYQfc/hqdefault.jpg)
 
 ## Therapie
 

@@ -23,7 +23,7 @@ Das Auftreten einer Sprechapraxie kann verschiedene Ursachen haben, zumeist ist 
 ![mittlere Hirnarterie](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Verlauf%20der%20mittleren%20Hirnarterie%20und%20Inselregion%20-%20Kopie.JPG)
 Verlauf der mittleren Hirnarterie, Inselregion im Gehirn 
 
-Nach Lauer & Birner-Janusch (2007) treten Sprechapraxien nur in etwa 10% der Fälle isoliert auf, d.h. ohne jegliche, zusätzliche Begleiterkrankung. Häufig verlaufen sie komorbid mit einer Hemiparese/ Facialisparese auf der rechten Seite, mit einer bukkofazialen Apraxie (BFA) und/oder einer Aphasie (APH). Bei den Aphasien handelt es sich aufgrund der Läsionslokalisation zumeist um eine Broca- Aphasie, Leitungsaphasie oder globale Aphasie. 
+Nach Lauer & Birner-Janusch (2007) treten Sprechapraxien nur in etwa 10% der Fälle isoliert auf, d.h. ohne jegliche, zusätzliche Begleiterkrankung. Häufig verlaufen sie komorbid (= Grunderkrankung + weiteres, diagnostisch abgrenzbares Krankheitsbild) mit einer Hemiparese/ Facialisparese auf der rechten Seite, mit einer bukkofazialen Apraxie (BFA) und/oder einer Aphasie (APH). Bei den Aphasien handelt es sich aufgrund der Läsionslokalisation zumeist um eine Broca- Aphasie, Leitungsaphasie oder globale Aphasie. 
 Sprechapraxien können zum Beispiel aber auch bei Tumorerkrankungen, Entzündungen, choreatischen Krankheitsbildern, Multipler Sklerose, Ataxien (Störungen in der Koordination von Muskelbewegungen) und Dystonien (Bewegungsstörungen) auftreten. 
  
 

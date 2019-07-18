@@ -117,7 +117,7 @@ Nicht bewertet und als Nullreaktion ausgeschrieben werden fehlende Realisationsv
 Für weitere ausführliche Erklärungen und Grenzfälle in der Bewertung siehe in das [Handbuch der Hierarchischen Wortlisten](https://www.ekn.phonetik.uni-muenchen.de/diagnostik_therapie/hwl/ekn_materialien_hwl.pdf) oder besuche die Therapiebibliothek in Golm. 
 
 Der Schweregrad in den Hierarchischen Wortlisten wird nach Ziegler et al. (2008) folgendermaßen prozentual bestimmt: 
- >75% korrekt = leichte SPX, 25-75% korrekt= mittelgradige SPX, <25% korrekt= schwere SPX
+- >75% korrekt = leichte SPX, 25-75% korrekt= mittelgradige SPX, <25% korrekt= schwere SPX
 
 Neben den drei Fehlerkategorien können auch noch weitere Merkmale wie Sprechanstrengung, Suchverhalten, silbisches Sprechen und veränderter Wortakzent mittels einer vierstufigen Skala 
 (0 – unauffällig bis 3 - stark ausgeprägt) auf dem Deckblatt erfasst und qualitativ ausgewertet werden. Diese dienen zur erweiterten Diagnostik und vor allem zur Abgrenzung sprechapraktischer  Störungen.
@@ -266,7 +266,7 @@ Um in der practice Phase gute Lerneffekte zu erzielen, sollten möglichst viele 
 * Ziegler, W., Thelen, A. K., Staiger, A., & Liepold, M. (2008). The domain of phonetic encoding in apraxia of speech: Which sub‐lexical units count?. Aphasiology, 22(11), 1230-1247.
 
 * Abb.
-* Abb.
+* Abb. Magnetresonanztomografie: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Echtzeit_MRT_-_Sprechen.ogv/256px--Echtzeit_MRT_-_Sprechen.ogv.jpg
 
 
 

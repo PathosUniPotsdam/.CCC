@@ -120,7 +120,7 @@ Nicht bewertet und als Nullreaktion ausgeschrieben werden fehlende Realisationsv
 
 Für weitere ausführliche Erklärungen und Grenzfälle in der Bewertung siehe in das [Handbuch der Hierarchischen Wortlisten](https://www.ekn.phonetik.uni-muenchen.de/diagnostik_therapie/hwl/ekn_materialien_hwl.pdf) oder besuche die Therapiebibliothek in Golm. 
 
-Der Schweregrad in den Hierarchischen Wortlisten wird nach Ziegler et al. (2008) folgendermaßen prozentual bestimmt: 
+Der _Schweregrad_ in den Hierarchischen Wortlisten wird nach Ziegler et al. (2008) folgendermaßen prozentual bestimmt: 
 
 - über 75% korrekt = leichte SPX
 - 25-75% korrekt= mittelgradige SPX
@@ -169,7 +169,7 @@ schwere SPX:
 -	Reduktion von Automatismen
 -	Sprachliche Aktivierung über Alltagsaktivitäten
 
-Je nachdem von welchen funktionellen Einschränkungen der sprechapraktische Patient beeinträchtigt ist, müssen Zielsetzung sowie Ausrichtung der Behandlung gewählt werden. Die Therapie sollte orientiert am Alltag des Patienten ausgerichtet werden, um dessen Aktivität und Teilhabe am täglichen, sozialen Leben zu ermöglichen bzw. zu verbessern. Funktionelle Ziele werdenden dabei patientenorientierten Zielen untergeordnet, auch „Top-down-Vorgehen“ genannt. 
+Je nachdem von welchen funktionellen Einschränkungen der sprechapraktische Patient beeinträchtigt ist, müssen Zielsetzung sowie Ausrichtung der Behandlung gewählt werden. Die Therapie sollte orientiert am Alltag des Patienten ausgerichtet werden, um dessen Aktivität und Teilhabe am täglichen, sozialen Leben zu ermöglichen bzw. zu verbessern. Funktionelle Ziele werdenden dabei patientenorientierten Zielen untergeordnet, auch „_Top-down-Vorgehen_“ genannt. 
 
 Mögliche **Therapieziele** sind folgende:
 
@@ -257,7 +257,8 @@ Die eben genannten Prinzipien könnten beispielsweise folgenderweise umgesetzt w
 
 Nach Maas et al. (2008) kann man folgende zwei Therapieeinheiten unterscheiden: 
 **„pre-practice“**  und **„practice“**. 
-Die pre-practice ist die Therapiephase, in der der eigentliche Bewegungsablauf erlernt wird – also eine „Vorübung“. Das Ziel liegt darin, den grundsätzlichen (motorischen) Plan zu erzeugen und die Programmierung zu vollziehen. Hier sollte (Klang-) zielorientiertes Feedback gegeben werden.                                                                                                               In der practice – Transferphase, kommt es dann zur eigentlichen Übung des bereits Erlernten. Es geht also um die Automatisierung bzw. Festigung des Bewegungsablaufs. Hier sollte ergebnisorientiertes Feedback gegeben werden. 
+Die pre-practice ist die Therapiephase, in der der eigentliche Bewegungsablauf erlernt wird – also eine „Vorübung“. Das Ziel liegt darin, den grundsätzlichen (motorischen) Plan zu erzeugen und die Programmierung zu vollziehen. Hier sollte (Klang-) zielorientiertes Feedback gegeben werden.                                                                                                               
+In der practice – Transferphase, kommt es dann zur eigentlichen Übung des bereits Erlernten. Es geht also um die Automatisierung bzw. Festigung des Bewegungsablaufs. Hier sollte ergebnisorientiertes Feedback gegeben werden. 
 Um in der practice Phase gute Lerneffekte zu erzielen, sollten möglichst viele Therapieeinheiten  mit variablen Zielstrukturen (in unterschiedlichen Kontexten) geplant werden, wobei diese auch miteinander zufällig vermischt werden sollten. 
 
 **Hilfen** sollten wärend der Therapie nur so viele verwendet, wie auch unbedingt gebraucht werden. Der Abbau der Hilfenstrukturen sowie die Förderung des Patienten, sprachliche Äußerungen selbständig zu initiieren, werden allgemein angestrebt. 

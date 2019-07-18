@@ -136,7 +136,7 @@ Neben eben genannten perzeptiven Diagnostikverfahren können bei Bedarf auch _ap
 
 ![Leitfaden zur Diagnostik](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Sprechapraxie%20Leitfaden%20zur%20Diagnostik%20-%20dbl-klein.png)
 
-![Branching] (https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiv0_6Ivb7jAhVCJFAKHX-4D94QjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fblog.zeit.de%252Fteilchen%252F2018%252F04%252F26%252Freden-anatomie-video-max-planck-gesellschaft%252F%26psig%3DAOvVaw1Oj3fuN8lbFcNSfrgEGQx4%26ust%3D1563539574542942&psig=AOvVaw1Oj3fuN8lbFcNSfrgEGQx4&ust=1563539574542942)
+![Magnetresonanztomografie](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiv0_6Ivb7jAhVCJFAKHX-4D94QjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fblog.zeit.de%252Fteilchen%252F2018%252F04%252F26%252Freden-anatomie-video-max-planck-gesellschaft%252F%26psig%3DAOvVaw1Oj3fuN8lbFcNSfrgEGQx4%26ust%3D1563539574542942&psig=AOvVaw1Oj3fuN8lbFcNSfrgEGQx4&ust=1563539574542942)
 Magnetresonanztomografie
 
 ## Therapie

@@ -90,7 +90,7 @@ Dieser Test ist nicht validiert!
 Die Hierarchischen Wortlisten von Liepold et. al (2003) bilden bisher das einzige Screening-Verfahren zur sprechapraktischen Diagnostik in Deutschland. Dieses perzeptive Verfahren ist bei leichter bis mittelschwerer Sprechapraxie anwendbar und ermöglicht als Nachsprechtest vor allem die Betrachtung von phonetischen sowie phonologischen Fehlern und des Redeflusses. Final kann ein Profil erstellt werden, welches Aussagen über den Wortlängeneinfluss, die Komplexität von Silbenstrukturen und der Lexikalität auf die Sprechfähigkeit hat.
 Dieser Test kann zudem zur Verlaufskontrolle angewendet werden.
 
-![Hierarchische Wortlisten](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Hierarchische%20Wortlisten-klein.jpg)
+![Hierarchische Wortlisten](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Hierarchische%20Wortlisten-kleinklein.jpg)
 Hierarchische Wortlisten
 
 **Material**: Die Hierarchischen Wortlisten umfassen 2 mal 8 Listen. Die Listen 1 bis 8 beinhalten bedeutungstragende Wörter und die Listen 9-16 beschäftigen sich mit Pseudowörtern (Logatomen), die jedoch parallel den Wörtern der ersten acht Listen in Bezug auf Wortlänge/ Silbenanzahl und Komplexität angepasst wurden. Jede Liste besteht aus je sechs Items, woraus sich also insgesamt ein Umfang von 96 Testaufgaben ergibt. Die verwendeten Wörter sind deutsche Nomina und wurden möglichst hochfrequent ausgewählt. Durch sie kann das deutsche Lautinventar überprüft werden. 
@@ -120,7 +120,7 @@ Nicht bewertet und als Nullreaktion ausgeschrieben werden fehlende Realisationsv
 Für weitere ausführliche Erklärungen und Grenzfälle in der Bewertung siehe in das [Handbuch der Hierarchischen Wortlisten](https://www.ekn.phonetik.uni-muenchen.de/diagnostik_therapie/hwl/ekn_materialien_hwl.pdf) oder besuche die Therapiebibliothek in Golm. 
 
 Der Schweregrad in den Hierarchischen Wortlisten wird nach Ziegler et al. (2008) folgendermaßen prozentual bestimmt: 
-- >75% korrekt = leichte SPX, 25-75% korrekt= mittelgradige SPX, <25% korrekt= schwere SPX
+- über 75% korrekt = leichte SPX, 25-75% korrekt= mittelgradige SPX, unter 25% korrekt= schwere SPX
 
 Neben den drei Fehlerkategorien können auch noch weitere Merkmale wie Sprechanstrengung, Suchverhalten, silbisches Sprechen und veränderter Wortakzent mittels einer vierstufigen Skala 
 (0 – unauffällig bis 3 - stark ausgeprägt) auf dem Deckblatt erfasst und qualitativ ausgewertet werden. Diese dienen zur erweiterten Diagnostik und vor allem zur Abgrenzung sprechapraktischer  Störungen.
@@ -139,10 +139,8 @@ Neben eben genannten perzeptiven Diagnostikverfahren können bei Bedarf auch _ap
 ![Magnetresonanztomografie](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Echtzeit_MRT_-_Sprechen.ogv/256px--Echtzeit_MRT_-_Sprechen.ogv.jpg)
 Magnetresonanztomografie
 
-![Magnetresonanztomografie](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Magnetresonanztomografie-gro%C3%9F.jpg)
-Magnetresonanztomografie
-
 ![Leitfaden zur Diagnostik](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Sprechapraxie%20Leitfaden%20zur%20Diagnostik%20-%20dbl-klein.png)
+
 Leitfaden zur Diagnostik
 
 ## Therapie

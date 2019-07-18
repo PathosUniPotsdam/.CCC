@@ -136,7 +136,7 @@ Neben eben genannten perzeptiven Diagnostikverfahren können bei Bedarf auch _ap
 
 ![Leitfaden zur Diagnostik](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Sprechapraxie%20Leitfaden%20zur%20Diagnostik%20-%20dbl-klein.png)
 
-![Branching](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Magnetresonanztomografie-gro%C3%9F.jpg)
+![Branching] (https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Magnetresonanztomografie-gro%C3%9F.jpg)
 Magnetresonanztomografie
 
 ## Therapie

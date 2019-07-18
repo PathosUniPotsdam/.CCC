@@ -180,7 +180,7 @@ Die Bogenhausener Dysarthrieskalen sind ein normiertes und validiertes Untersuch
 
 durchgeführt.
 
-Beispiel aus dem Material:
+Beispiel aus dem Material für die Aufgabe Bildbeschreibung:
 ![Bildergeschichte](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Bildergeschichte%20BoDys.png)
 
 Hilfreich ist es, die Reaktionen des Patienten mit einer Audio- oder Videoaufnahme für die Auswertung festzuhalten. Die Beurteilung erfolgt nämlich ausschließlich durch die auditive Wahrnehmung des Sprachtherapeuten. Hier führt möglichst viel Erfahrung mit der Erkennung von Merkmalen gesprochener Sprache und insbesondere pathologischer Auffälligkeiten zu einem besseren Ergebnis.
@@ -221,9 +221,9 @@ Anschließend sollte eine zweite Auswertung mit geänderter Auswertungsreihenfol
 
 #### Frenchay Dysarthria Assessment (FDA-2)
 
-Die Frenchay Dysarthrie Untersuchung ist eine thoretisch solide wissenschaftsbasierte methode zur schnellen, exakten Diagnose von Dysarthrien. Sie beinhaltet sprachliche und non-verbale Untersuchungsteile und ist relativ leicht, mit wenig Training und ohne große Hilfsmittel zuverlässig durchführbar. Erfahrung mit der Bewertung der Sprache von Dysarthrie Patienten trägt zu einem genauen Ergebnis bei. Die Reliabilität und Validität wurden durch mehrere Studien aus verschiedenen Ländern bestätigt. 
+Die Frenchay Dysarthrie Untersuchung ist eine thoretisch solide wissenschaftsbasierte Methode zur schnellen, exakten Diagnose von Dysarthrien. Sie beinhaltet sprachliche und non-verbale Untersuchungsteile und ist relativ leicht, mit wenig Training und ohne große Hilfsmittel zuverlässig durchführbar. Auch bei diesem Diagnostikinstrument trägt Erfahrung mit der Bewertung der Sprache von Dysarthrie Patienten zu einem genaueren Ergebnis bei. Die Reliabilität und Validität wurden durch mehrere Studien aus verschiedenen Ländern bestätigt. 
 
-Dieses Diagnostikverfahren besteht aus 7 Untertests sowie jeweils einem Abschnitt zu beeinflussenden und anderen Faktoren, die in weitere Einzelaufgaben unterteilt sind. Für den deutschen Sprachraum liegt in den meisten Untertests eine Normierung vor _(Ausnahme: Testteile „Verständlichkeit“, „Beeinflussende Faktoren“ und „Andere Faktoren“)_.
+Dieses Diagnostikverfahren besteht aus 7 Untertests sowie jeweils einem Abschnitt zu beeinflussenden Faktoren und anderen Faktoren, die in weitere Einzelaufgaben unterteilt sind. Für den deutschen Sprachraum liegt in den meisten Untertests eine Normierung vor _(Ausnahme: Testteile „Verständlichkeit“, „Beeinflussende Faktoren“ und „Andere Faktoren“)_.
 
 Untertests:
 - Reflexe
@@ -259,27 +259,13 @@ erforderliches Material:
 
 **Auswertung**
 
-In der Bewertungsskala werden 5 Stufen von a (normale Funktion) bis e (keine Funktion) vorgegeben. Es müssen nicht alle verschiedenen Symptome, die jeweils für die Bewertungsgrade a, b, c, d, e  angegeben sind, auftreten, um die beschriebene Bewertung zu erreichen. Zudem sind "Zwischenbewertungen" (z.B. zwischen c und d) möglich, wenn die Leistungen des Patienten nicht zu einem bestimmten Bewertungsgrad passt. Dadurch enthählt die Bewertungsskala 9 Bewertungsgrade (e = 0; a = 9). 
-Durch das direkte Eintragen der Testergebnisse im Diagramm, zeigt sich schnell welche Funktionen erhalten und welche beeinträchtigt zu sind. 
+In der Bewertungsskala werden 5 Stufen von a (normale Funktion) bis e (keine Funktion) vorgegeben. Es müssen nicht alle verschiedenen Symptome, die jeweils für die Bewertungsgrade a, b, c, d, e  angegeben sind, auftreten, um die beschriebene Bewertung zu erreichen. Zudem sind "Zwischenbewertungen" (z.B. zwischen c und d) möglich, wenn die Leistungen des Patienten nicht zu einem bestimmten Bewertungsgrad passen. Dadurch enthählt die Bewertungsskala 9 Bewertungsgrade (e = 0; a = 9). 
+Durch das direkte Eintragen der Testergebnisse im Diagramm, zeigt sich schnell welche Funktionen erhalten und welche beeinträchtigt zu sein scheinen. 
 Bestimmte Formen der Dysarthrie können anhand der Mittelwerte und Standardabweichungen eindeutig voneinander unterschieden werden. In der Handanweisung ist ein Überblick über 5 Ergebnismuster enthalten.
 
 #### Vergleich
 
-Anwendbarkeit zur Therapieableitung und –evaluation 
-
-**FDA-2**
-
-Vorteile:
-- 9 - Punkte - Skala 
-- grafische Darstellung in einem Säulendiagramm → Abbildung eines Testprofils / der Störungschwerpunkte (Therapieableitung gut möglich)
-- quantitative Bewertungen möglich → therapeutische Intervention kann abgeleitet, angepasst und in Verlaufsdiagnostik überprüft werden
-- Bewertungskriterien können Zwischenwerte erreichen
-- Bemerkungen für jede Aufgabe  
-
-Nachteile:
-- Mischung aus ätiologischer und symptomatischer Klassifikation
-- unterschiedliche Gewichtung der Funktionskreise (d.h. Respiration und Phonation wird weniger Beachtung geschenkt als Prosodie, Mundmotorik oder Reflexfunktionen)
-- hauptsächlich nichtsprachliche Störungsbereiche
+Anwendbarkeit zur Therapieableitung/–evaluation 
 
 **BoDys**
 
@@ -290,6 +276,22 @@ Vorteile:
 Nachteile:
 - Art der Beeinträchtigung aus Skalen nicht erkenntlich → gleiche Symptome / Merkmale aber unterschiedliche Störungsmechanismen 
 - Wichtig für Therapieableitung: liefert keine physiologischen Parameter der Sprechstörung
+
+**FDA-2**
+
+Vorteile:
+- 9-Punkte-Skala 
+- grafische Darstellung in einem Säulendiagramm → Abbildung eines Testprofils / der Störungschwerpunkte (Therapieableitung gut möglich)
+- quantitative Bewertungen möglich → therapeutische Intervention kann abgeleitet, angepasst und in Verlaufsdiagnostik überprüft werden
+- Bewertungskriterien können Zwischenwerte erreichen
+- Bemerkungen für jede Aufgabe  
+
+Nachteile:
+- Mischung aus ätiologischer und symptomatischer Klassifikation
+- unterschiedliche Gewichtung der Funktionskreise (d.h. Respiration und Phonation wird weniger Beachtung geschenkt als Prosodie, Mundmotorik oder Reflexfunktionen)
+- hauptsächlich nichtsprachliche Störungsbereiche
+
+
 
 | Merkmal                                                              | FDA-2   | BoDys   |
 |:---------------------------------------------------------------------|:--------|:--------|
@@ -310,7 +312,7 @@ Nachteile:
 
 Dysarthrien liegt eine neurologisch bedingte Bewegungsstörung zugrunde, weshalb es nicht ausreicht die Mund- und Zungenmotorik mit einem dysarthrischen Patienten zu üben. 
 
-Meist besteht also eine Interaktion zwischen medikamentöser und "klassischer"
+Meist besteht eine Interaktion zwischen medikamentöser und "klassischer"
 Therapie. Im Folgenden werden Beispiele für "klassische" Therapiemethoden aufgeführt, für die immer ein gut abgestimmtes Zusammenspiel aus 
 1. Positionierung
 2. Facio-orale Stimulation/ Bewegungsübungen
@@ -325,12 +327,12 @@ Da es zahlreiche Medikamente gibt, die eine Wirkung auf das motorische System ha
 
 **1. Positionierung**
 
-Durch eine gute Positionierung des Patienten kann der Tonus entsprechend reguliert werden. Bei einer *hypotonen* Dysarthrophonie ist demnach die Tonuserhöung und bei einer *hypertonen* Dysarthrophonie die Tonussenkung zielführend. Die Schlüsselpunkte des Patienten sollten übereinander sein, sodass es für Ihn leichter wird Sprechübungen möglichst genau durchzuführen. Die Stimme eines jeden Menschens wird durch die Körperhaltung beeinflusst. 
+Durch eine gute Positionierung des Patienten kann der Tonus entsprechend reguliert werden. Bei einer *hypotonen* Dysarthrophonie ist die Tonuserhöung und bei einer *hypertonen* Dysarthrophonie die Tonussenkung zielführend. Die Schlüsselpunkte des Patienten sollten übereinander sein, sodass es für Ihn leichter wird Sprechübungen möglichst genau durchzuführen. Die Stimme eines jeden Menschens wird durch die Körperhaltung beeinflusst. 
 
 ![Aufrichtung über die Schlüsselpunkte](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Aufrichtung%20über%20die%20Schlüsselpunkte.png)
 Aufrichtung über die Schlüsselpunkte
 
-Eine *Tonussenkung* kann erreicht werden, indem dem Patienten eine große Unterstützungsfläche gegeben wird. Diese Unterstützungsdfläche sollte an jeden Patienten idividuell angepssst werden und eine gute Arbeitsgrundlage schaffen. Die Arme des Patienten können z.B. durch Kissen etwas erhöht gelagert werden. In Verbindung mit einem Haltungshintergrund kann eine Aufrichtung des Schultergürtels, des Thorax und des Kopfes erreicht werden. Beispielsweise mit einer Decke, die um den Rumpf gewickelt wird, kann eine Sabilisierung der Rumpfmuskulatur erzielt werden. 
+Eine *Tonussenkung* kann erreicht werden, indem dem Patienten eine große Unterstützungsfläche gegeben wird, wodurch er sehr viel weniger eigene Muskelaktivität braucht, um sich aufrecht halten zu können. Diese Unterstützungsdfläche sollte an jeden Patienten idividuell angepasst werden und eine gute und für den Patienten möglichst angenehme Arbeitsgrundlage schaffen. Die Arme des Patienten können z.B. durch Kissen etwas erhöht gelagert werden. In Verbindung mit einer hohen Rückenlehne kann eine Aufrichtung des Schultergürtels, des Thorax und des Kopfes erreicht werden. Zudem kann beispielsweise mit einer Decke, die um den Rumpf gewickelt wird, eine Sabilisierung der Rumpfmuskulatur erzielt werden. 
 
 Eine *Tonuserhöhung* erreicht man, indem man die Unterstützungsfläche für den Patienten verkleinert. Der Patient muss dann den Muskeltonus erhöhen, um die Schlüsselpunkte übereinander halten zu können. Hierbei müssen die Therapeuten gut beobachten, wann der Patient erschöpft ist und sich nicht mehr selbstständig ohne seine gewohnte Unterstützungsfläche halten kann. Bei vielen Patienten kann die Unterstützungsfläche nur wenig reduziert werden. Ziel ist eine gute Haltung als Grundlage für die Sprechübungen zu bekommen, nicht das körperliche Training des Patienten!
 

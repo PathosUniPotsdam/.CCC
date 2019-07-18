@@ -20,6 +20,8 @@ Das Störungsbild wird den ideomotorischen Apraxien (Störung der Bewegungsplanu
 
 Das Auftreten einer Sprechapraxie kann verschiedene Ursachen haben, zumeist ist sie jedoch Folge eines Schlaganfalls (Insult, cerebrale Durchblutungsstörung) oder Schädel-Hirn-Traumas. Dabei wird linkshemisphärisches Hirngewebe vor allem rund um das Versorgungsgebiet der mittleren Hirnarterie „Arteria cerebri media“ irreversibel (nicht umkehrbar) beschädigt bzw. zerstört.  Die entstandenen Läsionen werden somit zumeist im Broca Areal, im motorischen Gesichtskortex, in der Inselregion und den darunter liegenden Marklagern oder/sowie in den angrenzenden Bereichen des frontalen Operculums identifiziert. 
 
+![Hirnarterie](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Arterie-min.png)
+
 ![Branching](https://blog.lecturio.de/wp-content/uploads/2015/10/Anatomy-of-Nose-Pharynx-Mouth-Larynx.jpg)
 Schluckanatomie
 

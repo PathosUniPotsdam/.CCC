@@ -122,9 +122,9 @@ Für weitere ausführliche Erklärungen und Grenzfälle in der Bewertung siehe i
 
 Der _Schweregrad_ in den Hierarchischen Wortlisten wird nach Ziegler et al. (2008) folgendermaßen prozentual bestimmt: 
 
-- über 75% korrekt = leichte SPX
-- 25-75% korrekt= mittelgradige SPX
-- unter 25% korrekt= schwere SPX
+-  über 75% korrekt = leichte SPX
+-    25-75% korrekt = mittelgradige SPX
+- unter 25% korrekt = schwere SPX
 
 Neben den drei Fehlerkategorien können auch noch weitere Merkmale wie Sprechanstrengung, Suchverhalten, silbisches Sprechen und veränderter Wortakzent mittels einer vierstufigen Skala 
 (0 – unauffällig bis 3 - stark ausgeprägt) auf dem Deckblatt erfasst und qualitativ ausgewertet werden. Diese dienen zur erweiterten Diagnostik und vor allem zur Abgrenzung sprechapraktischer  Störungen.

@@ -166,7 +166,7 @@ Die wesentlichen Merkmale zur Unterscheidung von einer Sprechapraxie und einer D
 
 Dysarthrische Patienten zeigen keine artikulatorischen Suchbewegungen, da die Planung intakt ist, aber eine fehlerhafte Koordination zu der Sprechstörung führt. Patienten mit einer Sprechapraxie haben einen fehlerhaften Plan mit dem Sie versuchen die intakten motorischen Funktionen zu steuern. Sobald der Fehler bemerkt wird, wird nach dem richtigen Plan gesucht, was durch artikulatorische Suchbewegungen sichtbar wird.
 
-Die Symptome einer Dysarthrie äußern sich konstant. Das Sprechen weist durchgehend die gleichen Störungen auf. Wohingegen Symptome einer Sprechapraxie inkonstant auftreten und es auch zu Inseln intakter Sprachproduktion kommen kann.
+Die Symptome einer Dysarthrie äußern sich konstant. Das Sprechen weist durchgehend die gleichen Defizite auf. Wohingegen Symptome einer Sprechapraxie inkonstant auftreten und es auch zu Inseln intakter Sprachproduktion kommen kann.
 
 ## Diagnostik
 _Im Folgenden werden zwei mögliche Diagnostikverfahren kurz vorgestellt und verglichen. Dies soll lediglich einen Überblick verschaffen und reicht nicht ausschließlich für die Durchführung aus. Bitte machen Sie sich vor der Anwendung mit den Handanweisungen der jeweiligen Verfahren vertraut!_

@@ -45,6 +45,8 @@ Bei einer Sprechapraxie haben alle Betroffenen Schwierigkeiten in der mündliche
 Zunächst ist es grundlegend, zwischen Sprechstörungen (Sprechapraxien, Dysarthrophonien) und Sprachstörungen (Aphasien) zu unterscheiden. Bei Sprachstörungen ist es den Betroffenen nicht möglich, Sprache richtig zu verstehen und zu verarbeiten sowie auf bestimmte Worte zuzugreifen und daraus korrekte Sätze zu bilden. Hier sind alle sprachlichen Modalitäten (Sprachproduktion, Sprachverständnis, Lesen und Schreiben) betroffen. Bei den Sprechstörungen sind diese Fähigkeiten nicht eingeschränkt. 
 Anhand des untenstehenden Sprachproduktionsmodells von Levelt (Levelt et al. 1989) lassen sich die unterschiedlichen Störungsschwerpunkte im System der verschiedenen Störungsbilder gut erkennen. 
 
+![Levelt Modell](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Levelt%20Modell-mittel.png)
+
 (blau = Aphasie, orange = Sprechapraxie, grün = Dysarthrophonie)
 
 

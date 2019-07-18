@@ -310,7 +310,21 @@ Nachteile:
 
 ## Therapie
 
-Dysarthrien liegt eine neurologisch bedingte Bewegungsstörung zugrunde, weshalb es nicht ausreicht die Mund- und Zungenmotorik mit einem dysarthrischen Patienten zu üben. 
+Dysarthrien liegt eine neurologisch bedingte Bewegungsstörung zugrunde, weshalb es nicht ausreicht die Mund- und Zungenmotorik mit einem dysarthrischen Patienten zu üben. Je nach Störungsort und Symptomatik können die Therapieschwerpunkte bei Dysarthrophonien sehr unterschiedlich aussehen. Dabei sollten die Therapieziele ICF-basiert im Hinblick auf folgende Punkte formuliert werden: 
+- Körperstrukturen (Störungslokalisation):
+  - Motorische Endplatte
+  - unteres (2.) motorisches Neuron (→ periphere Parese)
+  - oberes (1.) motorisches Neuron (→ zentrale Parese) 
+  - Basalganglien
+  - Cerebellum (Kleinhirn) 
+- Funktionen:
+  - Stimme
+  - Artikulation
+  - Redefluss und Sprechrhythmus
+  - alternative stimmliche Äußerungen
+- Partizipation/ Teilhabe:
+  - Kommunizieren als Sender (z.B. wieder im Kundenservice arbeiten können)
+  - Konversationen und Gebrauch von Kommunikationsgeräten und -techniken
 
 Meist besteht eine Interaktion zwischen medikamentöser und "klassischer"
 Therapie. Im Folgenden werden Beispiele für "klassische" Therapiemethoden aufgeführt, für die immer ein gut abgestimmtes Zusammenspiel aus 

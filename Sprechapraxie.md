@@ -51,7 +51,7 @@ Levelt Modell
 (blau = Aphasie, orange = Sprechapraxie, grün = Dysarthrophonie)
 
 
-Da die Sprechapraxie in den meisten Fällen assoziiert bzw. kombiniert mit Aphasie und/ oder Dysarthrophonie auftritt, ist das Durchführen einer Differentialdiagnostik unerlässlich, wenn auch erschwert, da sich die Störungsbilder zum Teil ähneln.
+Da die Sprechapraxie in den meisten Fällen assoziiert bzw. kombiniert mit Aphasie und/ oder [Dysarthrophonie](https://pathosunipotsdam.github.io/PathosUniPotsdam/Dysarthrophonie.html) auftritt, ist das Durchführen einer Differentialdiagnostik unerlässlich, wenn auch erschwert, da sich die Störungsbilder zum Teil ähneln.
 Um dies zu ermöglichen, ist es grundlegend, verschiedene Diagnostikinstrumente, auch zu den anderen beiden Störungsbildern, durchzuführen. 
 
 Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder, ausgehend von den sprechapraktischen Symptomen.

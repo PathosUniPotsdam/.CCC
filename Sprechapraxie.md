@@ -20,8 +20,6 @@ Das Störungsbild wird den ideomotorischen Apraxien (Störung der Bewegungsplanu
 
 Das Auftreten einer Sprechapraxie kann verschiedene Ursachen haben, zumeist ist sie jedoch Folge eines Schlaganfalls (Insult, cerebrale Durchblutungsstörung) oder Schädel-Hirn-Traumas. Dabei wird linkshemisphärisches Hirngewebe vor allem rund um das Versorgungsgebiet der mittleren Hirnarterie „Arteria cerebri media“ irreversibel (nicht umkehrbar) beschädigt bzw. zerstört.  Die entstandenen Läsionen werden somit zumeist im Broca Areal, im motorischen Gesichtskortex, in der Inselregion und den darunter liegenden Marklagern oder/sowie in den angrenzenden Bereichen des frontalen Operculums identifiziert. 
 
-![Verlauf der mittleren Hirnarterie, Inselregion im Gehirn](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/mittlere%20Hirnarterie%20und%20Inselregion.JPG)
-
 ![Branching](https://blog.lecturio.de/wp-content/uploads/2015/10/Anatomy-of-Nose-Pharynx-Mouth-Larynx.jpg)
 Schluckanatomie
 
@@ -50,7 +48,6 @@ Anhand des untenstehenden Sprachproduktionsmodells von Levelt (Levelt et al. 198
 
 (blau = Aphasie, orange = Sprechapraxie, grün = Dysarthrophonie)
 
-![Modell der Sprachproduktion, Levelt et al. 1989](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Levelt%20Modell-mittel.png)
 
 Da die Sprechapraxie in den meisten Fällen assoziiert bzw. kombiniert mit Aphasie und/ oder Dysarthrophonie auftritt, ist das Durchführen einer Differentialdiagnostik unerlässlich, wenn auch erschwert, da sich die Störungsbilder zum Teil ähneln.
 Um dies zu ermöglichen, ist es grundlegend, verschiedene Diagnostikinstrumente, auch zu den anderen beiden Störungsbildern, durchzuführen. 
@@ -84,13 +81,11 @@ Das mögliche Vorliegen einer Sprechapraxie kann zum Beispiel mit dem Screening 
 Alles in allem sind eine sichere Diagnosestellung sowie eine Profilbildung mit diesem Test jedoch nicht möglich, da einzelne Punkte auch auf eine Dysarthrie (Punkt 3. und 6.) oder Aphasie (Punkt 9.) deuten können. Weitere Diagnostiken sollten dementsprechend vorgenommen werden. 
 Dieser Test ist nicht validiert!
 
-![10-Punkte-Checkliste](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/10-Punkte-Checkliste-klein.png)
 
 #### Hierarchische Wortlisten 
 Die Hierarchischen Wortlisten von Liepold et. al (2003) bilden bisher das einzige Screening-Verfahren zur sprechapraktischen Diagnostik in Deutschland. Dieses perzeptive Verfahren ist bei leichter bis mittelschwerer Sprechapraxie anwendbar und ermöglicht als Nachsprechtest vor allem die Betrachtung von phonetischen sowie phonologischen Fehlern und des Redeflusses. Final kann ein Profil erstellt werden, welches Aussagen über den Wortlängeneinfluss, die Komplexität von Silbenstrukturen und der Lexikalität auf die Sprechfähigkeit hat.
 Dieser Test kann zudem zur Verlaufskontrolle angewendet werden.
 
-![Hierarchische Wortlisten](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Hierarchische%20Wortlisten-klein.jpg)
 
 **Material**: Die Hierarchischen Wortlisten umfassen 2 mal 8 Listen. Die Listen 1 bis 8 beinhalten bedeutungstragende Wörter und die Listen 9-16 beschäftigen sich mit Pseudowörtern (Logatomen), die jedoch parallel den Wörtern der ersten acht Listen in Bezug auf Wortlänge/ Silbenanzahl und Komplexität angepasst wurden. Jede Liste besteht aus je sechs Items, woraus sich also insgesamt ein Umfang von 96 Testaufgaben ergibt. Die verwendeten Wörter sind deutsche Nomina und wurden möglichst hochfrequent ausgewählt. Durch sie kann das deutsche Lautinventar überprüft werden. 
 
@@ -109,7 +104,7 @@ Im Voraus werden alle benötigten Bögen, ein Stift sowie ein Tonbandgerät oder
 Die 10 bis 20-minütige Untersuchung findet in einem ruhigen Raum statt, wobei der Untersucher dem Patienten gegenüber sitzt. Laut und mit natürlicher Intonation spricht der Untersucher die Items einzeln vor und fordert den Patienten auf, diese im Anschluss nachzusprechen. 
 Das Zielitem kann auf Nachfrage oder bei Nullreaktion noch ein Mal erneut vorgegeben werden. Abgebrochen wird die Testung, wenn in drei aufeinanderfolgenden Listen jeweils mindestens drei nicht verwertbare Reaktionen auftreten. 
 
-![Beispielliste](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Beispiel%20Liste-klein.png)
+
 
 **Auswertung:** Das Auswerten aller Listen sollte von dem Untersucher selbst durchgeführt werden und dauert in der Regel ca. 15 bis 30 Minuten. 
 Anhand der Ton- oder Videoaufnahme kann der Untersucher jedes Item einzeln auditiv beurteilen und eine quantitative Auswertung durchführen. Tritt ein Fehler in der phonetischen Struktur, der phonematischen Struktur und/ oder des Redeflusses auf, so wird die jeweilige Kategorie angekreuzt. Bis zu drei Kreuze können bei einem Item vergeben werden. Bei einer korrekten Reaktion bleibt das Bewertungsfeld leer. 
@@ -134,10 +129,7 @@ Dieses Screening-Verfahren ist nicht validiert, besitzt also keinen „Goldstand
 
 Neben eben genannten perzeptiven Diagnostikverfahren können bei Bedarf auch _apparative Diagnostikverfahren_ wie zum Beispiel eine Zungensonografie, Elektromyografie (EMG) oder Magnetresonanztomografie (MRT) angewendet werden. Diese kommen im Therapiealltag eher selten zum Einsatz, sondern werden in spezialisierten klinischen Einrichtungen durchgeführt. 
 
-![Leitfaden zur Diagnostik](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Sprechapraxie%20Leitfaden%20zur%20Diagnostik%20-%20dbl-klein.png)
 
-![Magnetresonanztomografie](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiv0_6Ivb7jAhVCJFAKHX-4D94QjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fblog.zeit.de%252Fteilchen%252F2018%252F04%252F26%252Freden-anatomie-video-max-planck-gesellschaft%252F%26psig%3DAOvVaw1Oj3fuN8lbFcNSfrgEGQx4%26ust%3D1563539574542942&psig=AOvVaw1Oj3fuN8lbFcNSfrgEGQx4&ust=1563539574542942)
-Magnetresonanztomografie
 
 ## Therapie
 

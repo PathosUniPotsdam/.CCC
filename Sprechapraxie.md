@@ -80,7 +80,7 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder, ausgehe
 
 #### 10-Punkte- Checkliste
 Das mögliche Vorliegen einer Sprechapraxie kann zum Beispiel mit dem Screening der 10-Punkte-Checkliste aus den „Hierarchischen Wortlisten“ (Liepold et. al, 2003) überprüft werden.  Diese Liste besteht aus 10 aufeinanderfolgenden Fragen, die jeweils nur mit „Ja“ oder „Nein“ beantwortet werden. Die zeitsparende Testung wird von dem Untersucher selbst ausgeführt, dabei stützt er sich auf Fakten aus Anamnese, Spontansprachanalyse und anderen Vorbefunden.  Es handelt sich um eine rein quantitative Auswertung, denn je mehr Ja-Antworten gegeben werden, desto höher ist die Wahrscheinlichkeit für das Vorliegen einer Sprechapraxie. Vor allem die Punkte 2. und 3. sind hierbei obligatorisch. Punkt 7. sowie 8. verdeutlichen die Ausprägung des Störungsbewusstseins und Punkt 10. kann auf eine bukkofaziale Apraxie hindeuten, welche die Therapie bei einem nichtsprachlichen Ansatz stark einschränken würde. 
-Alles in allem sind eine sichere Diagnosestellung sowie eine Profilbildung mit diesem Test jedoch nicht möglich, da einzelne Punkte auch auf eine Dysarthrie (Punkt 3. und 6.) oder Aphasie (Punkt 9.) deuten können. Weitere Diagnostiken sollten dementsprechend vorgenommen werden. 
+Alles in allem sind eine sichere Diagnosestellung sowie eine Profilbildung mit diesem Test jedoch nicht möglich, da einzelne Punkte auch auf eine Dysarthrophonie (Punkt 3. und 6.) oder Aphasie (Punkt 9.) deuten können. Weitere Diagnostiken sollten dementsprechend vorgenommen werden. 
 Dieser Test ist nicht validiert!
 
 ![10-Punkte-Checkliste](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/10-Punkte-Checkliste-klein.png)

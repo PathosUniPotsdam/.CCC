@@ -76,7 +76,7 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder, ausgehe
 
 ## Diagnostik
 
-Allgemeine diagnostische Fragestellung: Liegt bei dem getesteten Patienten eine Sprechapraxie vor? Wenn ja, wie stark ist diese ausgeprägt (leicht-, mittel-, schwergradig) und mit welchem Störungsschwerpunkt (segmental oder suprasegmental)?
+**Allgemeine diagnostische Fragestellung:** Liegt bei dem getesteten Patienten eine Sprechapraxie vor? Wenn ja, wie stark ist diese ausgeprägt (leicht-, mittel-, schwergradig) und mit welchem Störungsschwerpunkt (segmental oder suprasegmental)?
 
 #### 10-Punkte- Checkliste
 Das mögliche Vorliegen einer Sprechapraxie kann zum Beispiel mit dem Screening der 10-Punkte-Checkliste aus den „Hierarchischen Wortlisten“ (Liepold et. al, 2003) überprüft werden.  Diese Liste besteht aus 10 aufeinanderfolgenden Fragen, die jeweils nur mit „Ja“ oder „Nein“ beantwortet werden. Die zeitsparende Testung wird von dem Untersucher selbst ausgeführt, dabei stützt er sich auf Fakten aus Anamnese, Spontansprachanalyse und anderen Vorbefunden.  Es handelt sich um eine rein quantitative Auswertung, denn je mehr Ja-Antworten gegeben werden, desto höher ist die Wahrscheinlichkeit für das Vorliegen einer Sprechapraxie. Vor allem die Punkte 2. und 3. sind hierbei obligatorisch. Punkt 7. sowie 8. verdeutlichen die Ausprägung des Störungsbewusstseins und Punkt 10. kann auf eine bukkofaziale Apraxie hindeuten, welche die Therapie bei einem nichtsprachlichen Ansatz stark einschränken würde. 
@@ -122,7 +122,9 @@ Für weitere ausführliche Erklärungen und Grenzfälle in der Bewertung siehe i
 
 Der Schweregrad in den Hierarchischen Wortlisten wird nach Ziegler et al. (2008) folgendermaßen prozentual bestimmt: 
 
-über 75% korrekt = leichte SPX, 25-75% korrekt= mittelgradige SPX, unter 25% korrekt= schwere SPX
+- über 75% korrekt = leichte SPX
+- 25-75% korrekt= mittelgradige SPX
+- unter 25% korrekt= schwere SPX
 
 Neben den drei Fehlerkategorien können auch noch weitere Merkmale wie Sprechanstrengung, Suchverhalten, silbisches Sprechen und veränderter Wortakzent mittels einer vierstufigen Skala 
 (0 – unauffällig bis 3 - stark ausgeprägt) auf dem Deckblatt erfasst und qualitativ ausgewertet werden. Diese dienen zur erweiterten Diagnostik und vor allem zur Abgrenzung sprechapraktischer  Störungen.

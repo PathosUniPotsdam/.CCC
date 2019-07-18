@@ -46,8 +46,8 @@ Dysarthrophonien treten in unterschiedlicher Form und mit einer variierenden Sym
 
 | Syndrome                     | Lokalisation der Funktionsstörung                                          |
 |:-----------------------------|:---------------------------------------------------------------------------|
-| hypotone (schlaffe) DAP      | Motorische Endplatte, unteres (2.) motorisches Neuron (→periphere Parese)  |                        
-| hypertone (spastische) DAP   | oberes (1.) motorisches Neuron (→zentrale Parese)                          |
+| hypotone (schlaffe) DAP      | Motorische Endplatte, unteres (2.) motorisches Neuron (→ periphere Parese) |                        
+| hypertone (spastische) DAP   | oberes (1.) motorisches Neuron (→ zentrale Parese)                         |
 | Hyperkinetisch - dystone DAP | Basalganglien                                                              |
 | Hypokinetisch - rigide DAP   | Basalganglien                                                              |
 | Ataktische DAP               | Cerebellum (Kleinhirn)                                                     |
@@ -343,13 +343,13 @@ Die facio-orale Stimulation dient zur Vorbereitung und Voraktivierung der Muskul
 Tonuserhöhend wirkt:
 - Kälte/ Eisapplikation
 - Tapping, leichte Wischbewegungen mit wenig Druck
-- Quick-Stretch -> schnelle Vordehnungen bewirken Muskelkontraktion
+- Quick-Stretch → schnelle Vordehnungen bewirken Muskelkontraktion
 - maschinelle Vibration (z.B. elektrische Zahnbürste)
 
 Tonussenkend wirkt:
 - (neutrale) Wärme
 - langsame, streichende Bewegungen mit deutlichem Druck
-- Traktion und Rotation (Zug und Drehbewegungen) -> Muskeln sanft dehnen
+- Traktion und Rotation (Zug und Drehbewegungen) → Muskeln sanft dehnen
 - manuelle Vibration
 
 **3. Sprechübungen**
@@ -372,7 +372,7 @@ reduzierte Muskelaktivität anfordern, z.B. durch
 
 Zu den Therapiezielen im Funktionskreis Respiration zählt die Verbesserung der Atem-Sprech-Koordination und Sprechphasenlänge sowie die Regulation des subglottischen und oropharyngealen Anblasedrucks, um Voraussetzungen für die Funktionskreise Phonation, Resonanz & Artikulation zu schaffen.
 
-Der Wirkmechanismus, um diese Ziele zu erreichen, beinhaltet die Erhöhung des Atemvolumens: tiefere Einatmung sowie eine längere Ausatmung um längere Sprechphasen zu erlangen. Mehr Einatemvolumen führt zu mehr expiratorischem Flow und demnach ist ein höherer Anblasedruck vorhanden.
+Der Wirkmechanismus, um diese Ziele zu erreichen, beinhaltet die Erhöhung des Atemvolumens: tiefere Einatmung sowie eine längere Ausatmung, um längere Sprechphasen zu erlangen. Mehr Einatemvolumen führt zu mehr expiratorischem Flow und demnach ist ein höherer Anblasedruck vorhanden.
 
 **Respiration**
 
@@ -399,7 +399,7 @@ Wahrnehmung z.B.:
 und zur Differenzierung zwischen Mund- und Nasenatmung z.B.:
 - Sniffing („Schnüffeln“)
 - Pustübungen
-- Einatmen -> Nase, Ausatmen -> Mund
+- Nase → Einatmen, Mund → Ausatmen
 - Durch ein Nasenloch ein- durch das andere ausatmen
 
 sein.
@@ -410,17 +410,20 @@ Bei einer *hypotonen* DAP bieten sich z.B. folgende Übungen an:
 
 - „Sphinkter“ - Aktivierung: Sprechübungen mit kräftigem Drücken, Schieben, Heben
 - Husten, Räuspern, „Ventiltönchen“, Luftanhalten mit offenem Mund
-- „harte“ Stimmeinsätze (initiale Vokale), Stop & Go
-- Glissandi/ Tonleiter aufwärts, intensive, kraftvolle Tonhalteübungen (-> LSVT)
+- „harte“ Stimmeinsätze (initiale Vokale) 
+- Stop & Go
+- Glissandi/ Tonleiter aufwärts
+- intensive, kraftvolle Tonhalteübungen (→ LSVT)
 - semi-occluded vocal tract exercises (LAXVOX, Akzentmethode, Lippenflattern, /v, z/...)
 
 Bei einer *hypertonen* DAP bieten sich z.B. folgende Übungen an:
 
-- „Sphinkter“-Deaktivierung: Sprechübungen mit Bewegungen zum Körper hin (Ziehen, rotatorische und transversale Bewegungen, Massage/ Dehnung/ Entspannung)
+- „Sphinkter“-Deaktivierung: Sprechübungen mit Bewegungen zum Körper hin (Ziehen, rotatorische/ transversale Bewegungen, Massage/ Dehnung/ Entspannung)
 - Hauchen, Seufzen, „Lachen“
 - “weiche“/ behauchte Stimmeinsätze, initiales /h/
-- Tonhalten/ Zählen/ etc. mit Lautstärkemodulation (leiser), 
-- Glissandi/ Tonleiter abwärts, Tonhalten mit Tonhöhenmodulation
+- Tonhalten/ Zählen/ etc. mit Lautstärkemodulation (leiser) 
+- Glissandi/ Tonleiter abwärts
+- Tonhalten mit Tonhöhenmodulation
 - LAXVOX
 
 **Resonanz**

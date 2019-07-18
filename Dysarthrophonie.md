@@ -532,6 +532,7 @@ Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist e
 
 ## Quellen
 - Betke, I. et al.(2010). _ArtikuList - Wortlisten zur Behandlung von Artikulationsstörungen._ NAT-Verlag
+- Darley, Aronson, Brown (1969). _Differential diagnostic patterns of dysarthria._ Journal of speech and hearing research, ASHA
 - Duffy, J. (2013). _Motor Speech Disorders- Substrates, Differential Diagnosis, and Management._ St. Louis: Elsevier Mosby
 - Enderby, Palmer (2012). _FDA-2 - Frenchay Dysarthrie Assessment._ 
 - Maas, E., et al. (2008). _Tutorial: Principles of Motor Learning in Treatment of Motor Speech Disorders._ American Journal of Speech-Language Pathology Vol. 17, S. 277-298

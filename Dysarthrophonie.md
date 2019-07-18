@@ -318,7 +318,7 @@ Dysarthrien liegt eine neurologisch bedingte Bewegungsstörung zugrunde, weshalb
   - Basalganglien
   - Cerebellum (Kleinhirn) 
 - Funktionen:
-  - Stimme
+  - Stimme (z.B. Verbesserung der Stimmbildung)
   - Artikulation
   - Redefluss und Sprechrhythmus
   - alternative stimmliche Äußerungen
@@ -476,7 +476,7 @@ Weitere Therapieziele sind:
 - Kompensation der Instabilität (Strategien zur Verbesserung der Rumpfkontrolle)
 - verbesserte Koordination von Atmung–Phonation–Artikulation
 - „Kontrolle wiederfinden“ über die Sprechbewegungen
-- Verbesserte Selbsteinschätzung -> bessere Kontrollfähigkeit und Transfer
+- Verbesserte Selbsteinschätzung → bessere Kontrollfähigkeit und Transfer
 
 **Respiration**
 
@@ -501,9 +501,9 @@ Weitere Therapieziele sind:
 Koordination von Kiefer- und Zungenbewegungen:
 - Kieferöffnen und –schließen dabei Zungenspitze an den Alveolen
 - “Zähne zählen“: mit der Zungenspitze die Zähne nacheinander antippen
-- Diphtonge/ Silben (Wörter mit Diphtongen abwechselnd sprechen -> Rhythmisierung)
+- Diphtonge/ Silben (Wörter mit Diphtongen abwechselnd sprechen → Rhythmisierung)
 
-Didaochokinese
+Didaochokinese:
 - Wörter mit systematischem Artikulationsort Wechseln
 - Clusteraufbau 
 

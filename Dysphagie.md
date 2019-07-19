@@ -266,7 +266,7 @@ Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als au
 #### ÜBERSICHT THERAPEUTISCHER INTERVENTIONEN: 
 [Dysphagie-Merkblatt für Therapeuten nach Alexander Fillbrandt](https://madoo.net/15853/dysphagie-merkblatt-fuer-therapeuten-stoerung-und-passende-verfahren/)
 
-## Weiterführende Links:
+## Weiterführende Links
 * [dysphagie.ch](https://www.dysphagie.ch/)
 * [dysphagie-therapie.info](https://dysphagie-therapie.info/dysphagie-therapie/)
 * [das-dysphagiezentrum.de](https://www.das-dysphagiezentrum.de/wasistdysphagie.html)
@@ -274,7 +274,7 @@ Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als au
 * [Iss Nix! Podcast](https://iss-nix.de/)
 
 
-## Quellen:
+## Quellen
 * Bartolome, G., & Schröter-Morasch, H. (Herausgeber). (2018). Schluckstörungen Interdisziplinäre Diagnostik und Rehabilitation (6. Aufl.). München: Elsevier. 
 * Hotzenköcherle, S. (2013). Dysphagie: Diagnostik und Therapie. Schweiz Z Ernährungsmed, 2, 6-11.
 * Hotzenköcherle, S. & Schwegler, H. Dysphagie oder Schluckstörungen Schweiz [online]. Abgerufen von https://www.dysphagie.ch.

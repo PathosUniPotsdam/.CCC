@@ -56,7 +56,7 @@ Dysarthrophonien treten in unterschiedlicher Form und mit einer variierenden Sym
 
 Betroffene werden aufgrund Ihrer verwaschenen Sprache oft des Alkoholismus beschuldigt. Diese negativen Reaktionen von Kommunikationspartnern rufen oft depressive Begleitsymptome bei den Betroffenen hervor. Denn soweit keine weiteren Erkrankungen vorliegen sind Sie kognitiv unbeeinträchtigt und haben ein Störungsbewusstsein.
 
-#### Funktionskreise
+#### FUNKTIONSKREISE
 Verständliches Sprechen ist nur möglich, wenn die richtigen Muskeln der Funktionskreise mit dem richtigen Tonus richtig koordiniert werden.
 
 ![Octocat](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Bildschirmfoto%202019-05-25%20um%2013.08.10.png?raw=true)
@@ -64,7 +64,7 @@ _Abb.1 Funktionskreise der Sprechfunktion_
 
 Sobald eine Störung vorliegt, kommt es zu diversen Symptomen in den verschiedenen Funktionskreisen.
 
-#### 1. Hypotone (schlaffe) Dysarthrophonie
+#### 1. HYPOTONE (SCHLAFFE) DYSARTHROPHONIE
   - **Sprechatmung** 
     - verkürzte Sprechphasen
     - häufiges Zwischenatmen
@@ -82,7 +82,7 @@ Sobald eine Störung vorliegt, kommt es zu diversen Symptomen in den verschieden
     - monotone Intonation
     - vermehrte Sprechpausen
     
-#### 2. Hypertone (spastische) Dysarthrophonie
+#### 2. HYPERTONE (SPASTISCHE) DYSARTHROPHONIE
   - **Sprechatmung**
     - verkürzte Sprechphasen
     - häufiges, teilweise hörbares Zwischenatmen
@@ -100,7 +100,7 @@ Sobald eine Störung vorliegt, kommt es zu diversen Symptomen in den verschieden
     - monotone Intonation
     - vermehrte Sprechpausen
  
-#### 3. Hyperkinetisch-dystone Dysarthrophonie
+#### 3. HYPERKINETISCH-DYSTONE DYSARTHROPHONIE
   - **Sprechatmung**
     - wechselnd, teilweise paradox
     - intermittierend forcierte Ein- und Ausatmung
@@ -117,7 +117,7 @@ Sobald eine Störung vorliegt, kommt es zu diversen Symptomen in den verschieden
     - normales bis beschleunigtes Sprechtempo
     - Akzentverschiebungen
     
-#### 4. Rigid - hypokinetische Dysarthrophonie
+#### 4. RIGID - HYPOKINETISCHE DYSARTHROPHONIE
   - **Sprechatmung**
     - verkürzte Sprechphasen
     - häufiges, teilweise hörbares Zwischenatmen
@@ -135,7 +135,7 @@ Sobald eine Störung vorliegt, kommt es zu diversen Symptomen in den verschieden
     - monotone Intonation
     - Neigung zu Palilalie (Wiederholung von Silben, Wörtern oder Phrasenteilen)
     
-#### 5. Ataktische Dysarthrophonie
+#### 5. ATAKTISCHE DYSARTHROPHONIE
   - **Sprechatmung**
     - paradoxes Atemmuster
     - inadäquate Einatempausen
@@ -173,7 +173,7 @@ Die Symptome einer Dysarthrie äußern sich konstant. Das Sprechen weist durchge
 ## Diagnostik
 _Im Folgenden werden zwei mögliche Diagnostikverfahren kurz vorgestellt und verglichen. Dies soll lediglich einen Überblick verschaffen und reicht nicht ausschließlich für die Durchführung aus. Bitte machen Sie sich vor der Anwendung mit den Handanweisungen der jeweiligen Verfahren vertraut!_
 
-#### Bogenhausener Dysarthrieskalen (BoDys)
+#### BOGENHAUSENER DYSARTHRIESKALEN (BoDys)
 Die Bogenhausener Dysarthrieskalen sind ein normiertes und validiertes Untersuchungsmaterial für die Diagnostik einer Dysarthrophonie. Die Ergebnisse ermöglichen eine Einschätzung des Gesamtschweregrades sowie ausfürliche Hinweise auf Störunngschwerpunkte anhand der Erstellung eines Störungsprofils. Es werden ausschließlich sprachliche Untersuchungsaufgaben in den Modalitäten
 - _Spontansprache_,
 - _Nachsprechen_,
@@ -225,7 +225,7 @@ In dem Störungsprofil (siehe Protokollbogen) können die Leistungen des Patient
 
 Anschließend sollte eine zweite Auswertung mit geänderter Auswertungsreihenfolge erstellt werden, um mögliche Verfälschungen durch Reihenfolgeeffekte ausschließen zu können.
 
-#### Frenchay Dysarthria Assessment (FDA-2)
+#### FRENCHAY DYSARTHRIA ASSESSMENT (FDA-2)
 
 Die Frenchay Dysarthrie Untersuchung ist eine thoretisch solide wissenschaftsbasierte Methode zur schnellen, exakten Diagnose von Dysarthrien. Sie beinhaltet sprachliche und non-verbale Untersuchungsteile und ist relativ leicht, mit wenig Training und ohne große Hilfsmittel zuverlässig durchführbar. Auch bei diesem Diagnostikinstrument trägt Erfahrung mit der Bewertung der Sprache von Dysarthrie Patienten zu einem genaueren Ergebnis bei. Die Reliabilität und Validität wurden durch mehrere Studien aus verschiedenen Ländern bestätigt. 
 
@@ -270,7 +270,7 @@ In der Bewertungsskala werden 5 Stufen von a (normale Funktion) bis e (keine Fun
 Durch das direkte Eintragen der Testergebnisse im Diagramm, zeigt sich schnell welche Funktionen erhalten und welche beeinträchtigt zu sein scheinen. 
 Bestimmte Formen der Dysarthrie können anhand der Mittelwerte und Standardabweichungen eindeutig voneinander unterschieden werden. In der Handanweisung ist ein Überblick über 5 Ergebnismuster enthalten.
 
-#### Vergleich
+#### VERGLEICH
 
 Anwendbarkeit zur Therapieableitung/–evaluation 
 
@@ -393,7 +393,7 @@ reduzierte Muskelaktivität anfordern, z.B. durch
 - weiche, behauchte Stimmeinsätze
 - Übungen mit weichen Ganzkörperbewegungen (z.B. Geh-/ Tanzbewegungen, Modulation mit entsprechenden Armbewegungen)
 
-#### Anwendung in den Funktionskreisen bei hypotoner/ hypertoner DAP
+#### ANWENDUNG IN DEN FUNKTIONSKREISEN BEI HYPOTONER/ HYPERTONER DAP
 
 Zu den Therapiezielen im Funktionskreis Respiration zählt die Verbesserung der Atem-Sprech-Koordination und Sprechphasenlänge sowie die Regulation des subglottischen und oropharyngealen Anblasedrucks, um Voraussetzungen für die Funktionskreise Phonation, Resonanz & Artikulation zu schaffen.
 
@@ -475,12 +475,12 @@ kommunikationsorientiert:
 - hörerorientierte Strategien
 - Interaktionsstrategien
 
-#### Hyperkinetische DAP
+#### HYPERKINETISCHE DAP
 
 Hyperkinetische Dysarthrophonien lassen sich mit sprachtherapeutischer Übungstherapie allein kaum zu beeinflussen. Meist muss die zugrundeliegende Bewegungsstörung medikamentös behandelt werden. 
 Die Therapieziele für die sprachtherapeutische Intervention sind die Änderung der Sprechstimmlage, Lautstärke sowie dem Sprechtempo und das Verkürzen der Sprechphasen. Welche durch kompensatorische Techniken erreicht werden können. Ein weiteres wichtiges Ziel stellt das Unterstützen und Fördern der Kommunikationsbereitschaft dar.
 
-#### Anwendung in den Funktionskreisen bei ataktischer DAP
+#### ANWENDUNG IN DEN FUNKTIONSKREISEN BEI ATAKTISCHER DAP
 
 Bei ataktischen Dysarthrophonien liegt der Fokus auf behavioraler Therapie, da prothetische, operative und medikamentöse Therapien hierbei nicht möglich oder sinnvoll sind. In der Sprachtherapie sind die Ziele in erster Linie die Verbesserung der Selbstwahrnehmung sowie das Erlernen und Anwenden von Strategien für verständlicheres Sprechen.
 Weitere Therapieziele sind:
@@ -522,7 +522,7 @@ Kompensatorisch:
 - Flüstern
 - Kieferstabilisierung (nimmt „Störfaktoren“ raus)
 
-#### Therapiematerial
+#### THERAPIEMATERIAL
 
 **ArtikuList**
 

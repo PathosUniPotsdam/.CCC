@@ -49,9 +49,6 @@ Als klinische Prädikatoren einer Dysphagie gelten die folgenden Symptome:
 *	verändertes Esstempo
 *	Nahrungsvermeidung / -verweigerung
 
-## Differentialdiagnostik
-Begleitend können [Dysarthrophonien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Dysarthrophonie.html) (=Sprechstörungen) und / oder Dysphonien  (=Stimmstörungen) auftreten, sollten jedoch differentialdiagnostisch abgegrenzt werden.
-
 Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Schluckaktes in der _oralen, pharyngealen und / oder ösophagealen Phase.
 
 ##### PHYSIOLOGIE DES SCHLUCKENS
@@ -112,6 +109,9 @@ Bei der Aspiration gelangt Speichel oder Nahrung in den Bereich der Glottis bis 
 * _intradeglutitive_ Aspiration: während der Boluspassage durch den Pharynx
 * _postdeglutitive_ Aspiration: nach der Boluspassage durch den Pharynx
 * _stille_ Aspiration: Ausbleiben der Schutzreflexe
+
+## Differentialdiagnostik
+Begleitend können [Dysarthrophonien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Dysarthrophonie.html) (=Sprechstörungen) und / oder Dysphonien  (=Stimmstörungen) auftreten, sollten jedoch differentialdiagnostisch abgegrenzt werden.
 
 ## Diagnostik
 Die Dysphagiediagnostik dient der
@@ -266,7 +266,7 @@ Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als au
 #### ÜBERSICHT THERAPEUTISCHER INTERVENTIONEN: 
 [Dysphagie-Merkblatt für Therapeuten nach Alexander Fillbrandt](https://madoo.net/15853/dysphagie-merkblatt-fuer-therapeuten-stoerung-und-passende-verfahren/)
 
-## WEITERFÜHRENDE LINKS:
+## Weiterführende Links:
 * [dysphagie.ch](https://www.dysphagie.ch/)
 * [dysphagie-therapie.info](https://dysphagie-therapie.info/dysphagie-therapie/)
 * [das-dysphagiezentrum.de](https://www.das-dysphagiezentrum.de/wasistdysphagie.html)
@@ -274,7 +274,7 @@ Die funktionelle Dysphagietherapie (FDT) vereint sowohl _restituierende_, als au
 * [Iss Nix! Podcast](https://iss-nix.de/)
 
 
-## QUELLEN:
+## Quellen:
 * Bartolome, G., & Schröter-Morasch, H. (Herausgeber). (2018). Schluckstörungen Interdisziplinäre Diagnostik und Rehabilitation (6. Aufl.). München: Elsevier. 
 * Hotzenköcherle, S. (2013). Dysphagie: Diagnostik und Therapie. Schweiz Z Ernährungsmed, 2, 6-11.
 * Hotzenköcherle, S. & Schwegler, H. Dysphagie oder Schluckstörungen Schweiz [online]. Abgerufen von https://www.dysphagie.ch.

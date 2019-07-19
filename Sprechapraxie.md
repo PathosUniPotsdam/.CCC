@@ -7,7 +7,7 @@
 ## Definition
 
 Sprechapraxie beschreibt eine Störung in der motorischen Planung sowie Programmierung von bereits erlernten Sprechbewegungen und zählt zu den erworbenen sprechmotorischen Störungen. 
-Das Störungsbild wird den ideomotorischen Apraxien (Störung der Bewegungsplanung) zugeordnet und beruht nicht auf einem muskulären Problem. Der funktionale Störungsort der „motorischen Planung“ umfasst somit einen Fehler bei der Übersetzung der intakten phonologischen Repräsentation einer intakten Botschaft in die phonetisch-motorische Repräsentation. Die Ausführung durch die Artikulatoren ist jedoch nicht betroffen!
+Das Störungsbild wird den ideomotorischen Apraxien (Störung der Bewegungsplanung) zugeordnet und beruht nicht auf einem muskulären Problem. Der funktionale Störungsort der „motorischen Planung“ umfasst somit einen Fehler bei der Übersetzung der intakten phonologischen Repräsentation einer intakten Botschaft in die phonetisch-motorische Repräsentation. Die Ausführung durch die Artikulatoren ist jedoch nicht betroffen.
 
 * Apraxie – Unfähigkeit, eine bereits erlernte Bewegung willkürlich zielgerichtet auszuführen
 
@@ -29,9 +29,9 @@ Sprechapraxien können zum Beispiel aber auch bei Tumorerkrankungen, Entzündung
 
 ## Leitsymptomatik
 
-Bei einer Sprechapraxien lassen sich drei Symptomkategorien bzw. folgenden Beobachtungsebenen unterscheiden:
+Bei einer Sprechapraxie lassen sich drei Symptomkategorien bzw. folgenden Beobachtungsebenen unterscheiden:
 *	**segmentale Ebene** („articulation“): 
-Auf der Ebene der Lautbildung kommt es bei sprechapraktischen Patientin häufig zu phonematischen Paraphasien und zu phonetischen Entstellungen (Distorsionen). Zu den phonematischen Paraphasien zählen unter anderem Additionen, Elisionen, Substitutionen und Metathesen, welche vom eigentlichen Ziellaut abweichen, aber dennoch wohlgeformt klingen. Entstimmungen, (De-) Affrizierungen, Lautdehnungen, Vor- bzw. Rückverlagerungen sowie Ähnliches gehören zu den phonetischen Entstellungen. Dies sind Fehllaute, welche artikulatorisch entstellt sind und nicht wohlgeformt klingen. 
+Auf der Ebene der Lautbildung kommt es bei sprechapraktischen Patienten häufig zu phonematischen Paraphasien und zu phonetischen Entstellungen (Distorsionen). Zu den phonematischen Paraphasien zählen unter anderem Additionen, Elisionen, Substitutionen und Metathesen, welche vom eigentlichen Ziellaut abweichen, aber dennoch wohlgeformt klingen. Entstimmungen, (De-) Affrizierungen, Lautdehnungen, Vor- bzw. Rückverlagerungen sowie Ähnliches gehören zu den phonetischen Entstellungen. Dies sind Fehllaute, welche artikulatorisch entstellt sind und nicht wohlgeformt klingen. 
 Auf dieser Ebene kann es möglicherweise auch zu sogenannten „Mischformen“ kommen, genauer gesagt zu phonetisch entstellten phonematischen Paraphasien.
 *	**suprasegmentale Ebene** („prosody“): Auf der Ebene der Prosodie/ des Redeflusses sind oft Verlangsamungen und Unflüssigkeiten durch z.B. Fehlversuche oder Selbstkorrekturen, Nivellierung (Einebnung) von Akzentkontrasten und Intonationsmustern sowie Iterationen (Wiederholungen) von Lauten, Silben und Wörtern zu verzeichnen. Zudem fallen Betroffene häufig durch eine silbische (skandierende) Sprechweise und inadäquate bzw. inadäquat lange Pausen auf. Das Symptom der „Dysprosodie“, eine unnatürliche, monotone Sprechweise, ist momentan noch sehr umstritten, kann jedoch auch zu den primären Defiziten gezählt werden.  
 *	**Sprechverhalten** („fluency“): Auf der Ebene des Sprechverhaltens lassen sich bei den Patienten häufig artikulatorische, zum Teil stumme Suchbewegungen und sicht- sowie hörbare Sprechanstrengung ausmachen. Die Betroffenen besitzen meist ein stark ausgeprägtes Störungsbewusstsein. Die Sprechweise ist oft stark verlangsamt, wirkt unnatürlich und ist schwer verständlich, wodurch bei den Patienten auch ein hoher Leidensdruck durch die Unzufriedenheit mit den eigenen Leistungen zustande kommt.
@@ -78,15 +78,15 @@ Die folgende Tabelle vergleicht die drei oben genannten Störungsbilder, ausgehe
 
 **Allgemeine diagnostische Fragestellung:** Liegt bei dem getesteten Patienten eine Sprechapraxie vor? Wenn ja, wie stark ist diese ausgeprägt (leicht-, mittel-, schwergradig) und mit welchem Störungsschwerpunkt (segmental oder suprasegmental)?
 
-#### 10-Punkte- Checkliste
+#### 10-PUNKTE-CHECKLISTE
 Das mögliche Vorliegen einer Sprechapraxie kann zum Beispiel mit dem Screening der 10-Punkte-Checkliste aus den „Hierarchischen Wortlisten“ (Liepold et. al, 2003) überprüft werden.  Diese Liste besteht aus 10 aufeinanderfolgenden Fragen, die jeweils nur mit „Ja“ oder „Nein“ beantwortet werden. Die zeitsparende Testung wird von dem Untersucher selbst ausgeführt, dabei stützt er sich auf Fakten aus Anamnese, Spontansprachanalyse und anderen Vorbefunden.  Es handelt sich um eine rein quantitative Auswertung, denn je mehr Ja-Antworten gegeben werden, desto höher ist die Wahrscheinlichkeit für das Vorliegen einer Sprechapraxie. Vor allem die Punkte 2. und 3. sind hierbei obligatorisch. Punkt 7. sowie 8. verdeutlichen die Ausprägung des Störungsbewusstseins und Punkt 10. kann auf eine bukkofaziale Apraxie hindeuten, welche die Therapie bei einem nichtsprachlichen Ansatz stark einschränken würde. 
 Alles in allem sind eine sichere Diagnosestellung sowie eine Profilbildung mit diesem Test jedoch nicht möglich, da einzelne Punkte auch auf eine Dysarthrophonie (Punkt 3. und 6.) oder Aphasie (Punkt 9.) deuten können. Weitere Diagnostiken sollten dementsprechend vorgenommen werden. 
-Dieser Test ist nicht validiert!
+Dieser Test ist nicht validiert.
 
 ![10-Punkte-Checkliste](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/10-Punkte-Checkliste-klein.png)
 10-Punkte-Checkliste
 
-#### Hierarchische Wortlisten 
+#### HIERARCHISCHE WORTLISTEN 
 Die Hierarchischen Wortlisten von Liepold et. al (2003) bilden bisher das einzige Screening-Verfahren zur sprechapraktischen Diagnostik in Deutschland. Dieses perzeptive Verfahren ist bei leichter bis mittelschwerer Sprechapraxie anwendbar und ermöglicht als Nachsprechtest vor allem die Betrachtung von phonetischen sowie phonologischen Fehlern und des Redeflusses. Final kann ein Profil erstellt werden, welches Aussagen über den Wortlängeneinfluss, die Komplexität von Silbenstrukturen und der Lexikalität auf die Sprechfähigkeit hat.
 Dieser Test kann zudem zur Verlaufskontrolle angewendet werden.
 
@@ -131,7 +131,7 @@ Neben den drei Fehlerkategorien können auch noch weitere Merkmale wie Sprechans
 Trotzdem bei jedem Untersucher die Fähigkeit des analytischen Hörens unterschiedlich stark ausgeprägt ist, kann man anhand der signifikanten Übereinstimmungen von einer guten Auswertungsobjektivität reden. Die Hierarchischen Wortlisten haben eine hohe innere Konsistenz und weisen eine gute Konstruktvalidität auf. Die Abbildung des Schweregrades in diesem Test stimmt mit klinischen Schweregradsurteilen überein. Es liegt jedoch keine ausführliche Normierung anhand von angegeben Prozenträngen, Normwerten oder Äquivalentnormen vor. 
 Dieses Screening-Verfahren ist nicht validiert. 
 
-**Weitere mögliche Diagnostikverfahren:**
+#### WEITERE MÖGLICHE DIAGNOSTIKVERFAHREN:
 *	umfassende Spontansprachanalyse
 *	Beurteilung der (gelenkten) Spontansprache nach Mangold et al. (2001) anhand eines Interviews mit spezifischen Fragen aus dem Alltag des Patienten - schwere Sprechapraxie
 *	Verständlichkeitsmessung mittels NTID-Skala nach Samar u. Metz (1988) und der Bewertung der Vermittlungsmodalitäten nach Mangold et al. (2001)
@@ -189,7 +189,7 @@ Mögliche **Therapieziele** sind folgende:
   -	eigene Wünsche und Entscheidungen sollen verbal geäußert werden
 
 
-#### Therapieansätze 
+#### THERAPIEANSÄTZE
 Je nach Symptomausprägung und Stimulierbarkeit des Patienten sollte ein passendes Therapieverfahren individuell ausgewählt werden. Wärend der Behandlung ist darauf zu achten, dass ganzheitliche wie auch segmentale Aspekte einbezogen werden. 
 Im Bereich des Störungsbildes der Sprechapraxie wurden _fünf Ansätze_ (Bereiche) entwickelt, nach denen man die Therapie, auch in Kombination miteinander, ausrichten kann:
 
@@ -202,11 +202,11 @@ Diese setzen auf Einzellaut- oder Silbenebene an und werden erst anschließend z
    - Verfahren: Phonetische Ableitung und Progressive Approximation (Van Riper u. Irvin, 1958); Phonetic Placement (Rosenbek, 1983); Phonemdrill (Darley et al., 1975); 8-Stufen-Kontinuum (Rosenbek et al., 1973) und die Sprechapraxietherapie nach Luzzatti und Springer (Springer, 1995)
 
 **Wortstrukturelle Ansätze**
-Diese Stellen das Wortganze in den Fokus. Die Akzentstruktur sowie die Silbenanzahl bleiben gleich, werden jedoch artikulatorisch vereinfacht oder systematisch variiert.
+Diese stellen das Wortganze in den Fokus. Die Akzentstruktur sowie die Silbenanzahl bleiben gleich, werden jedoch artikulatorisch vereinfacht oder systematisch variiert.
    - Verfahren: Phonetische Kontrastierung – Minimalpaartechnik (Wertz et al.,1984); Multiple Input Phoneme Therapy (Stevens u. Glaser, 1983) und der Metrische Ansatz (Jaeger, 1991)
 
 **Cueing-Techniken**
-Diese wenden gestische, visuelle oder taktil-kinästhetische Hinweise ein, um Sprechbewegungen zu unterstützen. 
+Diese wenden gestische, visuelle oder taktil-kinästhetische Hinweise an, um Sprechbewegungen zu unterstützen. 
    - Verfahren: Gestische Reorganisation (Romero, 1980); Gesten/Zeichensprache (Skelly et al., 1974) und PROMPT (Chumpelik, 1984) / TAKTKIN (Birner-Janusch, 2001)
 
 **Alternative und/oder augmentative Kommunikationsformen**
@@ -216,7 +216,7 @@ Diese sind für schwerbetroffene Patienten geeignet, welche trotz Therapie nicht
 ![Kommunikationstafel](https://pableo.files.wordpress.com/2008/10/komtafelresized.png)
 Kommunikationstafel
 
-#### Vermittlungstechniken
+#### VERMITTLUNGSTECHNIKEN
 Innerhalb der verschiedenen Ansätze stehen dem Therapeuten unterschiedliche _Vermittlungstechniken_ zur Verfügung, die dem Patienten Verständnis für die Phonetik geben sollen, an welcher derzeit gearbeitet wird. Auch diese Techniken können/ sollten zur Unterstützung der Lautbildung miteinander kombiniert werden: 
 
 **Auditiv**

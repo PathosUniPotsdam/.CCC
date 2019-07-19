@@ -60,6 +60,7 @@ Betroffene werden aufgrund Ihrer verwaschenen Sprache oft des Alkoholismus besch
 Verständliches Sprechen ist nur möglich, wenn die richtigen Muskeln der Funktionskreise mit dem richtigen Tonus richtig koordiniert werden.
 
 ![Octocat](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Bildschirmfoto%202019-05-25%20um%2013.08.10.png?raw=true)
+_Abb.1 Funktionskreise Sprechen_
 
 Sobald eine Störung vorliegt, kommt es zu diversen Symptomen in den verschiedenen Funktionskreisen.
 
@@ -161,6 +162,7 @@ Dysarthrophonien lassen sich abgrenzen von Störungen höherer kortikaler Hirnze
 Während man den Störungsort der [Sprechapraxien](https://pathosunipotsdam.github.io/PathosUniPotsdam/Sprechapraxie.html) auf der Ebene des Planens und Programmierens einordnet, liegt der Störungsort der Dysarthrophonien auf der Ebene des Programmierens und Ausführens.
 
 ![Funktionelle Neuroanatomie des Sprechens](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Bildschirmfoto%202019-05-25%20um%2012.43.58.png?raw=true)
+_Abb.2 Funktionelle Neuroanatomie des Sprechens_
 
 Die wesentlichen Merkmale zur Unterscheidung von einer Sprechapraxie und einer Dysarthrophonie sind artikulatorische Suchbewegungen und ein konstantes Fehlermuster. 
 
@@ -182,6 +184,7 @@ durchgeführt.
 
 Beispiel aus dem Material für die Aufgabe Bildbeschreibung:
 ![Bildergeschichte](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Bildergeschichte%20BoDys.png)
+_Abb.3 Bildgeschichte_
 
 Hilfreich ist es, die Reaktionen des Patienten mit einer Audio- oder Videoaufnahme für die Auswertung festzuhalten. Die Beurteilung erfolgt nämlich ausschließlich durch die auditive Wahrnehmung des Sprachtherapeuten. Hier führt möglichst viel Erfahrung mit der Erkennung von Merkmalen gesprochener Sprache und insbesondere pathologischer Auffälligkeiten zu einem besseren Ergebnis.
 
@@ -199,6 +202,7 @@ Voraussetzung für die Durchführung ist, dass der Patient 30 Minuten an einem T
 **Auswertung**
 
 ![Auswertungsbogen1](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/BoDys1.jpeg)
+_Abb.4 BoDys Auswertungsbogen_
 
 Die Bewertung erfolgt nach vollständigem Anhören der Aufzeichnungen. Im Auswertungbogen werden zunächst die Auftretenshäufigkeiten der Merkmale notiert. Anhand der Häufigkeit der Merkmale kann dann ein Punktwert für die einzelnen Modalitäten vergeben werden, wobei gilt:
 
@@ -215,6 +219,8 @@ Die Bewertung erfolgt nach vollständigem Anhören der Aufzeichnungen. Im Auswer
 Wichtig ist zu beachten, dass der Punktwert nicht die Anzahl der Auftretenshäufigkeit eines Merkmals angibt!
 
 ![Auswertungsbogen2](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/BoDys2.jpeg)
+_Abb.5 BoDys Auswertungsbogen_
+
 In dem Störungsprofil (siehe Protokollbogen) können die Leistungen des Patienten eingetragen und direkt mit der Eichstichprobe verglichen werden. Der T-Wert 50 entspricht dem Mittleren Ausprägungswert der Stichprobe und jeweils 10 T-Wertpunkte entsprechen einer Standardabweichung.
 
 Anschließend sollte eine zweite Auswertung mit geänderter Auswertungsreihenfolge erstellt werden, um mögliche Verfälschungen durch Reihenfolgeeffekte ausschließen zu können.
@@ -239,6 +245,7 @@ Untertests:
 - Andere Faktoren
 
 ![Protokollbogen](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Frenchay%20Protokollbogen.png)
+_Abb.6 FDA-2 Protokollbogen_
 
 **Testdurchführung**
 
@@ -348,7 +355,7 @@ Da es zahlreiche Medikamente gibt, die eine Wirkung auf das motorische System ha
 Durch eine gute Positionierung des Patienten kann der Tonus entsprechend reguliert werden. Bei einer *hypotonen* Dysarthrophonie ist die Tonuserhöung und bei einer *hypertonen* Dysarthrophonie die Tonussenkung zielführend. Die Schlüsselpunkte des Patienten sollten übereinander sein, sodass es für Ihn leichter wird Sprechübungen möglichst genau durchzuführen. Die Stimme eines jeden Menschens wird durch die Körperhaltung beeinflusst. 
 
 ![Aufrichtung über die Schlüsselpunkte](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/Aufrichtung%20über%20die%20Schlüsselpunkte.png)
-Aufrichtung über die Schlüsselpunkte
+_Abb.7 Aufrichtung über die Schlüsselpunkte_
 
 Eine *Tonussenkung* kann erreicht werden, indem dem Patienten eine große Unterstützungsfläche gegeben wird, wodurch er sehr viel weniger eigene Muskelaktivität braucht, um sich aufrecht halten zu können. Diese Unterstützungsdfläche sollte an jeden Patienten idividuell angepasst werden und eine gute und für den Patienten möglichst angenehme Arbeitsgrundlage schaffen. Die Arme des Patienten können z.B. durch Kissen etwas erhöht gelagert werden. In Verbindung mit einer hohen Rückenlehne kann eine Aufrichtung des Schultergürtels, des Thorax und des Kopfes erreicht werden. Zudem kann beispielsweise mit einer Decke, die um den Rumpf gewickelt wird, eine Sabilisierung der Rumpfmuskulatur erzielt werden. 
 
@@ -547,7 +554,7 @@ Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist e
 5. Quantifizierung
 - Messung und Dokumentation der Stimmleistungen in LSVT - Protokollbogen
 
-### weiterführende Links
+### Weiterführende Links
 - [www.lsvt.de](http://www.lsvt.de/start/)
 - [ICF und Dysarthrie](https://www.yumpu.com/de/document/read/6543347/icf-und-dysarthrie-deutscher-bundesverband-fur-logopadie-ev)
 - [aktuelle Leitlinien Dysarthrie](https://www.dgn.org/leitlinien/3647-ll-030-103-neurogene-sprechstoerungen-dysarthrien-2018)

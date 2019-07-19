@@ -574,5 +574,14 @@ Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist e
 - Ziegler, W., Schölderle, T., Staiger, A., Vogel, M. (2018). _BoDys - Bogenhausener Dysarthrieskalen_ Hogrefe
 - Ziegler, W., Vogel, M. (2010). _Dysarthrie verstehen-untersuchen-behandeln._ Stuttgart: Thieme Verlag
 
+**Bilder**
+- Abb.1: 
+- Abb.2: 
+- Abb.3: 
+- Abb.4: 
+- Abb.5: 
+- Abb.6: 
+- Abb.7: 
+
 
 

@@ -54,7 +54,7 @@ Dysarthrophonien treten in unterschiedlicher Form und mit einer variierenden Sym
 
 ## Leitsymptomatik
 
-Betroffene werden aufgrund Ihrer verwaschenen Sprache oft des Alkoholismus beschuldigt. Diese negativen Reaktionen von Kommunikationspartnern rufen oft depressive Begleitsymptome bei den Betroffenen hervor. Denn soweit keine weiteren Erkrankungen vorliegen sind Sie kognitiv unbeeinträchtigt und haben ein Störungsbewusstsein.
+Betroffene werden aufgrund Ihrer verwaschenen Sprache oft des Alkoholismus beschuldigt. Diese negativen Reaktionen von Kommunikationspartnern rufen oft depressive Begleitsymptome bei den Betroffenen hervor. Denn soweit keine weiteren Erkrankungen vorliegen sind sie kognitiv unbeeinträchtigt und haben ein Störungsbewusstsein.
 
 #### FUNKTIONSKREISE
 Verständliches Sprechen ist nur möglich, wenn die richtigen Muskeln der Funktionskreise mit dem richtigen Tonus richtig koordiniert werden.
@@ -171,7 +171,7 @@ Dysarthrische Patienten zeigen keine artikulatorischen Suchbewegungen, da die Pl
 Die Symptome einer Dysarthrie äußern sich konstant. Das Sprechen weist durchgehend die gleichen Defizite auf. Wohingegen Symptome einer Sprechapraxie inkonstant auftreten und es auch zu Inseln intakter Sprachproduktion kommen kann.
 
 ## Diagnostik
-_Im Folgenden werden zwei mögliche Diagnostikverfahren kurz vorgestellt und verglichen. Dies soll lediglich einen Überblick verschaffen und reicht nicht ausschließlich für die Durchführung aus. Bitte machen Sie sich vor der Anwendung mit den Handanweisungen der jeweiligen Verfahren vertraut!_
+_Im Folgenden werden zwei mögliche Diagnostikverfahren kurz vorgestellt und verglichen. Dies soll lediglich einen Überblick verschaffen und reicht nicht ausschließlich für die Durchführung aus. Bitte machen Sie sich vor der Anwendung mit den Handanweisungen der jeweiligen Verfahren vertraut._
 
 #### BOGENHAUSENER DYSARTHRIESKALEN (BoDys)
 Die Bogenhausener Dysarthrieskalen sind ein normiertes und validiertes Untersuchungsmaterial für die Diagnostik einer Dysarthrophonie. Die Ergebnisse ermöglichen eine Einschätzung des Gesamtschweregrades sowie ausfürliche Hinweise auf Störunngschwerpunkte anhand der Erstellung eines Störungsprofils. Es werden ausschließlich sprachliche Untersuchungsaufgaben in den Modalitäten
@@ -216,7 +216,7 @@ Die Bewertung erfolgt nach vollständigem Anhören der Aufzeichnungen. Im Auswer
 
 0 = Sehr schwere Störung – Die Sprechweise ist durch Störungsmerkmale, die der Skala zuordenbar sind, in schwerster Ausprägung dominiert.
 
-Wichtig ist zu beachten, dass der Punktwert nicht die Anzahl der Auftretenshäufigkeit eines Merkmals angibt!
+Wichtig ist zu beachten, dass der Punktwert nicht die Anzahl der Auftretenshäufigkeit eines Merkmals angibt.
 
 ![Auswertungsbogen2](https://raw.githubusercontent.com/PathosUniPotsdam/PathosUniPotsdam/master/BoDys2.jpeg)
 _Abb.5 BoDys Auswertungsbogen_
@@ -359,7 +359,7 @@ _Abb.7 Aufrichtung über die Schlüsselpunkte_
 
 Eine *Tonussenkung* kann erreicht werden, indem dem Patienten eine große Unterstützungsfläche gegeben wird, wodurch er sehr viel weniger eigene Muskelaktivität braucht, um sich aufrecht halten zu können. Diese Unterstützungsdfläche sollte an jeden Patienten idividuell angepasst werden und eine gute und für den Patienten möglichst angenehme Arbeitsgrundlage schaffen. Die Arme des Patienten können z.B. durch Kissen etwas erhöht gelagert werden. In Verbindung mit einer hohen Rückenlehne kann eine Aufrichtung des Schultergürtels, des Thorax und des Kopfes erreicht werden. Zudem kann beispielsweise mit einer Decke, die um den Rumpf gewickelt wird, eine Sabilisierung der Rumpfmuskulatur erzielt werden. 
 
-Eine *Tonuserhöhung* erreicht man, indem man die Unterstützungsfläche für den Patienten verkleinert. Der Patient muss dann den Muskeltonus erhöhen, um die Schlüsselpunkte übereinander halten zu können. Hierbei müssen die Therapeuten gut beobachten, wann der Patient erschöpft ist und sich nicht mehr selbstständig ohne seine gewohnte Unterstützungsfläche halten kann. Bei vielen Patienten kann die Unterstützungsfläche nur wenig reduziert werden. Ziel ist eine gute Haltung als Grundlage für die Sprechübungen zu bekommen, nicht das körperliche Training des Patienten!
+Eine *Tonuserhöhung* erreicht man, indem man die Unterstützungsfläche für den Patienten verkleinert. Der Patient muss dann den Muskeltonus erhöhen, um die Schlüsselpunkte übereinander halten zu können. Hierbei müssen die Therapeuten gut beobachten, wann der Patient erschöpft ist und sich nicht mehr selbstständig ohne seine gewohnte Unterstützungsfläche halten kann. Bei vielen Patienten kann die Unterstützungsfläche nur wenig reduziert werden. Ziel ist eine gute Haltung als Grundlage für die Sprechübungen zu bekommen, nicht das körperliche Training des Patienten.
 
 **2. Facio-orale Stimulation**
 

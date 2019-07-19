@@ -547,7 +547,7 @@ Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist e
 5. Quantifizierung
 - Messung und Dokumentation der Stimmleistungen in LSVT - Protokollbogen
 
-#### weiterführende Links
+### weiterführende Links
 - [www.lsvt.de](http://www.lsvt.de/start/)
 - [ICF und Dysarthrie](https://www.yumpu.com/de/document/read/6543347/icf-und-dysarthrie-deutscher-bundesverband-fur-logopadie-ev)
 - [aktuelle Leitlinien Dysarthrie](https://www.dgn.org/leitlinien/3647-ll-030-103-neurogene-sprechstoerungen-dysarthrien-2018)

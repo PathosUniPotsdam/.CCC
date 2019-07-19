@@ -60,7 +60,7 @@ Betroffene werden aufgrund Ihrer verwaschenen Sprache oft des Alkoholismus besch
 Verständliches Sprechen ist nur möglich, wenn die richtigen Muskeln der Funktionskreise mit dem richtigen Tonus richtig koordiniert werden.
 
 ![Octocat](https://github.com/PathosUniPotsdam/PathosUniPotsdam/blob/master/Bildschirmfoto%202019-05-25%20um%2013.08.10.png?raw=true)
-_Abb.1 Funktionskreise Sprechen_
+_Abb.1 Funktionskreise der Sprechfunktion_
 
 Sobald eine Störung vorliegt, kommt es zu diversen Symptomen in den verschiedenen Funktionskreisen.
 
@@ -577,10 +577,8 @@ Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist e
 **Bilder**
 - Abb.1: 
 - Abb.2: 
-- Abb.3: 
-- Abb.4: 
-- Abb.5: 
-- Abb.6: 
+- Abb.3, Abb.4, Abb.5: BoDys Material Set (Ziegler, W., Schölderle, T., Staiger, A., Vogel, M. (2018). _BoDys - Bogenhausener Dysarthrieskalen_ Hogrefe)
+- Abb.6: FDA-2 Materialien (Enderby, Palmer (2012). _FDA-2 - Frenchay Dysarthrie Assessment._)
 - Abb.7: 
 
 

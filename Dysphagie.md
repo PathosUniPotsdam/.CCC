@@ -140,16 +140,16 @@ Der GUSS weist mit ca. 50% eine mittelmäßige Spezifität, jedoch mit ca. 100% 
 
 Das Screening besteht aus drei Teilen:
 
-**1. Voruntersuchung / indirekter Schluckversuch -> ja (1) vs. nein (0)**
+**1. Voruntersuchung / indirekter Schluckversuch → ja (1) vs. nein (0)**
   - Vigilanz (=Wachheit) über 15 Minuten
   - willkürliches Husten und oder Räuspern
   - Speichelschluck
   
-**2. Direkter Schluckversuch -> breiig vs. flüssig vs. fest**
+**2. Direkter Schluckversuch → breiig vs. flüssig vs. fest**
   - Schluckakt -> nicht möglich (0) / verzögert (1) / erfolgreich (2)
   - unwillkürliches Husten -> ja (1) / nein (0)
-  - Drooling -> ja (1) / nein (0)
-  - Stimmänderung (Phonationsprobe) -> ja (1) / nein (0)
+  - Drooling → ja (1) / nein (0)
+  - Stimmänderung (Phonationsprobe) → ja (1) / nein (0)
  
 **3. Evaluation**
   - Ergebnisse 

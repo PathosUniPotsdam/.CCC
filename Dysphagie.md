@@ -49,7 +49,7 @@ Als klinische Prädikatoren einer Dysphagie gelten die folgenden Symptome:
 *	verändertes Esstempo
 *	Nahrungsvermeidung / -verweigerung
 
-Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Schluckaktes in der _oralen, pharyngealen und / oder ösophagealen Phase.
+Dysphagien führen zur funktionellen und / oder strukturellen Schädigung des Schluckaktes in der _oralen, pharyngealen und / oder ösophagealen Phase._
 
 ##### PHYSIOLOGIE DES SCHLUCKENS
 

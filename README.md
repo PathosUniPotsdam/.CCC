@@ -1,5 +1,3 @@
- Link: [https://pathosunipotsdam.github.io/PathosUniPotsdam/](https://pathosunipotsdam.github.io/PathosUniPotsdam/Willkommen.html)
-
 # Herzlich Willkommen
 
 ----------------
@@ -11,4 +9,4 @@ Viel Spaß beim Durchstöbern!
 ### Wer wir sind?
 
 Wir sind Studierende des Studiengangs Bsc. Patholinguistik an der Universität in Potsdam. Unser Ziel ist es, zusammen eine möglichst benutzerfreundliche Website zu erstellen, auf der verschiedene Störungsbilder ausfürlich dargestellt werden. 
-Die Website wird im Laufe der Zeit aktualisiert und erweitert. 
+Die Website kann im Laufe der Zeit mit Eurer Hilfe aktualisiert und erweitert werden. 

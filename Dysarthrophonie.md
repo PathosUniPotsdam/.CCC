@@ -575,11 +575,8 @@ Das LSVT - Lee Silverman Voice Treatment (Ramig L, Mead Bonitati M., 1987) ist e
 - Ziegler, W., Vogel, M. (2010). _Dysarthrie verstehen-untersuchen-behandeln._ Stuttgart: Thieme Verlag
 
 **Bilder**
-- Abb.1: 
-- Abb.2: 
+- Abb.1: Frank, U., Skript 10 DAP Funktionskreise Neuroanatomie der Sprechfunktion SCRIPT, Seite 4
+- Abb.2: Schünke, M., Schulte, E., & Schumacher, U. (2009). _Prometheus Lernatlas - Kopf, Hals und Neuroanatomie (2. Auflage)._
 - Abb.3, Abb.4, Abb.5: BoDys Material Set (Ziegler, W., Schölderle, T., Staiger, A., Vogel, M. (2018). _BoDys - Bogenhausener Dysarthrieskalen_ Hogrefe)
 - Abb.6: FDA-2 Materialien (Enderby, Palmer (2012). _FDA-2 - Frenchay Dysarthrie Assessment._)
-- Abb.7: 
-
-
-
+- Abb.7: Ziegler, W., & Vogel, M. (2010). _Dysarthrie. Verstehen - untersuchen - behandeln._ Stuttgart: Thieme.
